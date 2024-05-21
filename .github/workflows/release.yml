@@ -1,0 +1,26 @@
+name: Releases
+
+on:
+  push:
+    tags:
+      - "v*"
+
+jobs:
+  release:
+    name: release
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: "build ts"
+        run: |
+          npm i pnpm -g
+          pnpm i
+          pnpm run build
+
+
+      - uses: ncipollo/release-action@v1
+        with:
+          artifacts: "./es5/*.js"
