@@ -1,4 +1,4 @@
 {
-	"speed": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/speed.js",
+  "speed": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/speed.js",
   "autoload": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/autoload.js"
 }
