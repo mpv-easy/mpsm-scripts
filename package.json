@@ -17,7 +17,7 @@
   "scripts": {
     "bundle": "esbuild ./src/*.ts --bundle --outdir=./bundle",
     "meta": "tsx ./build/meta.ts",
-    "build": "pnpm run bundle && pnpm run es5 && npm run meta",
+    "build": "pnpm run bundle && pnpm run es5 && pnpm run meta",
     "es5": "babel --presets  @babel/preset-env ./bundle -d es5 --plugins ./babel/hack.js",
     "lint": "biome check --apply-unsafe  ./",
     "format": "biome format --write  ./"
