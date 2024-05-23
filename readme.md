@@ -1,6 +1,6 @@
 ## @mpv-easy/mpsm-scripts
-This repository is responsible for maintaining commonly used js scripts and making them installable via [@mpv-easy/mpsm](https://github.com/mpv-easy/mpv-easy/tree/main/mpv-mpsm). Each script can be used individually or in combination, and will try to avoid functional conflicts caused by multiple scripts.
 
+This repository is responsible for maintaining commonly used js scripts and making them installable via [@mpv-easy/mpsm](https://github.com/mpv-easy/mpv-easy/tree/main/mpv-mpsm). Each script can be used individually or in combination, and will try to avoid functional conflicts caused by multiple scripts.
 
 ```bash
 npm i @mpv-easy/mpsm -g
@@ -30,10 +30,13 @@ mpsm update --all
 ```
 
 ## script
+
 ### meta info
+
 In order to be recognized by mpsm, you need to add some information at the beginning of the script
 
 We use the idea similar to the tampermonkey script.
+
 ```js
 // ==UserScript==
 // @name         autoload
@@ -43,14 +46,32 @@ We use the idea similar to the tampermonkey script.
 // @downloadURL  https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/autoload.js
 // ==/UserScript==
 
-
-print("hello autoload script")
+print('hello autoload script');
 ```
+
 ### add a new script
+
 You can add new script to [scripts.json](./scripts.json) by submitting a PR
 Or
+
 ```bash
 mpsm install htpp://<your-script-url>
 ```
+
 ### script name
+
 The script file name should be consistent with the script name in meta, in order to avoid problems in some extreme cases. If you encounter problems, please open an issue
+
+## dev
+
+### fish
+
+```fish
+set -x MPV_SCRIPT_DIR=/your_mpv_dir/portable_config/scripts ; pnpm run dev
+```
+
+### bash
+
+```bash
+export MPV_SCRIPT_DIR=/your_mpv_dir/portable_config/scripts && pnpm run dev
+```
