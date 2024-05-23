@@ -1,7 +1,7 @@
 {
   "name": "@mpv-easy/mpsm-scripts",
   "private": true,
-  "version": "0.1.2",
+  "version": "0.1.3",
   "files": [
     "bin",
     "dist",
