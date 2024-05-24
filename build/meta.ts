@@ -1,10 +1,10 @@
 import { writeFileSync, readFileSync, readdirSync } from "node:fs";
 import { join } from "node:path";
 
-const files = readdirSync("./es5");
+const files = readdirSync("./src").filter((i) => i.endsWith(".ts"));
 for (const name of files) {
-	const metaPath = join("./src", name.replace(".js", ".meta.js"));
-	const jsPath = join("./es5", name);
+	const metaPath = join("./src", name.replace(".ts", ".meta.js"));
+	const jsPath = join("./es5", name.replace(".ts", ".js"));
 	const meta = readFileSync(metaPath, "utf8");
 	const js = readFileSync(jsPath, "utf8");
 

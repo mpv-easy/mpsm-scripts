@@ -1,10 +1,20 @@
 import { PropertyNumber, addKeyBinding } from "@mpv-easy/tool";
-
 const speed = new PropertyNumber("speed");
-
 let mpvSpeed = speed.value;
-let handle = 0;
-const delay = 200;
+
+const steps = [
+	{
+		delay: 200,
+		accelerate: 2,
+	},
+	{
+		delay: 2000,
+		accelerate: 4,
+	},
+];
+
+const handleList = Array(steps.length).fill(0);
+
 addKeyBinding(
 	"MOUSE_BTN0",
 	"MPV_EASY_SPEED",
@@ -13,15 +23,20 @@ addKeyBinding(
 			case "down": {
 				mpvSpeed = speed.value;
 
-				handle = +setTimeout(() => {
-					speed.value = mpvSpeed * 2;
-				}, delay);
+				for (let i = 0; i < steps.length; i++) {
+					const { delay, accelerate } = steps[i];
+					handleList[i] = +setTimeout(() => {
+						speed.value = mpvSpeed * accelerate;
+					}, delay);
+				}
 
 				break;
 			}
 			case "up": {
 				speed.value = mpvSpeed;
-				clearTimeout(handle);
+				for (const handle of handleList) {
+					clearTimeout(handle);
+				}
 				break;
 			}
 			case "press": {
