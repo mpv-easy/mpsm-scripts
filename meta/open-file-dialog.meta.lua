@@ -1,0 +1,8 @@
+-- ==UserScript==
+-- @name         open-file-dialog
+-- @version      0.1.0
+-- @description  open-file-dialog is a script for mpv that can launch a regular Windows file open dialog from a key binding (default: Ctrl+O.)
+-- @author       mpv-easy
+-- @downloadURL  https://raw.githubusercontent.com/rossy/mpv-open-file-dialog/master/open-file-dialog.lua
+-- @updateURL    https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/open-file-dialog.meta.lua
+-- ==/UserScript==

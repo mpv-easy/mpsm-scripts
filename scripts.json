@@ -1,5 +1,6 @@
 {
-  "autoload": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/autoload.js",
-  "speed": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/speed.js",
-  "vlc-aspect-ratio": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/vlc-aspect-ratio.js"
+	"autoload": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/autoload.js",
+	"speed": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/speed.js",
+	"open-file-dialog": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/open-file-dialog.meta.lua",
+	"vlc-aspect-ratio": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/vlc-aspect-ratio.js"
 }
