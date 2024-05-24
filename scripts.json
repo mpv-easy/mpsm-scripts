@@ -1,4 +1,8 @@
 {
+	"firequalizer15": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/firequalizer15.meta.lua",
+	"visualizer": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/visualizer.meta.lua",
+	"autocrop": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/autocrop.meta.lua",
+	"acompressor": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/acompressor.meta.lua",
 	"autoload": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/autoload.js",
 	"speed": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/speed.js",
 	"open-file-dialog": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/open-file-dialog.meta.lua",

@@ -1,0 +1,8 @@
+-- ==UserScript==
+-- @name         firequalizer15
+-- @version      0.1.0
+-- @description  Linear Phase 15-Bands Equalizer
+-- @author       mfcc64
+-- @downloadURL  https://raw.githubusercontent.com/mfcc64/mpv-scripts/master/firequalizer15.lua
+-- @updateURL    https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/firequalizer15.meta.lua
+-- ==/UserScript==

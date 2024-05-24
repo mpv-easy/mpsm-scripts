@@ -1,0 +1,8 @@
+-- ==UserScript==
+-- @name         visualizer
+-- @version      0.1.0
+-- @description  various audio visualization
+-- @author       mfcc64
+-- @downloadURL  https://raw.githubusercontent.com/mfcc64/mpv-scripts/master/visualizer.lua
+-- @updateURL    https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/visualizer.meta.lua
+-- ==/UserScript==
