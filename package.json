@@ -1,6 +1,5 @@
 {
 	"name": "@mpv-easy/mpsm-scripts",
-	"private": true,
 	"version": "0.1.9-alpha.1",
 	"files": ["bin", "dist", "es5", "bundle", "readme.md", "package.json"],
 	"description": "@mpv-easy/mpsm-scripts",
