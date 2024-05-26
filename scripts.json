@@ -1,4 +1,5 @@
 {
+	"sub2clipboard": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/sub2clipboard.js",
 	"firequalizer15": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/firequalizer15.meta.lua",
 	"visualizer": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/visualizer.meta.lua",
 	"autocrop": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/autocrop.meta.lua",

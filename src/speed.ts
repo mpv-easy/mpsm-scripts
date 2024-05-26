@@ -1,3 +1,4 @@
+import "@mpv-easy/polyfill";
 import { PropertyNumber, addKeyBinding } from "@mpv-easy/tool";
 const speed = new PropertyNumber("speed");
 let mpvSpeed = speed.value;

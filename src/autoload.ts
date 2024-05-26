@@ -1,3 +1,4 @@
+import "@mpv-easy/polyfill";
 import { autoload } from "@mpv-easy/autoload";
 import { updatePlaylist, getMpvPlaylist, registerEvent } from "@mpv-easy/tool";
 
