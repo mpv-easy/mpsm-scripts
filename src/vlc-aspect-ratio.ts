@@ -1,3 +1,5 @@
+import "@mpv-easy/polyfill";
+
 import {
 	print,
 	addKeyBinding,
