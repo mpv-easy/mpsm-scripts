@@ -5,8 +5,7 @@ const fnVar = (t) =>
 			t.functionExpression(null, [], t.blockStatement([])),
 		),
 	]);
-module.exports = function ({ types: t }) {
-	return {
+module.exports = ({ types: t }) => ({
 		visitor: {
 			FunctionDeclaration(path) {
 				path.node.body?.body?.unshift?.(fnVar(t));
@@ -15,5 +14,4 @@ module.exports = function ({ types: t }) {
 				// path.node.body?.body?.unshift?.(fnVar(t))
 			},
 		},
-	};
-};
+	});
