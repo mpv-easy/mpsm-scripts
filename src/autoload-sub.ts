@@ -58,7 +58,6 @@ export function autoloadSub() {
         writeFile(subPath, resp.text);
         commandv("sub-add", subPath);
       } catch (e) {
-        mkdir("./aaaa");
       }
     }
   } else {
