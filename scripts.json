@@ -1,14 +1,15 @@
 {
-	"mpv-easy-es5": "https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-easy-es5.js",
-	"mpv-easy-es6": "https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-easy-es6.js",
-	"sub2clipboard": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/sub2clipboard.js",
-	"firequalizer15": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/firequalizer15.meta.lua",
-	"visualizer": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/visualizer.meta.lua",
-	"autocrop": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/autocrop.meta.lua",
-	"acompressor": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/acompressor.meta.lua",
-	"autoload": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/autoload.js",
-	"autoload-sub": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/autoload-sub.js",
-	"speed": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/speed.js",
-	"open-file-dialog": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/open-file-dialog.meta.lua",
-	"vlc-aspect-ratio": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/vlc-aspect-ratio.js"
+  "mpv-translate": "https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-translate.js",
+  "mpv-easy-es5": "https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-easy-es5.js",
+  "mpv-easy-es6": "https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-easy-es6.js",
+  "sub2clipboard": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/sub2clipboard.js",
+  "firequalizer15": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/firequalizer15.meta.lua",
+  "visualizer": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/visualizer.meta.lua",
+  "autocrop": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/autocrop.meta.lua",
+  "acompressor": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/acompressor.meta.lua",
+  "autoload": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/autoload.js",
+  "autoload-sub": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/autoload-sub.js",
+  "speed": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/speed.js",
+  "open-file-dialog": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/open-file-dialog.meta.lua",
+  "vlc-aspect-ratio": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/vlc-aspect-ratio.js"
 }

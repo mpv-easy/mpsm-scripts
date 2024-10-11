@@ -1,4 +1,4 @@
-import "@mpv-easy/polyfill";
+import "@mpv-easy/polyfill"
 import {
   isHttp,
   fetch,
@@ -15,64 +15,63 @@ import {
   getProperty,
   registerEvent,
   mkdir,
-} from "@mpv-easy/tool";
+} from "@mpv-easy/tool"
 
-registerEvent("file-loaded", autoloadSub);
-observeProperty("path", "string", autoloadSub);
-registerEvent("start-file", autoloadSub);
+registerEvent("file-loaded", autoloadSub)
+observeProperty("path", "string", autoloadSub)
+registerEvent("start-file", autoloadSub)
 
 export function autoloadSub() {
-  const path = getProperty("path");
+  const path = getProperty("path")
   if (!path?.length) {
-    return;
+    return
   }
 
   const trackList = (getPropertyNative<TrackItem[]>("track-list") || []).filter(
     (i) => i.type === "sub",
-  );
+  )
   if (isHttp(path)) {
     const list = SubtitleTypes.map((i) => {
-      const s = path.split(".").slice(0, -1);
-      s.push(i);
-      return s.join(".");
-    });
-    const tmp = getenv("TMPDIR") || getenv("TMP") || getenv("tmp") || "./";
+      const s = path.split(".").slice(0, -1)
+      s.push(i)
+      return s.join(".")
+    })
+    const tmp = getenv("TMPDIR") || getenv("TMP") || getenv("tmp") || "./"
     for (const url of list) {
-      const name = getFileName(url);
+      const name = getFileName(url)
       if (!name?.length) {
-        continue;
+        continue
       }
 
       if (trackList.find((i) => i.title === name)) {
-        continue;
+        continue
       }
 
       try {
-        const resp = fetch(url);
+        const resp = fetch(url)
 
         if (resp.status !== 200 || !resp.text?.length) {
-          continue;
+          continue
         }
 
-        const subPath = joinPath(tmp, name);
-        writeFile(subPath, resp.text);
-        commandv("sub-add", subPath);
-      } catch (e) {
-      }
+        const subPath = joinPath(tmp, name)
+        writeFile(subPath, resp.text)
+        commandv("sub-add", subPath)
+      } catch (e) {}
     }
   } else {
     const list = SubtitleTypes.map((i) => {
-      const s = path.split(".").slice(0, -1);
-      s.push(i);
-      return s.join(".");
-    });
+      const s = path.split(".").slice(0, -1)
+      s.push(i)
+      return s.join(".")
+    })
     for (const url of list) {
-      const name = getFileName(url);
+      const name = getFileName(url)
       if (trackList.find((i) => i.title === name)) {
-        continue;
+        continue
       }
       if (existsSync(url)) {
-        commandv("sub-add", url);
+        commandv("sub-add", url)
       }
     }
   }

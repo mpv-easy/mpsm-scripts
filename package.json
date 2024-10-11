@@ -1,55 +1,55 @@
 {
-	"name": "@mpv-easy/mpsm-scripts",
-	"version": "0.1.9-alpha.6",
-	"files": ["bin", "dist", "es5", "bundle", "readme.md", "package.json"],
-	"description": "@mpv-easy/mpsm-scripts",
-	"main": "./dist/index.js",
-	"bin": "./bin/cli",
-	"types": "./dist/index.d.ts",
-	"scripts": {
-		"bundle": "esbuild ./src/*.ts --bundle --outdir=./bundle",
-		"meta": "tsx ./build/meta.ts",
-		"build": "tsc && pnpm run bundle && pnpm run es5 && pnpm run meta",
-		"dev": "chokidar 'src/**/*' -c 'pnpm run build' -d 3000  --initial",
-		"dev:copy": "chokidar 'src/**/*' -c 'pnpm run build && pnpm run copy' -d 3000  --initial",
-		"copy": "cp -r ./es5/*.js $MPV_SCRIPT_DIR/",
-		"es5": "babel --presets  @babel/preset-env ./bundle -d es5 --plugins ./babel/hack.js",
+  "name": "@mpv-easy/mpsm-scripts",
+  "version": "0.1.9-alpha.6",
+  "files": ["bin", "dist", "es5", "bundle", "readme.md", "package.json"],
+  "description": "@mpv-easy/mpsm-scripts",
+  "main": "./dist/index.js",
+  "bin": "./bin/cli",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "bundle": "esbuild ./src/*.ts --bundle --outdir=./bundle",
+    "meta": "tsx ./build/meta.ts",
+    "build": "tsc && pnpm run bundle && pnpm run es5 && pnpm run meta",
+    "dev": "chokidar 'src/**/*' -c 'pnpm run build' -d 3000  --initial",
+    "dev:copy": "chokidar 'src/**/*' -c 'pnpm run build && pnpm run copy' -d 3000  --initial",
+    "copy": "cp -r ./es5/*.js $MPV_SCRIPT_DIR/",
+    "es5": "babel --presets  @babel/preset-env ./bundle -d es5 --plugins ./babel/hack.js",
     "lint:fix": "biome lint ./ --write --unsafe",
     "lint": "biome check --apply-unsafe  ./",
-		"format": "biome format --write  ./"
-	},
-	"keywords": [],
-	"author": "",
-	"license": "ISC",
-	"exports": {
-		"./*": "./dist/*.js"
-	},
-	"typesVersions": {
-		"*": {
-			"./*": ["./dist/*.d.ts"]
-		}
-	},
-	"devDependencies": {
-		"@babel/cli": "^7.23.9",
-		"@babel/core": "^7.23.9",
-		"@babel/preset-env": "^7.23.9",
-		"@babel/preset-typescript": "^7.23.3",
-    "@biomejs/biome": "^1.8.0",
-    "@mpv-easy/autoload": "0.1.9-alpha.8",
-		"@mpv-easy/plugin": "0.1.9-alpha.8",
-		"@mpv-easy/tool": "0.1.9-alpha.9",
-		"@mpv-easy/polyfill": "0.1.9-alpha.8",
-		"@types/node": "^20.12.12",
-		"@chokidar-napi/chokidar": "0.1.3",
-		"esbuild": "^0.21.3",
-		"tsx": "^4.10.5",
-		"typescript": "^5.3.3"
-	},
-	"browserslist": [
-		"iOS >= 9",
-		"Android >= 4.4",
-		"last 2 versions",
-		"> 0.2%",
-		"not dead"
-	]
+    "format": "biome format --write  ./"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "exports": {
+    "./*": "./dist/*.js"
+  },
+  "typesVersions": {
+    "*": {
+      "./*": ["./dist/*.d.ts"]
+    }
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.25.7",
+    "@babel/core": "^7.25.8",
+    "@babel/preset-env": "^7.25.8",
+    "@babel/preset-typescript": "^7.25.7",
+    "@biomejs/biome": "^1.9.3",
+    "@chokidar-napi/chokidar": "0.1.3",
+    "@mpv-easy/autoload": "0.1.10",
+    "@mpv-easy/plugin": "0.1.10",
+    "@mpv-easy/polyfill": "0.1.10",
+    "@mpv-easy/tool": "0.1.10",
+    "@types/node": "^22.7.5",
+    "esbuild": "^0.24.0",
+    "tsx": "^4.19.1",
+    "typescript": "^5.6.3"
+  },
+  "browserslist": [
+    "iOS >= 9",
+    "Android >= 4.4",
+    "last 2 versions",
+    "> 0.2%",
+    "not dead"
+  ]
 }
