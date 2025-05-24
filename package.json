@@ -22,7 +22,7 @@
     "dev": "chokidar 'src/**/*' -c 'pnpm run build' -d 3000  --initial",
     "dev:copy": "chokidar 'src/**/*' -c 'pnpm run build && pnpm run copy' -d 3000  --initial",
     "copy": "cp -r ./es5/*.js $MPV_SCRIPT_DIR/",
-    "es5": "babel --presets  @babel/preset-env ./bundle -d es5 --plugins ./babel/hack.js",
+    "es5": "babel --presets  @babel/preset-env ./bundle -d es5",
     "lint:fix": "biome lint ./ --write --unsafe",
     "lint": "biome check --apply-unsafe  ./",
     "format": "biome format --write  ./"

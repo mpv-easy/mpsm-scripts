@@ -1,14 +1,19 @@
 import { writeFileSync, readFileSync, readdirSync } from "node:fs"
 import { join } from "node:path"
+import { getMetaByLang, metaToString } from '@mpv-easy/mpsm'
 
-const files = readdirSync("./src").filter((i) => i.endsWith(".ts"))
+const files = readdirSync("./src")
 for (const name of files) {
-  const metaPath = join("./src", name.replace(".ts", ".meta.js"))
-  const jsPath = join("./es5", name.replace(".ts", ".js"))
+  const ext = name.endsWith('.ts') ? '.ts' : '.lua'
+  const metaPath = join("./meta", name.replace(ext, ".meta.js"))
+  const jsPath = ext === '.lua' ? join('./src', name) : join("./es5", name.replace(".ts", ".js"))
   const meta = readFileSync(metaPath, "utf8")
   const js = readFileSync(jsPath, "utf8")
-
-  writeFileSync(jsPath, [meta, js].join("\n\n"))
+  const metaTarget = metaPath.endsWith('.js') ? 'js' : 'lua'
+  const fileTarget = name.endsWith('.js') ? 'js' : 'lua'
+  const m = getMetaByLang(meta, metaTarget)!;
+  const metaString = metaToString(m, fileTarget)
+  writeFileSync(ext === '.lua' ? join('./es5', name) : jsPath, [metaString, js].join("\n\n"))
 }
 
 for (const name of readdirSync("./meta")) {
