@@ -14,4 +14,4 @@ for (const i of readdirSync(META_DIR)) {
   v[i.replace(`.meta.${ext}`, "")] = json
 }
 
-writeFileSync("./src/meta.json", JSON.stringify(v))
+writeFileSync("./meta.json", JSON.stringify(v))
