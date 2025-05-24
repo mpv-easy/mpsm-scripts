@@ -1,19 +1,28 @@
 {
   "name": "@mpv-easy/mpsm-scripts",
   "version": "0.1.9-alpha.6",
-  "files": ["bin", "dist", "es5", "bundle", "readme.md", "package.json"],
+  "files": [
+    "bin",
+    "dist",
+    "es5",
+    "bundle",
+    "readme.md",
+    "package.json"
+  ],
   "description": "@mpv-easy/mpsm-scripts",
   "main": "./dist/index.js",
   "bin": "./bin/cli",
   "types": "./dist/index.d.ts",
   "scripts": {
+    "update:meta": "bun ./build/update.ts",
+    "merge:meta": "bun ./build/merge.ts",
     "bundle": "esbuild ./src/*.ts --bundle --outdir=./bundle",
     "meta": "tsx ./build/meta.ts",
     "build": "tsc && pnpm run bundle && pnpm run es5 && pnpm run meta",
     "dev": "chokidar 'src/**/*' -c 'pnpm run build' -d 3000  --initial",
     "dev:copy": "chokidar 'src/**/*' -c 'pnpm run build && pnpm run copy' -d 3000  --initial",
     "copy": "cp -r ./es5/*.js $MPV_SCRIPT_DIR/",
-    "es5": "babel --presets  @babel/preset-env ./bundle -d es5 --plugins ./babel/hack.js",
+    "es5": "babel --presets  @babel/preset-env ./bundle -d es5",
     "lint:fix": "biome lint ./ --write --unsafe",
     "lint": "biome check --apply-unsafe  ./",
     "format": "biome format --write  ./"
@@ -26,10 +35,13 @@
   },
   "typesVersions": {
     "*": {
-      "./*": ["./dist/*.d.ts"]
+      "./*": [
+        "./dist/*.d.ts"
+      ]
     }
   },
   "devDependencies": {
+    "@mpv-easy/mpsm": "0.1.1-5.alpha.1",
     "@babel/cli": "^7.25.7",
     "@babel/core": "^7.25.8",
     "@babel/preset-env": "^7.25.8",
