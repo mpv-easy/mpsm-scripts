@@ -1,0 +1,7 @@
+{
+  "name": "blur-edges",
+  "download": "https://github.com/occivink/mpv-scripts#blur-edgeslua/archive/refs/heads/main.zip",
+  "description": "Replace black bars with a blurry copy of the video.",
+  "author": "occivink",
+  "homepage": "https://github.com/occivink/mpv-scripts#blur-edgeslua"
+}

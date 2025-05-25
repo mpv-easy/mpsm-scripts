@@ -1,0 +1,7 @@
+{
+  "name": "youtube-search",
+  "download": "https://github.com/rozari0/mpv-youtube-search/archive/refs/heads/master.zip",
+  "description": "Use zenity and youtube-dl to search YouTube.",
+  "author": "rozari0",
+  "homepage": "https://github.com/rozari0/mpv-youtube-search"
+}

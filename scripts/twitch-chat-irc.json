@@ -1,0 +1,7 @@
+{
+  "name": "twitch-chat-irc",
+  "download": "https://github.com/morrah/mpv-twitch-chat-irc/archive/refs/heads/master.zip",
+  "description": "Show Twitch chat messages as subtitles when watching Twitch LIVE.",
+  "author": "morrah",
+  "homepage": "https://github.com/morrah/mpv-twitch-chat-irc"
+}

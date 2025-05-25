@@ -1,0 +1,8 @@
+{
+  "name": "autocrop",
+  "version": "0.1.0",
+  "description": "This script uses the lavfi cropdetect filter and the video-crop property to automatically crop the currently playing video with appropriate parameters.",
+  "author": "mpv-player",
+  "download": "https://raw.githubusercontent.com/mpv-player/mpv/master/TOOLS/lua/autocrop.lua",
+  "updateURL": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/autocrop.meta.lua"
+}

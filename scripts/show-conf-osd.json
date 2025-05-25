@@ -1,0 +1,7 @@
+{
+  "name": "show-conf-osd",
+  "download": "https://github.com/pierretom/show-conf-osd/archive/refs/heads/master.zip",
+  "description": "Display configuration files on the OSD.",
+  "author": "pierretom",
+  "homepage": "https://github.com/pierretom/show-conf-osd"
+}

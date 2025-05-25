@@ -1,0 +1,7 @@
+{
+  "name": "vlcaspectratio",
+  "download": "https://raw.githubusercontent.com/kism/mpvscripts/main/scripts/vlcaspectratio.lua",
+  "description": "Implements a VLC style aspect ratio hotkey 'a' that stretches the video to different aspect ratios.",
+  "author": "kism",
+  "homepage": "https://github.com/kism/mpvscripts/blob/main/scripts/vlcaspectratio.lua"
+}

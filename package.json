@@ -1,21 +1,16 @@
 {
   "name": "@mpv-easy/mpsm-scripts",
   "version": "0.1.9-alpha.6",
-  "files": [
-    "bin",
-    "dist",
-    "es5",
-    "bundle",
-    "readme.md",
-    "package.json"
-  ],
+  "homepage": "",
+  "files": ["bin", "dist", "es5", "bundle", "readme.md", "package.json"],
   "description": "@mpv-easy/mpsm-scripts",
   "main": "./dist/index.js",
   "bin": "./bin/cli",
   "types": "./dist/index.d.ts",
   "scripts": {
+    "update:mpv-easy": "bash ./build/update-mpv-easy.sh",
     "update:meta": "bun ./build/update.ts",
-    "merge:meta": "bun ./build/merge.ts",
+    "update:full": "bun ./build/update-full.ts",
     "bundle": "esbuild ./src/*.ts --bundle --outdir=./bundle",
     "meta": "tsx ./build/meta.ts",
     "build": "tsc && pnpm run bundle && pnpm run es5 && pnpm run meta",
@@ -35,13 +30,11 @@
   },
   "typesVersions": {
     "*": {
-      "./*": [
-        "./dist/*.d.ts"
-      ]
+      "./*": ["./dist/*.d.ts"]
     }
   },
   "devDependencies": {
-    "@mpv-easy/mpsm": "0.1.1-5.alpha.1",
+    "@mpv-easy/mpsm": "v0.1.15-alpha.6",
     "@babel/cli": "^7.25.7",
     "@babel/core": "^7.25.8",
     "@babel/preset-env": "^7.25.8",
@@ -53,7 +46,7 @@
     "@mpv-easy/polyfill": "0.1.10",
     "@mpv-easy/tool": "0.1.10",
     "@types/node": "^22.7.5",
-    "esbuild": "^0.24.0",
+    "esbuild": "0.25.4",
     "tsx": "^4.19.1",
     "typescript": "^5.6.3"
   },

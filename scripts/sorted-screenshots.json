@@ -1,0 +1,7 @@
+{
+  "name": "sorted-screenshots",
+  "download": "https://github.com/BanchouBoo/mpv-sorted-screenshots/archive/refs/heads/master.zip",
+  "description": "Sort screenshots based on the file they're screenshotted from and nested directories.",
+  "author": "BanchouBoo",
+  "homepage": "https://github.com/BanchouBoo/mpv-sorted-screenshots"
+}

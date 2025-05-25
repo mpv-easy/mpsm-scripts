@@ -1,0 +1,7 @@
+{
+  "name": "Open Sound Control",
+  "download": "https://github.com/lvm/mpv-osc/archive/refs/heads/master.zip",
+  "description": "Open Sound Control listener.",
+  "author": "lvm",
+  "homepage": "https://github.com/lvm/mpv-osc"
+}

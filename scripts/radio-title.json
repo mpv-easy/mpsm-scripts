@@ -1,0 +1,7 @@
+{
+  "name": "radio-title",
+  "download": "https://github.com/olivierlemoal/mpv-radio-title-script/archive/refs/heads/master.zip",
+  "description": "Automatically fetch current playing title from webradio website when not provided by stream.",
+  "author": "olivierlemoal",
+  "homepage": "https://github.com/olivierlemoal/mpv-radio-title-script/"
+}

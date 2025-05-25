@@ -1,0 +1,7 @@
+{
+  "name": "spotify",
+  "download": "https://github.com/olivierlemoal/mpv-spotify-script/archive/refs/heads/master.zip",
+  "description": "Add current playing title to an user defined Spotify playlist.",
+  "author": "olivierlemoal",
+  "homepage": "https://github.com/olivierlemoal/mpv-spotify-script"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "webtorrent-mpv-hook",
+  "download": "https://github.com/mrxdst/webtorrent-mpv-hook/archive/refs/heads/master.zip",
+  "description": "Adds a hook that allows mpv to stream torrents using webtorrent.",
+  "author": "mrxdst",
+  "homepage": "https://github.com/mrxdst/webtorrent-mpv-hook"
+}

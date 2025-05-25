@@ -1,0 +1,7 @@
+{
+  "name": "libass_sub_selector",
+  "download": "https://github.com/po5/libass_sub_selector/archive/refs/heads/master.zip",
+  "description": "Visually select individual subtitles a la PotPlayer.",
+  "author": "po5",
+  "homepage": "https://github.com/po5/libass_sub_selector"
+}

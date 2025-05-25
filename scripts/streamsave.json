@@ -1,0 +1,7 @@
+{
+  "name": "streamsave",
+  "download": "https://github.com/Sagnac/streamsave/archive/refs/heads/master.zip",
+  "description": "Save live streams without encoding.",
+  "author": "Sagnac",
+  "homepage": "https://github.com/Sagnac/streamsave"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mpvc-tui",
+  "download": "https://github.com/gmt4/mpvc/archive/refs/heads/master.zip",
+  "description": "Command-line and TUI for mpv.",
+  "author": "gmt4",
+  "homepage": "https://github.com/gmt4/mpvc"
+}

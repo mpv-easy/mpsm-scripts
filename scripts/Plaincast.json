@@ -1,0 +1,7 @@
+{
+  "name": "Plaincast",
+  "download": "https://github.com/aykevl/plaincast/archive/refs/heads/master.zip",
+  "description": "Unmaintained Linux server that acts like a lightweight/headless Chromecast that only includes YouTube, based on Golang.",
+  "author": "aykevl",
+  "homepage": "https://github.com/aykevl/plaincast"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "skiptosilence detuur",
+  "download": "https://github.com/detuur/mpv-scripts/archive/refs/heads/master.zip",
+  "description": "Skips to the next silence in the file.",
+  "author": "detuur",
+  "homepage": "https://github.com/detuur/mpv-scripts"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "censor",
+  "download": "https://github.com/zenyd/mpv-scripts/archive/refs/heads/master.zip",
+  "description": "Skip over parts of videos you don't want (others) to view",
+  "author": "zenyd",
+  "homepage": "https://github.com/zenyd/mpv-scripts"
+}

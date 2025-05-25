@@ -1,0 +1,7 @@
+{
+  "name": "copy-paste-URL",
+  "download": "https://github.com/zenyd/mpv-scripts/archive/refs/heads/master.zip",
+  "description": "Paste URLs directly from clipboard into mpv",
+  "author": "zenyd",
+  "homepage": "https://github.com/zenyd/mpv-scripts"
+}

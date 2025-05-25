@@ -1,0 +1,7 @@
+{
+  "name": "stats",
+  "download": "https://github.com/Argon-/mpv-stats/archive/refs/heads/master.zip",
+  "description": "Display some statistics about the currently played file on-screen.",
+  "author": "Argon-",
+  "homepage": "https://github.com/Argon-/mpv-stats/"
+}

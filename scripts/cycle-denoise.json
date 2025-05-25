@@ -1,0 +1,7 @@
+{
+  "name": "cycle-denoise",
+  "download": "https://gist.github.com/myfreeer/d744c445aa71c0eeb165ca39cf6c0511",
+  "description": "Cycle between lavfi's denoise filters (press n)",
+  "author": "myfreeer",
+  "homepage": "https://gist.github.com/myfreeer/d744c445aa71c0eeb165ca39cf6c0511"
+}

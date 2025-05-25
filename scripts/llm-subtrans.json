@@ -1,0 +1,7 @@
+{
+  "name": "llm-subtrans",
+  "download": "https://github.com/sorz/mpv-llm-subtrans/archive/refs/heads/main.zip",
+  "description": "Extract & translate subtitles with OpenAI API.",
+  "author": "sorz",
+  "homepage": "https://github.com/sorz/mpv-llm-subtrans/"
+}

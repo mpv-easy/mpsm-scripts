@@ -1,0 +1,7 @@
+{
+  "name": "search-menu",
+  "download": "https://github.com/stax76/mpv-scripts/archive/refs/heads/main.zip",
+  "description": "Searchable and configurable menu to quickly find key bindings, commands, properties, audio/subtitle tracks and playlist entries.",
+  "author": "stax76",
+  "homepage": "https://github.com/stax76/mpv-scripts"
+}

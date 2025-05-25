@@ -1,0 +1,7 @@
+{
+  "name": "bluetooth-av-delay",
+  "download": "https://github.com/fatihkaan22/mpv-bluetooth-av-delay/archive/refs/heads/master.zip",
+  "description": "Adds desired A-V delay automatically, if default audio sink is a bluetooth device.",
+  "author": "fatihkaan22",
+  "homepage": "https://github.com/fatihkaan22/mpv-bluetooth-av-delay"
+}

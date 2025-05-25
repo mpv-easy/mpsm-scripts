@@ -1,0 +1,7 @@
+{
+  "name": "manga-reader",
+  "download": "https://github.com/Dudemanguy/mpv-manga-reader/archive/refs/heads/master.zip",
+  "description": "Script for using mpv as a manga reader.",
+  "author": "Dudemanguy",
+  "homepage": "https://github.com/Dudemanguy/mpv-manga-reader"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "easycrop",
+  "download": "https://github.com/aidanholm/mpv-easycrop/archive/refs/heads/master.zip",
+  "description": "Cropping videos with ease.",
+  "author": "aidanholm",
+  "homepage": "https://github.com/aidanholm/mpv-easycrop"
+}

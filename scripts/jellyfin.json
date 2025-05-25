@@ -1,0 +1,7 @@
+{
+  "name": "jellyfin",
+  "download": "https://github.com/EmperorPenguin18/mpv-jellyfin/archive/refs/heads/main.zip",
+  "description": "Turns mpv into a Jellyfin client.",
+  "author": "EmperorPenguin18",
+  "homepage": "https://github.com/EmperorPenguin18/mpv-jellyfin"
+}

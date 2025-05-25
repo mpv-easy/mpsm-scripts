@@ -1,0 +1,7 @@
+{
+  "name": "gpufreq",
+  "download": "https://github.com/CounterPillow/mpv-gpufreq/archive/refs/heads/master.zip",
+  "description": "Displays the current and maximum GPU frequency as an osd message.",
+  "author": "CounterPillow",
+  "homepage": "https://github.com/CounterPillow/mpv-gpufreq"
+}

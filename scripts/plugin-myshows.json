@@ -1,0 +1,7 @@
+{
+  "name": "plugin-myshows",
+  "download": "https://github.com/gim-/mpv-plugin-myshows/archive/refs/heads/master.zip",
+  "description": "Automatically marks a currently watched episode in MyShows.",
+  "author": "gim-",
+  "homepage": "https://github.com/gim-/mpv-plugin-myshows"
+}

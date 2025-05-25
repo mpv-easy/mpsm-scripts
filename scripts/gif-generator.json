@@ -1,0 +1,7 @@
+{
+  "name": "gif-generator",
+  "download": "https://github.com/the-honey/mpv-gif-generator/archive/refs/heads/master.zip",
+  "description": "Creates animated gifs using hotkeys.",
+  "author": "the-honey",
+  "homepage": "https://github.com/the-honey/mpv-gif-generator"
+}

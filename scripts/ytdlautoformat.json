@@ -1,0 +1,7 @@
+{
+  "name": "ytdlautoformat",
+  "download": "https://github.com/Samillion/mpv-ytdlautoformat/archive/refs/heads/master.zip",
+  "description": "Automatically adjusts `ytdl-format` (yt-dlp) for specified domains.",
+  "author": "Samillion",
+  "homepage": "https://github.com/Samillion/mpv-ytdlautoformat"
+}

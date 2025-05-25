@@ -1,0 +1,7 @@
+{
+  "name": "Botflix/stream-cli",
+  "download": "https://github.com/kaboussi/Botflix/archive/refs/heads/main.zip",
+  "description": "Command-line tool that combines scrapy and webtorrent for streaming movies, based on Python/TUI.",
+  "author": "kaboussi",
+  "homepage": "https://github.com/kaboussi/Botflix"
+}

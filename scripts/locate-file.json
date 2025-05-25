@@ -1,0 +1,7 @@
+{
+  "name": "locate-file",
+  "download": "https://github.com/nimatrueway/mpv-locatefile-lua-script/archive/refs/heads/master.zip",
+  "description": "Locate current media file on your OS file browser",
+  "author": "nimatrueway",
+  "homepage": "https://github.com/nimatrueway/mpv-locatefile-lua-script"
+}

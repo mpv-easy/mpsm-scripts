@@ -1,0 +1,7 @@
+{
+  "name": "qtube",
+  "download": "https://github.com/hdb/qtube/archive/refs/heads/master.zip",
+  "description": "Linux YouTube frontend, based on Python/QT.",
+  "author": "hdb",
+  "homepage": "https://github.com/hdb/qtube"
+}

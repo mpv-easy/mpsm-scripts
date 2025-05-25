@@ -1,0 +1,7 @@
+{
+  "name": "selectformat",
+  "download": "https://github.com/ghesy/mpv-selectformat/archive/refs/heads/master.zip",
+  "description": "Select the format (quality) of internet videos.",
+  "author": "ghesy",
+  "homepage": "https://github.com/ghesy/mpv-selectformat"
+}

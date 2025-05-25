@@ -1,0 +1,7 @@
+{
+  "name": "srt-resegment",
+  "download": "https://raw.githubusercontent.com/VimWei/mpv-config/main/scripts/srt-resegment.lua",
+  "description": "Resegment srt by synchronize plain text with whisper's word-level timestamps JSON.",
+  "author": "VimWei",
+  "homepage": "https://github.com/VimWei/mpv-config/blob/main/scripts/srt-resegment.lua"
+}

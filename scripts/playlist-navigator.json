@@ -1,0 +1,7 @@
+{
+  "name": "playlist-navigator",
+  "download": "https://github.com/drogers141/mpv-playlist-navigator/archive/refs/heads/main.zip",
+  "description": "OSD display features easy navigation with scrolling and search to select files to play or remove from playlist.",
+  "author": "drogers141",
+  "homepage": "https://github.com/drogers141/mpv-playlist-navigator"
+}

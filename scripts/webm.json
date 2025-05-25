@@ -1,0 +1,7 @@
+{
+  "name": "webm",
+  "download": "https://github.com/ekisu/mpv-webm/archive/refs/heads/master.zip",
+  "description": "WebM converter based on MoonScript.",
+  "author": "ekisu",
+  "homepage": "https://github.com/ekisu/mpv-webm"
+}

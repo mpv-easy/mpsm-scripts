@@ -1,0 +1,7 @@
+{
+  "name": "pointer-event",
+  "download": "https://github.com/christoph-heinrich/mpv-pointer-event/archive/refs/heads/master.zip",
+  "description": "Mutually exclusive, low latency mouse/touch input event detection. Executes configurable commands on single-click, double-click, long-click and dragging.",
+  "author": "christoph-heinrich",
+  "homepage": "https://github.com/christoph-heinrich/mpv-pointer-event"
+}

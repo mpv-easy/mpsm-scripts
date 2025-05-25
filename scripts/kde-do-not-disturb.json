@@ -1,0 +1,7 @@
+{
+  "name": "kde-do-not-disturb",
+  "download": "https://gitlab.com/smaniottonicola/kde-do-not-disturb",
+  "description": "Disable the notifications while mpv is running",
+  "author": " ",
+  "homepage": "https://gitlab.com/smaniottonicola/kde-do-not-disturb"
+}

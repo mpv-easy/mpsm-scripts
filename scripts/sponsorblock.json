@@ -1,0 +1,7 @@
+{
+  "name": "sponsorblock",
+  "download": "https://github.com/po5/mpv_sponsorblock/archive/refs/heads/master.zip",
+  "description": "Script to skip sponsored segments of YouTube videos.",
+  "author": "po5",
+  "homepage": "https://github.com/po5/mpv_sponsorblock"
+}

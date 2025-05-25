@@ -1,0 +1,7 @@
+{
+  "name": "smart-volume",
+  "download": "https://github.com/stax76/mpv-scripts/archive/refs/heads/main.zip",
+  "description": "Replay gain alternative.",
+  "author": "stax76",
+  "homepage": "https://github.com/stax76/mpv-scripts"
+}

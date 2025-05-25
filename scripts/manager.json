@@ -1,0 +1,7 @@
+{
+  "name": "manager",
+  "download": "https://github.com/po5/mpv_manager/archive/refs/heads/master.zip",
+  "description": "Script and shader manager.",
+  "author": "po5",
+  "homepage": "https://github.com/po5/mpv_manager"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "youtube-download",
+  "download": "https://github.com/cvzi/mpv-youtube-download/archive/refs/heads/main.zip",
+  "description": "Download YouTube audio and video with one key press.",
+  "author": "cvzi",
+  "homepage": "https://github.com/cvzi/mpv-youtube-download"
+}

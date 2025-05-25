@@ -1,0 +1,7 @@
+{
+  "name": "play-with-mpv",
+  "download": "https://github.com/Thann/play-with-mpv/archive/refs/heads/master.zip",
+  "description": "Chrome extension for playing URLs in mpv, based on JavaScript/Python/Web.",
+  "author": "Thann",
+  "homepage": "https://github.com/Thann/play-with-mpv"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "libunity",
+  "download": "https://github.com/mrlotfi/mpv-libunity/archive/refs/heads/master.zip",
+  "description": "Show a nice progress bar on your Linux panel/dock.",
+  "author": "mrlotfi",
+  "homepage": "https://github.com/mrlotfi/mpv-libunity"
+}

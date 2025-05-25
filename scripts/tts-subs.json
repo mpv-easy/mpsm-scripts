@@ -1,0 +1,7 @@
+{
+  "name": "tts-subs",
+  "download": "https://raw.githubusercontent.com/jgreco/mpv-scripts/master/tts-subs.lua",
+  "description": "Use voice synthesis to read subtitles out-loud.",
+  "author": "jgreco",
+  "homepage": "https://github.com/jgreco/mpv-scripts/blob/master/tts-subs.lua"
+}

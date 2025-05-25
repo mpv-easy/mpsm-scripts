@@ -1,0 +1,7 @@
+{
+  "name": "youtube-upnext",
+  "download": "https://github.com/cvzi/mpv-youtube-upnext/archive/refs/heads/main.zip",
+  "description": "A menu for (auto) playing YouTube's \"up next\"/recommended videos, that show up on the right side on the website.",
+  "author": "cvzi",
+  "homepage": "https://github.com/cvzi/mpv-youtube-upnext"
+}

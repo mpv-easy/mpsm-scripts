@@ -1,0 +1,7 @@
+{
+  "name": "yledl",
+  "download": "https://github.com/pekkarr/mpv-yledl/archive/refs/heads/main.zip",
+  "description": "Watch videos from YLE Areena in mpv using yle-dl",
+  "author": "pekkarr",
+  "homepage": "https://github.com/pekkarr/mpv-yledl"
+}

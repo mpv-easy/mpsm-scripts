@@ -1,0 +1,7 @@
+{
+  "name": "multisocket",
+  "download": "https://raw.githubusercontent.com/AN3223/dotfiles/master/.config/mpv/scripts/multisocket.lua",
+  "description": "Creates a numbered socket for each instance of mpv.",
+  "author": "AN3223",
+  "homepage": "https://github.com/AN3223/dotfiles/blob/master/.config/mpv/scripts/multisocket.lua"
+}

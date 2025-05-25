@@ -1,0 +1,7 @@
+{
+  "name": "i3-floating-centered",
+  "download": "https://github.com/mdnghtman/mpv-i3-floating-centered/archive/refs/heads/master.zip",
+  "description": "Show mpv window in the center of the display when it is in floating mode (i3wm)",
+  "author": "mdnghtman",
+  "homepage": "https://github.com/mdnghtman/mpv-i3-floating-centered"
+}

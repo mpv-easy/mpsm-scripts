@@ -1,0 +1,7 @@
+{
+  "name": "autochapters",
+  "download": "https://github.com/po5/mpv-auto-chapters/archive/refs/heads/master.zip",
+  "description": "Automatically finds chapters for your anime files.",
+  "author": "po5",
+  "homepage": "https://github.com/po5/mpv-auto-chapters"
+}

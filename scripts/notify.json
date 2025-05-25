@@ -1,0 +1,7 @@
+{
+  "name": "notify",
+  "download": "https://github.com/kauron/mpv-notify/archive/refs/heads/master.zip",
+  "description": "Now-playing-desktop notifications.",
+  "author": "kauron",
+  "homepage": "https://github.com/kauron/mpv-notify"
+}

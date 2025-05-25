@@ -1,0 +1,7 @@
+{
+  "name": "mpv-android",
+  "download": "https://github.com/mpv-android/mpv-android/archive/refs/heads/master.zip",
+  "description": "For Android, based on Kotlin.",
+  "author": "mpv-android",
+  "homepage": "https://github.com/mpv-android/mpv-android"
+}

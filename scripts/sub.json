@@ -1,0 +1,7 @@
+{
+  "name": "sub",
+  "download": "https://github.com/vflorelle/mpv-scripts#sub/archive/refs/heads/main.zip",
+  "description": "Select subtitle by id via input box (Windows)",
+  "author": "vflorelle",
+  "homepage": "https://github.com/vflorelle/mpv-scripts#sub"
+}

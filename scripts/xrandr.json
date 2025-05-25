@@ -1,0 +1,7 @@
+{
+  "name": "xrandr",
+  "download": "https://gitlab.com/lvml/mpv-plugin-xrandr",
+  "description": "Automatically sets the display refresh rate to the one best suitable for the video played",
+  "author": " ",
+  "homepage": "https://gitlab.com/lvml/mpv-plugin-xrandr"
+}

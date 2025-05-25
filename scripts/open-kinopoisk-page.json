@@ -1,0 +1,7 @@
+{
+  "name": "open-kinopoisk-page",
+  "download": "https://github.com/WANDEX/mpv-open-kinopoisk-page/archive/refs/heads/master.zip",
+  "description": "Opens the kinopoisk page that corresponds to the currently playing media file.",
+  "author": "WANDEX",
+  "homepage": "https://github.com/WANDEX/mpv-open-kinopoisk-page"
+}

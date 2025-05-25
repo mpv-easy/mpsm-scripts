@@ -1,0 +1,7 @@
+{
+  "name": "mpvDLNA",
+  "download": "https://github.com/chachmu/mpvDLNA/archive/refs/heads/main.zip",
+  "description": "Browse and watch content hosted on DLNA servers.",
+  "author": "chachmu",
+  "homepage": "https://github.com/chachmu/mpvDLNA"
+}
