@@ -4,5 +4,5 @@
   "description": "Linear Phase 15-Bands Equalizer",
   "author": "mfcc64",
   "download": "https://raw.githubusercontent.com/mfcc64/mpv-scripts/master/firequalizer15.lua",
-  "updateURL": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/firequalizer15.meta.lua"
+  "update": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/firequalizer15.meta.lua"
 }

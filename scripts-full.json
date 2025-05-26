@@ -19,7 +19,7 @@
     "description": "This script adds control to the dynamic range compression ffmpeg filter including key bindings for adjusting parameters.",
     "author": "mpv-player",
     "download": "https://raw.githubusercontent.com/mpv-player/mpv/master/TOOLS/lua/acompressor.lua",
-    "updateURL": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/acompressor.meta.lua"
+    "update": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/acompressor.meta.lua"
   },
   "adevice-list": {
     "name": "adevice-list",
@@ -139,7 +139,7 @@
     "description": "This script uses the lavfi cropdetect filter and the video-crop property to automatically crop the currently playing video with appropriate parameters.",
     "author": "mpv-player",
     "download": "https://raw.githubusercontent.com/mpv-player/mpv/master/TOOLS/lua/autocrop.lua",
-    "updateURL": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/autocrop.meta.lua"
+    "update": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/autocrop.meta.lua"
   },
   "autodeint": {
     "name": "autodeint",
@@ -910,7 +910,7 @@
     "description": "Linear Phase 15-Bands Equalizer",
     "author": "mfcc64",
     "download": "https://raw.githubusercontent.com/mfcc64/mpv-scripts/master/firequalizer15.lua",
-    "updateURL": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/firequalizer15.meta.lua"
+    "update": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/firequalizer15.meta.lua"
   },
   "fix_sub_timing": {
     "name": "fix_sub_timing",
@@ -1702,7 +1702,7 @@
     "description": "open-file-dialog is a script for mpv that can launch a regular Windows file open dialog from a key binding (default: Ctrl+O.)",
     "author": "rossy",
     "download": "https://raw.githubusercontent.com/rossy/mpv-open-file-dialog/master/open-file-dialog.lua",
-    "updateURL": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/open-file-dialog.meta.lua"
+    "update": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/open-file-dialog.meta.lua"
   },
   "open-imdb-page": {
     "name": "open-imdb-page",
@@ -2970,7 +2970,7 @@
     "description": "various audio visualization",
     "author": "mfcc64",
     "download": "https://raw.githubusercontent.com/mfcc64/mpv-scripts/master/visualizer.lua",
-    "updateURL": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/visualizer.meta.lua"
+    "update": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/visualizer.meta.lua"
   },
   "vlc-aspect-ratio": {
     "name": "vlc-aspect-ratio",

@@ -4,5 +4,5 @@
   "description": "various audio visualization",
   "author": "mfcc64",
   "download": "https://raw.githubusercontent.com/mfcc64/mpv-scripts/master/visualizer.lua",
-  "updateURL": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/visualizer.meta.lua"
+  "update": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/visualizer.meta.lua"
 }
