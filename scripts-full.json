@@ -1479,6 +1479,13 @@
     "download": "https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-easy-translate.zip",
     "homepage": "https://github.com/mpv-easy/mpv-easy/tree/main/mpv-translate"
   },
+  "mpv-easy": {
+    "name": "mpv-easy",
+    "description": "An easy-to-use UI implemented with js",
+    "author": "mpv-easy",
+    "download": "https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-easy.zip",
+    "homepage": "https://github.com/mpv-easy/mpv-easy"
+  },
   "mpv-kscreen-doctor": {
     "name": "mpv-kscreen-doctor",
     "download": "https://gitlab.com/smaniottonicola/mpv-kscreen-doctor",
