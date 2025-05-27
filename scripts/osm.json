@@ -1,0 +1,7 @@
+{
+  "name": "osm",
+  "download": "https://github.com/stax76/mpv-scripts/archive/refs/heads/main.zip",
+  "description": "Configurable on screen menu to run custom commands.",
+  "author": "stax76",
+  "homepage": "https://github.com/stax76/mpv-scripts"
+}

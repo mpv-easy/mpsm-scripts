@@ -1,0 +1,7 @@
+{
+  "name": "boram",
+  "download": "https://github.com/Kagami/boram/archive/refs/heads/master.zip",
+  "description": "Unmaintained cross-platform WebM converter, based on JavaScript/Web/Electron.",
+  "author": "Kagami",
+  "homepage": "https://github.com/Kagami/boram"
+}

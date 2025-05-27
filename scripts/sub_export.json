@@ -1,0 +1,7 @@
+{
+  "name": "sub_export",
+  "download": "https://raw.githubusercontent.com/dyphire/mpv-scripts/main/sub_export.lua",
+  "description": "fork, updated. Extract selected subtitles from .mkv file.",
+  "author": "dyphire",
+  "homepage": "https://github.com/dyphire/mpv-scripts/blob/main/sub_export.lua"
+}

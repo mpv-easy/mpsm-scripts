@@ -1,0 +1,7 @@
+{
+  "name": "multiloop",
+  "download": "https://github.com/unusualpepe/mpv-multiloop/archive/refs/heads/master.zip",
+  "description": "Loop over multiple A-B points.",
+  "author": "unusualpepe",
+  "homepage": "https://github.com/unusualpepe/mpv-multiloop"
+}

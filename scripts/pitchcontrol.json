@@ -1,0 +1,7 @@
+{
+  "name": "pitchcontrol",
+  "download": "https://raw.githubusercontent.com/FichteFoll/mpv-scripts/master/pitchcontrol.lua",
+  "description": "Adjusts audio pitch in half-tone steps.",
+  "author": "FichteFoll",
+  "homepage": "https://github.com/FichteFoll/mpv-scripts/blob/master/pitchcontrol.lua"
+}

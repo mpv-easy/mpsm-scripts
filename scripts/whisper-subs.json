@@ -1,0 +1,7 @@
+{
+  "name": "whisper-subs",
+  "download": "https://github.com/GhostNaN/whisper-subs/archive/refs/heads/main.zip",
+  "description": "Generates subtitles at runtime with whisper.cpp on Linux.",
+  "author": "GhostNaN",
+  "homepage": "https://github.com/GhostNaN/whisper-subs"
+}

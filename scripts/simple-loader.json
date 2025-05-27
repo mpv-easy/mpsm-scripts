@@ -1,0 +1,7 @@
+{
+  "name": "simple-loader",
+  "download": "https://github.com/fhlfibh/simple-loader/archive/refs/heads/master.zip",
+  "description": "(Linux) Browse dirs and files on OSD, and launch them with mpv.",
+  "author": "fhlfibh",
+  "homepage": "https://github.com/fhlfibh/simple-loader"
+}

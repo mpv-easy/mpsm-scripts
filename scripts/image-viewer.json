@@ -1,0 +1,7 @@
+{
+  "name": "image-viewer",
+  "download": "https://github.com/occivink/mpv-image-viewer/archive/refs/heads/master.zip",
+  "description": "Configuration, scripts and tips for using mpv as an image viewer.",
+  "author": "occivink",
+  "homepage": "https://github.com/occivink/mpv-image-viewer"
+}

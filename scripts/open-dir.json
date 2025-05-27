@@ -1,0 +1,7 @@
+{
+  "name": "open-dir",
+  "download": "https://github.com/ayghub/open-dir/archive/refs/heads/main.zip",
+  "description": "Opens the path of the current file in Windows File Explorer.",
+  "author": "ayghub",
+  "homepage": "https://github.com/ayghub/open-dir"
+}

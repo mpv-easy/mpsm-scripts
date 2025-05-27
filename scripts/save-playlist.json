@@ -1,0 +1,7 @@
+{
+  "name": "save-playlist",
+  "download": "https://github.com/NaiveInvestigator/save-playlist/archive/refs/heads/main.zip",
+  "description": "This script saves your playlist to the working directory of the mpv process.",
+  "author": "NaiveInvestigator",
+  "homepage": "https://github.com/NaiveInvestigator/save-playlist"
+}

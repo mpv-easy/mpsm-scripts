@@ -1,0 +1,7 @@
+{
+  "name": "thumbnail_script",
+  "download": "https://github.com/marzzzello/mpv_thumbnail_script/archive/refs/heads/master.zip",
+  "description": "Shows preview thumbnails in the seekbar.",
+  "author": "marzzzello",
+  "homepage": "https://github.com/marzzzello/mpv_thumbnail_script"
+}

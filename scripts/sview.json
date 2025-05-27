@@ -1,0 +1,7 @@
+{
+  "name": "sview",
+  "download": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/sview.lua",
+  "description": "Displays all loaded shaders in a clean format. It suppresses the default OSD message, allowing the custom list to be viewed by toggling it or when changing shaders.",
+  "author": "he2a",
+  "homepage": "https://github.com/he2a/mpv-scripts"
+}

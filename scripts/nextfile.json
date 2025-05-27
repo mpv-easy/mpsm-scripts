@@ -1,0 +1,7 @@
+{
+  "name": "nextfile",
+  "download": "https://github.com/jonniek/mpv-nextfile/archive/refs/heads/master.zip",
+  "description": "Force opens next or previous file in the currently playing files directory.",
+  "author": "jonniek",
+  "homepage": "https://github.com/jonniek/mpv-nextfile"
+}

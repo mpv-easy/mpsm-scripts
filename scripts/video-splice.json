@@ -1,0 +1,7 @@
+{
+  "name": "video-splice",
+  "download": "https://github.com/pvpscript/mpv-video-splice/archive/refs/heads/master.zip",
+  "description": "Create a video out of cuts.",
+  "author": "pvpscript",
+  "homepage": "https://github.com/pvpscript/mpv-video-splice"
+}

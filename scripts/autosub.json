@@ -1,0 +1,7 @@
+{
+  "name": "autosub",
+  "download": "https://raw.githubusercontent.com/vayan/autosub-mpv/master/autosub.lua",
+  "description": "Automatically download subtitles using **subliminal**.",
+  "author": "vayan",
+  "homepage": "https://github.com/vayan/autosub-mpv/blob/master/autosub.lua"
+}

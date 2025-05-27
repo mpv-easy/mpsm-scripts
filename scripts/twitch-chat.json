@@ -1,0 +1,7 @@
+{
+  "name": "twitch-chat",
+  "download": "https://github.com/CrendKing/mpv-twitch-chat/archive/refs/heads/master.zip",
+  "description": "Show Twitch chat messages as subtitles when watching Twitch VOD with mpv.",
+  "author": "CrendKing",
+  "homepage": "https://github.com/CrendKing/mpv-twitch-chat/"
+}

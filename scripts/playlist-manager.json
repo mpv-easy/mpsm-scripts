@@ -1,0 +1,7 @@
+{
+  "name": "playlist-manager",
+  "download": "https://github.com/jonniek/mpv-playlistmanager/archive/refs/heads/master.zip",
+  "description": "Create and manage playlists.",
+  "author": "jonniek",
+  "homepage": "https://github.com/jonniek/mpv-playlistmanager"
+}

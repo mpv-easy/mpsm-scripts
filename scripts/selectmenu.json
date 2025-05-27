@@ -1,0 +1,7 @@
+{
+  "name": "selectmenu",
+  "download": "https://gitlab.com/carmanaught/mpvselectmenu",
+  "description": "Context-menu inspired by `select.lua` utilising mpv's `input` and `console` script functionality.",
+  "author": " ",
+  "homepage": "https://gitlab.com/carmanaught/mpvselectmenu"
+}

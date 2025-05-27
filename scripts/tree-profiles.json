@@ -1,0 +1,7 @@
+{
+  "name": "tree-profiles",
+  "download": "https://raw.githubusercontent.com/fbriere/mpv-scripts/master/scripts/tree-profiles.lua",
+  "description": "Automatically apply profiles to certain directories or files.",
+  "author": "fbriere",
+  "homepage": "https://github.com/fbriere/mpv-scripts/blob/master/scripts/tree-profiles.lua"
+}

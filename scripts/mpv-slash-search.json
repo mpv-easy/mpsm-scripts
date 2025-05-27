@@ -1,0 +1,7 @@
+{
+  "name": "mpv-slash-search",
+  "download": "https://codeberg.org/Anakiev/mpv-slash-search",
+  "description": "Simple and lightweight script that allows you to search for a file in the playlist and jump to the first match.",
+  "author": " ",
+  "homepage": "https://codeberg.org/Anakiev/mpv-slash-search"
+}

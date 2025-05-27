@@ -1,0 +1,7 @@
+{
+  "name": "speed - adjusted timings",
+  "download": "https://github.com/oltodosel/mpv-scripts#speed_osd3lua/archive/refs/heads/main.zip",
+  "description": "Recalculates osd-msg3 timecodes with speed != 1",
+  "author": "oltodosel",
+  "homepage": "https://github.com/oltodosel/mpv-scripts#speed_osd3lua"
+}

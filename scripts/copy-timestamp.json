@@ -1,0 +1,7 @@
+{
+  "name": "copy-timestamp",
+  "download": "https://github.com/linguisticmind/mpv-scripts/tree/master/copy-timestamp",
+  "description": "Copies current timecode in HH:MM:SS.MS format to clipboard.",
+  "author": "linguisticmind",
+  "homepage": "https://github.com/linguisticmind/mpv-scripts/tree/master/copy-timestamp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "unseen-playlistmaker",
+  "download": "https://github.com/jonniek/unseen-playlistmaker/archive/refs/heads/master.zip",
+  "description": "Keeps track of your watched files from a directory, and on keypress enters playlist-mode to watch unseen files from that specified directory.",
+  "author": "jonniek",
+  "homepage": "https://github.com/jonniek/unseen-playlistmaker"
+}

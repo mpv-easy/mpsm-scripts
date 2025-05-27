@@ -1,0 +1,7 @@
+{
+  "name": "slicing",
+  "download": "https://github.com/Kagami/mpv_slicing/archive/refs/heads/master.zip",
+  "description": "Cut uncompressed fragments of the video.",
+  "author": "Kagami",
+  "homepage": "https://github.com/Kagami/mpv_slicing"
+}

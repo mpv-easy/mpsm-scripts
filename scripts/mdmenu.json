@@ -1,0 +1,7 @@
+{
+  "name": "mdmenu",
+  "download": "https://codeberg.org/NRK/mpv-toolbox/src/branch/master/mdmenu",
+  "description": "Use dmenu (Linux launcher) for selecting audio/subtitle/chapters etc.",
+  "author": " ",
+  "homepage": "https://codeberg.org/NRK/mpv-toolbox/src/branch/master/mdmenu"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "repl",
+  "download": "https://github.com/rossy/mpv-repl/archive/refs/heads/master.zip",
+  "description": "A REPL for input commands that is displayed on the video window.",
+  "author": "rossy",
+  "homepage": "https://github.com/rossy/mpv-repl"
+}

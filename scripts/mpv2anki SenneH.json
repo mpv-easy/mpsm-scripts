@@ -1,0 +1,7 @@
+{
+  "name": "mpv2anki SenneH",
+  "download": "https://github.com/SenneH/mpv2anki/archive/refs/heads/master.zip",
+  "description": "A simple way to add notes to Anki with Audio, screenshots and/or subtitles, with few dependencies.",
+  "author": "SenneH",
+  "homepage": "https://github.com/SenneH/mpv2anki"
+}

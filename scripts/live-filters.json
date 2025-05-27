@@ -1,0 +1,7 @@
+{
+  "name": "live-filters",
+  "download": "https://github.com/hdb/mpv-live-filters/archive/refs/heads/master.zip",
+  "description": "Add, remove or toggle ffmpeg video filters during mpv playback.",
+  "author": "hdb",
+  "homepage": "https://github.com/hdb/mpv-live-filters"
+}

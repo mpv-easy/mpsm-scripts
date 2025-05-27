@@ -1,0 +1,7 @@
+{
+  "name": "minesweeper",
+  "download": "https://raw.githubusercontent.com/wiiaboo/mpv-scripts/master/mines.lua",
+  "description": "Minesweeper game.",
+  "author": "wiiaboo",
+  "homepage": "https://github.com/wiiaboo/mpv-scripts/blob/master/mines.lua"
+}

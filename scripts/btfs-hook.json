@@ -1,0 +1,7 @@
+{
+  "name": "btfs-hook",
+  "download": "https://github.com/aitet/mpv-btfs-hook/archive/refs/heads/master.zip",
+  "description": "Allows streaming torrents using FUSE via btfs.",
+  "author": "aitet",
+  "homepage": "https://github.com/aitet/mpv-btfs-hook"
+}

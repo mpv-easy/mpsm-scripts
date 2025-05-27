@@ -1,0 +1,7 @@
+{
+  "name": "excerpt",
+  "download": "https://gitlab.com/lvml/mpv-plugin-excerpt",
+  "description": "Allows you to quickly create excerpts from media files, you just have to set begin and end markers.",
+  "author": " ",
+  "homepage": "https://gitlab.com/lvml/mpv-plugin-excerpt"
+}

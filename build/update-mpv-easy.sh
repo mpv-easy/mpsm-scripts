@@ -1,0 +1,1 @@
+curl -L -o p.json https://raw.githubusercontent.com/mpv-easy/mpv-easy-cdn/main/package.json

@@ -1,0 +1,7 @@
+{
+  "name": "txt",
+  "download": "https://github.com/jgreco/mpv-txt/archive/refs/heads/master.zip",
+  "description": "Play text files using text-to-speech (TTS). (Works on Linux, MacOS).",
+  "author": "jgreco",
+  "homepage": "https://github.com/jgreco/mpv-txt"
+}

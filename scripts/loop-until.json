@@ -1,0 +1,7 @@
+{
+  "name": "loop-until",
+  "download": "https://github.com/ZreXoc/mpv-loop-until/archive/refs/heads/main.zip",
+  "description": "Loop the video until a specified amount of time. (e.g. loop a 30s wallpaper video to 30min)",
+  "author": "ZreXoc",
+  "homepage": "https://github.com/ZreXoc/mpv-loop-until"
+}

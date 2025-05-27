@@ -1,0 +1,7 @@
+{
+  "name": "copyTime",
+  "download": "https://github.com/Arieleg/mpv-copyTime/archive/refs/heads/master.zip",
+  "description": "Copies the current time to the clipboard.",
+  "author": "Arieleg",
+  "homepage": "https://github.com/Arieleg/mpv-copyTime"
+}

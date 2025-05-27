@@ -1,0 +1,7 @@
+{
+  "name": "skipsilence",
+  "download": "https://github.com/ferreum/mpv-skipsilence/archive/refs/heads/master.zip",
+  "description": "Increase playback speed during quiet parts of the file.",
+  "author": "ferreum",
+  "homepage": "https://github.com/ferreum/mpv-skipsilence"
+}

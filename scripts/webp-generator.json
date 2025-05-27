@@ -1,0 +1,7 @@
+{
+  "name": "webp-generator",
+  "download": "https://github.com/DonCanjas/mpv-webp-generator/archive/refs/heads/main.zip",
+  "description": "Creates animated webp using mpv hotkeys. (Windows only)",
+  "author": "DonCanjas",
+  "homepage": "https://github.com/DonCanjas/mpv-webp-generator"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "trim",
+  "download": "https://github.com/aerobounce/trim.lua",
+  "description": "Trim clips without transcoding.",
+  "author": "aerobounce",
+  "homepage": "https://github.com/aerobounce/trim.lua"
+}

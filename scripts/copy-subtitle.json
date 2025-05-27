@@ -1,0 +1,7 @@
+{
+  "name": "copy-subtitle",
+  "download": "https://github.com/linguisticmind/mpv-scripts/tree/master/copy-subtitle",
+  "description": "Copies currently displayed subtitle line to clipboard.",
+  "author": "linguisticmind",
+  "homepage": "https://github.com/linguisticmind/mpv-scripts/tree/master/copy-subtitle"
+}

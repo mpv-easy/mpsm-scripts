@@ -1,0 +1,7 @@
+{
+  "name": "mpvf",
+  "download": "https://github.com/seanbreckenridge/mpvf/archive/refs/heads/master.zip",
+  "description": "Select youtube-dl format for streaming.",
+  "author": "seanbreckenridge",
+  "homepage": "https://github.com/seanbreckenridge/mpvf"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "waifu2x",
+  "download": "https://github.com/jonniek/mpv-waifu2x/archive/refs/heads/master.zip",
+  "description": "Take screenshot and convert images with waifu2x.",
+  "author": "jonniek",
+  "homepage": "https://github.com/jonniek/mpv-waifu2x"
+}

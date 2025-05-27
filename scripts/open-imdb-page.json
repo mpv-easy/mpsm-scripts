@@ -1,0 +1,7 @@
+{
+  "name": "open-imdb-page",
+  "download": "https://github.com/ctlaltdefeat/mpv-open-imdb-page/archive/refs/heads/master.zip",
+  "description": "Opens the IMDb page that corresponds to the currently playing media file.",
+  "author": "ctlaltdefeat",
+  "homepage": "https://github.com/ctlaltdefeat/mpv-open-imdb-page"
+}

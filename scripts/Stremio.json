@@ -1,0 +1,7 @@
+{
+  "name": "Stremio",
+  "download": "https://github.com/Stremio",
+  "description": "Cross-platform, based on C++/QT.",
+  "author": "Stremio",
+  "homepage": "https://github.com/Stremio"
+}

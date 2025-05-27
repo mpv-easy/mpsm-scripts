@@ -1,0 +1,7 @@
+{
+  "name": "sopcast",
+  "download": "https://github.com/Akemi/mpv-sopcast-hook/archive/refs/heads/master.zip",
+  "description": "Adds support for sop:// urls.",
+  "author": "Akemi",
+  "homepage": "https://github.com/Akemi/mpv-sopcast-hook"
+}

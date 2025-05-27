@@ -1,0 +1,7 @@
+{
+  "name": "screenshot-mosaic",
+  "download": "https://github.com/noaione/mpv-js-scripts/archive/refs/heads/master.zip",
+  "description": "Create a mosaic/thumbnail image.",
+  "author": "noaione",
+  "homepage": "https://github.com/noaione/mpv-js-scripts"
+}

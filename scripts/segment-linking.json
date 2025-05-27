@@ -1,0 +1,7 @@
+{
+  "name": "segment-linking",
+  "download": "https://github.com/CogentRedTester/mpv-segment-linking/archive/refs/heads/master.zip",
+  "description": "Supports Matroska hard segment linking.",
+  "author": "CogentRedTester",
+  "homepage": "https://github.com/CogentRedTester/mpv-segment-linking"
+}

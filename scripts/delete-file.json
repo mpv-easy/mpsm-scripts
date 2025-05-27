@@ -1,0 +1,7 @@
+{
+  "name": "delete-file",
+  "download": "https://github.com/zenyd/mpv-scripts/archive/refs/heads/master.zip",
+  "description": "Delete files being played.",
+  "author": "zenyd",
+  "homepage": "https://github.com/zenyd/mpv-scripts"
+}

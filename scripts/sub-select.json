@@ -1,0 +1,7 @@
+{
+  "name": "sub-select",
+  "download": "https://github.com/CogentRedTester/mpv-sub-select/archive/refs/heads/master.zip",
+  "description": "Advanced conditional subtitle track selector.",
+  "author": "CogentRedTester",
+  "homepage": "https://github.com/CogentRedTester/mpv-sub-select"
+}

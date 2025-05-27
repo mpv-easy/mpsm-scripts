@@ -1,0 +1,7 @@
+{
+  "name": "file-rating",
+  "download": "https://github.com/stax76/mpv-scripts/archive/refs/heads/main.zip",
+  "description": "Writes a star rating to the filename of the current file.",
+  "author": "stax76",
+  "homepage": "https://github.com/stax76/mpv-scripts"
+}

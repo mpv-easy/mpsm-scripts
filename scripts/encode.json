@@ -1,0 +1,7 @@
+{
+  "name": "encode",
+  "download": "https://github.com/occivink/mpv-scripts#encodelua/archive/refs/heads/main.zip",
+  "description": "Re-encode or remux part of the current video. Can also preserve some filters, such as \"crop\".",
+  "author": "occivink",
+  "homepage": "https://github.com/occivink/mpv-scripts#encodelua"
+}

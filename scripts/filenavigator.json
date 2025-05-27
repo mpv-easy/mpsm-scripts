@@ -1,0 +1,7 @@
+{
+  "name": "filenavigator",
+  "download": "https://github.com/jonniek/mpv-filenavigator/archive/refs/heads/master.zip",
+  "description": "Navigate and open local files.",
+  "author": "jonniek",
+  "homepage": "https://github.com/jonniek/mpv-filenavigator"
+}

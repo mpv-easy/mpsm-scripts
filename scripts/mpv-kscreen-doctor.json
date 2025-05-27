@@ -1,0 +1,7 @@
+{
+  "name": "mpv-kscreen-doctor",
+  "download": "https://gitlab.com/smaniottonicola/mpv-kscreen-doctor",
+  "description": "Like the xrandr script automatically sets the display refresh rate to the one best suitable for the video played, works for KDE Plasma Wayland sessions.",
+  "author": " ",
+  "homepage": "https://gitlab.com/smaniottonicola/mpv-kscreen-doctor"
+}

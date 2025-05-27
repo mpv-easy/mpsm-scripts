@@ -1,0 +1,7 @@
+{
+  "name": "mpegts-truncate",
+  "download": "https://github.com/hoehermann/mpv-mpegts-truncate/archive/refs/heads/master.zip",
+  "description": "Removes beginning of MPEG TS file up to current position without re-writing the whole file.",
+  "author": "hoehermann",
+  "homepage": "https://github.com/hoehermann/mpv-mpegts-truncate"
+}

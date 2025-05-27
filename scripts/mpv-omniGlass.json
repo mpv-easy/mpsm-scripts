@@ -1,0 +1,7 @@
+{
+  "name": "mpv-omniGlass",
+  "download": "https://github.com/guarapicci/mpv-omniGlass/archive/refs/heads/main.zip",
+  "description": "Touchpad gestures for mpv.",
+  "author": "guarapicci",
+  "homepage": "https://github.com/guarapicci/mpv-omniGlass"
+}

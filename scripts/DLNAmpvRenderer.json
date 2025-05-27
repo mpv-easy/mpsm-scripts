@@ -1,0 +1,7 @@
+{
+  "name": "DLNAmpvRenderer",
+  "download": "https://github.com/PCigales/DLNAmpvRenderer/archive/refs/heads/master.zip",
+  "description": "Windows DLNA/UPnP renderer based on Python.",
+  "author": "PCigales",
+  "homepage": "https://github.com/PCigales/DLNAmpvRenderer"
+}

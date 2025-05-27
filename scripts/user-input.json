@@ -1,0 +1,7 @@
+{
+  "name": "user-input",
+  "download": "https://github.com/CogentRedTester/mpv-user-input/archive/refs/heads/master.zip",
+  "description": "API to request text user input.",
+  "author": "CogentRedTester",
+  "homepage": "https://github.com/CogentRedTester/mpv-user-input"
+}

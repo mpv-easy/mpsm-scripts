@@ -1,0 +1,7 @@
+{
+  "name": "waveform",
+  "download": "https://github.com/MikelSotomonte/mpv-waveform/tree/main",
+  "description": "Displays a waveform of the video in real-time.",
+  "author": "MikelSotomonte",
+  "homepage": "https://github.com/MikelSotomonte/mpv-waveform/tree/main"
+}

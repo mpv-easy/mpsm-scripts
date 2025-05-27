@@ -1,0 +1,7 @@
+{
+  "name": "inhibit_gnome",
+  "download": "https://github.com/Guldoman/mpv_inhibit_gnome/archive/refs/heads/master.zip",
+  "description": "Prevent screen blanking on GNOME while content is playing",
+  "author": "Guldoman",
+  "homepage": "https://github.com/Guldoman/mpv_inhibit_gnome"
+}

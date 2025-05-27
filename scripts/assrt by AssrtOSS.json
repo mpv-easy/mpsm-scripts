@@ -1,0 +1,7 @@
+{
+  "name": "assrt by AssrtOSS",
+  "download": "https://github.com/AssrtOSS/mpv-assrt/archive/refs/heads/master.zip",
+  "description": "Download subtitles from assrt.net.",
+  "author": "AssrtOSS",
+  "homepage": "https://github.com/AssrtOSS/mpv-assrt"
+}

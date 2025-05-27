@@ -1,0 +1,7 @@
+{
+  "name": "menu-plugin",
+  "download": "https://github.com/tsl0922/mpv-menu-plugin/archive/refs/heads/main.zip",
+  "description": "Win32 context menu, file dialog, clipboard support for mpv on Windows.",
+  "author": "tsl0922",
+  "homepage": "https://github.com/tsl0922/mpv-menu-plugin"
+}

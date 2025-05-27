@@ -1,7 +1,9 @@
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
-import { Meta, metaToString } from "@mpv-easy/mpsm"
+import { Script, scriptToString } from "@mpv-easy/mpsm"
 
-let txt = await fetch('https://raw.githubusercontent.com/stax76/awesome-mpv/main/README.md').then(i => i.text())
+let txt = await fetch(
+  "https://raw.githubusercontent.com/stax76/awesome-mpv/main/README.md",
+).then((i) => i.text())
 
 txt = txt.slice(txt.indexOf("# User Script"), txt.indexOf("# Shaders"))
 
@@ -9,9 +11,9 @@ const GITHUB_RE =
   /^https?:\/\/(?:www\.)?github\.com\/([^\/]+)\/([^\/]+)(?:\/|$)/
 
 const branchCache: Record<string, string> = {}
-const urlCache: Record<string, Meta> = {}
+const urlCache: Record<string, Script> = {}
 
-async function parseMarkdownLink(markdown: string): Promise<Meta | null> {
+async function parseMarkdownLink(markdown: string): Promise<Script | null> {
   const regex = /\[(.*?)\]\((.*?)\)\s*-\s*(.*)/
   const match = markdown.match(regex)
 
@@ -21,7 +23,7 @@ async function parseMarkdownLink(markdown: string): Promise<Meta | null> {
 
   const [, title, url, description] = match.map((i) => i.trim())
   let author = ""
-  let downloadURL = url
+  let download = url
   for (const i of [
     "https://github.com/",
     "https://gist.github.com/",
@@ -44,7 +46,7 @@ async function parseMarkdownLink(markdown: string): Promise<Meta | null> {
           continue
         }
         const [, user, repo, branch, path] = match
-        downloadURL = `https://raw.githubusercontent.com/${user}/${repo}/${branch}/${path}`
+        download = `https://raw.githubusercontent.com/${user}/${repo}/${branch}/${path}`
       }
     } else if (GITHUB_RE.test(url)) {
       const regex = /^https:\/\/github\.com\/([^\/]+)\/([^\/]+)(\/)?$/
@@ -58,22 +60,22 @@ async function parseMarkdownLink(markdown: string): Promise<Meta | null> {
       const mainUrl = `https://github.com/${user}/${repo}/archive/refs/heads/main.zip`
       const masterUrl = `https://github.com/${user}/${repo}/archive/refs/heads/master.zip`
       if (branchCache[url]) {
-        downloadURL = branchCache[url]
+        download = branchCache[url]
       } else {
         if ((await fetch(mainUrl)).status === 200) {
-          downloadURL = mainUrl
+          download = mainUrl
         } else {
-          downloadURL = masterUrl
+          download = masterUrl
         }
-        branchCache[url] = downloadURL
+        branchCache[url] = download
       }
     }
   }
 
   return {
     name: title,
-    url,
-    downloadURL,
+    homepage: url,
+    download,
     description: description,
     author,
   }
@@ -92,11 +94,8 @@ for (let line of txt
     const data = urlCache[line] ? urlCache[line] : await parseMarkdownLink(line)
     urlCache[line] = data!
     if (data) {
-      const s = metaToString(data!, "js")
-      writeFileSync(
-        `./meta/${data.name.replaceAll("/", "_")}.meta.js`,
-        s,
-      )
+      const s = scriptToString(data!, "js")
+      writeFileSync(`./meta/${data.name.replaceAll("/", "_")}.meta.js`, s)
     }
   }
 }

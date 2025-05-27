@@ -1,0 +1,7 @@
+{
+  "name": "clock",
+  "download": "https://gitlab.com/mozbugbox/mpv-script-mozbugbox",
+  "description": "Constantly show current time on the lower left corner of the video screen.",
+  "author": " ",
+  "homepage": "https://gitlab.com/mozbugbox/mpv-script-mozbugbox"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vmn",
+  "download": "https://github.com/Dudemanguy/vmn/archive/refs/heads/master.zip",
+  "description": "Cross-platform CLI music player, based on C/TUI.",
+  "author": "Dudemanguy",
+  "homepage": "https://github.com/Dudemanguy/vmn"
+}

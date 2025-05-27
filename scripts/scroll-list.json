@@ -1,0 +1,7 @@
+{
+  "name": "scroll-list",
+  "download": "https://github.com/CogentRedTester/mpv-scroll-list/archive/refs/heads/master.zip",
+  "description": "API to create interactive scrollable lists",
+  "author": "CogentRedTester",
+  "homepage": "https://github.com/CogentRedTester/mpv-scroll-list"
+}

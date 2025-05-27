@@ -1,0 +1,3201 @@
+{
+  "abs-screenshot": {
+    "name": "abs-screenshot",
+    "download": "https://raw.githubusercontent.com/Thann/mpv-abs-screenshot/master/abs-screenshot.lua",
+    "description": "Uses Exiftool to get the \"Date/Time Original\" and saves a screenshot with the name being the actual time the video was taken.",
+    "author": "Thann",
+    "homepage": "https://github.com/Thann/mpv-abs-screenshot/blob/master/abs-screenshot.lua"
+  },
+  "acestream": {
+    "name": "acestream",
+    "download": "https://github.com/Digitalone1/mpv-acestream/archive/refs/heads/master.zip",
+    "description": "Add AceStream protocol handler to mpv. Let the user open streams by dropping Acestream links into mpv GUI or by passing them as command line argument.",
+    "author": "Digitalone1",
+    "homepage": "https://github.com/Digitalone1/mpv-acestream"
+  },
+  "acompressor": {
+    "name": "acompressor",
+    "version": "0.1.0",
+    "description": "This script adds control to the dynamic range compression ffmpeg filter including key bindings for adjusting parameters.",
+    "author": "mpv-player",
+    "download": "https://raw.githubusercontent.com/mpv-player/mpv/master/TOOLS/lua/acompressor.lua"
+  },
+  "adevice-list": {
+    "name": "adevice-list",
+    "download": "https://raw.githubusercontent.com/dyphire/mpv-scripts/main/adevice-list.lua",
+    "description": "Interractive audio-device list menu.",
+    "author": "dyphire",
+    "homepage": "https://github.com/dyphire/mpv-scripts/blob/main/adevice-list.lua"
+  },
+  "afilter": {
+    "name": "afilter",
+    "download": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/afilter.lua",
+    "description": "Script for easy access to certain audio compressors and HRTF sofalizer in mpv with option to whitelist filters based on type of media.",
+    "author": "he2a",
+    "homepage": "https://github.com/he2a/mpv-scripts"
+  },
+  "anilist-updater": {
+    "name": "anilist-updater",
+    "download": "https://github.com/AzuredBlue/mpv-anilist-updater/archive/refs/heads/main.zip",
+    "description": "Automatically updates your AniList when reaching 80% completion based on the file name.",
+    "author": "AzuredBlue",
+    "homepage": "https://github.com/AzuredBlue/mpv-anilist-updater"
+  },
+  "aspeed.lua": {
+    "name": "aspeed.lua",
+    "download": "https://raw.githubusercontent.com/TinosNitso/mpv-scripts/main/aspeed.lua",
+    "description": "Multi-stereo speed randomization & tri-color clocks. Applies arbitrary speed formula & has chipmunk mode for left-channel. Also has double-mute insta-toggle. Primary channel may be left or right. A filterchain applies to all speakers - each is its own mpv. Has many script-messages.  For mpv v0.34→v0.38, SMPlayer, Windows, Linux, MacOS, Android, YouTube, mp4, mp3, jpg, etc. But no randomization for Android. ([Example](https://raw.githubusercontent.com/TinosNitso/mpv-scripts/main/SCREENSHOT.webp) clock).",
+    "author": "TinosNitso",
+    "homepage": "https://github.com/TinosNitso/mpv-scripts/blob/main/aspeed.lua"
+  },
+  "assrt by AssrtOSS": {
+    "name": "assrt by AssrtOSS",
+    "download": "https://github.com/AssrtOSS/mpv-assrt/archive/refs/heads/master.zip",
+    "description": "Download subtitles from assrt.net.",
+    "author": "AssrtOSS",
+    "homepage": "https://github.com/AssrtOSS/mpv-assrt"
+  },
+  "Audio WebDAV & Sub WebDAV": {
+    "name": "Audio WebDAV & Sub WebDAV",
+    "download": "https://github.com/Kibakus/mpv-scripts/archive/refs/heads/main.zip",
+    "description": "Auto connection of external subtitles and sound, using the \"WEBDAV\" protocol. The connection is explicit due to explicitly specifying folders on the WebDAV server.",
+    "author": "Kibakus",
+    "homepage": "https://github.com/Kibakus/mpv-scripts"
+  },
+  "audio-balance": {
+    "name": "audio-balance",
+    "download": "https://raw.githubusercontent.com/wiiaboo/mpv-scripts/master/audio-balance.lua",
+    "description": "Port of mpv's balance property to FFmpeg lavfi pan filter.",
+    "author": "wiiaboo",
+    "homepage": "https://github.com/wiiaboo/mpv-scripts/blob/master/audio-balance.lua"
+  },
+  "audio-dupe": {
+    "name": "audio-dupe",
+    "download": "https://gist.github.com/bitingsock/5e9714efff963c9689b0671d68f195ad",
+    "description": "Runs a child process to play a second audio stream. Synced through named pipe.",
+    "author": "bitingsock",
+    "homepage": "https://gist.github.com/bitingsock/5e9714efff963c9689b0671d68f195ad"
+  },
+  "audio-file-keys": {
+    "name": "audio-file-keys",
+    "download": "https://raw.githubusercontent.com/fbriere/mpv-scripts/master/scripts/audio-file-keys.lua",
+    "description": "Automatically apply key bindings when playing audio files.",
+    "author": "fbriere",
+    "homepage": "https://github.com/fbriere/mpv-scripts/blob/master/scripts/audio-file-keys.lua"
+  },
+  "auto-keep-gui-open": {
+    "name": "auto-keep-gui-open",
+    "download": "https://github.com/VideoPlayerCode/mpv-tools/archive/refs/heads/master.zip",
+    "description": "Intelligently switches mpv's \"keep-open\" behavior based on whether you are running in video-mode or audio-only mode.",
+    "author": "VideoPlayerCode",
+    "homepage": "https://github.com/VideoPlayerCode/mpv-tools/"
+  },
+  "auto-load-fonts": {
+    "name": "auto-load-fonts",
+    "download": "https://raw.githubusercontent.com/Hill-98/mpv-config/main/scripts/auto-load-fonts.js",
+    "description": "Auto load the font files in the fonts folder under the play file path.",
+    "author": "Hill-98",
+    "homepage": "https://github.com/Hill-98/mpv-config/blob/main/scripts/auto-load-fonts.js"
+  },
+  "auto-mode": {
+    "name": "auto-mode",
+    "download": "https://github.com/stax76/mpv-scripts/archive/refs/heads/main.zip",
+    "description": "Use mpv as video player, music player and image viewer, switch automatically between, video, audio and image mode.",
+    "author": "stax76",
+    "homepage": "https://github.com/stax76/mpv-scripts"
+  },
+  "auto-save-state": {
+    "name": "auto-save-state",
+    "download": "https://raw.githubusercontent.com/AN3223/dotfiles/master/.config/mpv/scripts/auto-save-state.lua",
+    "description": "Periodically saves progress with write-watch-later-config, and also cleans up the watch later data after the file is finished playing (so playlists may continue at the correct file).",
+    "author": "AN3223",
+    "homepage": "https://github.com/AN3223/dotfiles/blob/master/.config/mpv/scripts/auto-save-state.lua"
+  },
+  "autochapters": {
+    "name": "autochapters",
+    "download": "https://github.com/po5/mpv-auto-chapters/archive/refs/heads/master.zip",
+    "description": "Automatically finds chapters for your anime files.",
+    "author": "po5",
+    "homepage": "https://github.com/po5/mpv-auto-chapters"
+  },
+  "autocomplex.lua": {
+    "name": "autocomplex.lua",
+    "download": "https://raw.githubusercontent.com/TinosNitso/mpv-scripts/main/autocomplex.lua",
+    "description": "Accurate stereo spectrum overlay, with volume bars. Has many options for showfreqs, showvolume, moving overlays, colormixes, normalizers, interpolation, etc. Easy to distinguish stereo from mono.  Has many script-messages. For mpv v0.34→v0.38, SMPlayer, Windows, Linux, MacOS, Android, YouTube, mp4, mp3, etc.  [Example](https://github.com/TinosNitso/mpv-scripts/releases/download/v1.5.5/SCREENSHOT.webp) of dual-complex.",
+    "author": "TinosNitso",
+    "homepage": "https://github.com/TinosNitso/mpv-scripts/blob/main/autocomplex.lua"
+  },
+  "autocrop.lua": {
+    "name": "autocrop.lua",
+    "download": "https://raw.githubusercontent.com/TinosNitso/mpv-scripts/main/autocrop.lua",
+    "description": "Modded version randomizes aspect ratio & crops black bars off videos & images while maintaining center in horizontal & vertical. Double-mute toggles the crop & auto_aspect. Has tolerance options, & varies limit (& start/end limits) with media-title. Can display all cropdetect or bbox metadata. Handles transparent input.  For mpv v0.34→v0.38, SMPlayer, Windows, Linux, MacOS, Android, YouTube, mp4, mp3, jpg, etc. [Example](https://raw.githubusercontent.com/TinosNitso/mpv-scripts/main/SCREENSHOT.webp) of auto_aspect btwn 16:9 & 4:3.",
+    "author": "TinosNitso",
+    "homepage": "https://github.com/TinosNitso/mpv-scripts/blob/main/autocrop.lua"
+  },
+  "autocrop": {
+    "name": "autocrop",
+    "version": "0.1.0",
+    "description": "This script uses the lavfi cropdetect filter and the video-crop property to automatically crop the currently playing video with appropriate parameters.",
+    "author": "mpv-player",
+    "download": "https://raw.githubusercontent.com/mpv-player/mpv/master/TOOLS/lua/autocrop.lua"
+  },
+  "autodeint": {
+    "name": "autodeint",
+    "download": "https://raw.githubusercontent.com/mpv-player/mpv/master/TOOLS/lua/autodeint.lua",
+    "description": "Automatically deinterlace the video by using lavfi's idet filter to detect interlaced content.",
+    "author": "mpv-player",
+    "homepage": "https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autodeint.lua"
+  },
+  "autoload-sub": {
+    "name": "autoload-sub",
+    "version": "0.1.1",
+    "description": "Automatically load sub files",
+    "author": "mpv-easy",
+    "download": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/autoload-sub.js"
+  },
+  "autoload": {
+    "name": "autoload",
+    "download": "https://raw.githubusercontent.com/mpv-player/mpv/master/TOOLS/lua/autoload.lua",
+    "description": "Automatically load playlist entries before and after the currently playing file, by scanning the directory.",
+    "author": "mpv-player",
+    "homepage": "https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autoload.lua"
+  },
+  "autoloop": {
+    "name": "autoloop",
+    "download": "https://raw.githubusercontent.com/zc62/mpv-scripts/master/autoloop.lua",
+    "description": "Automatically loops files that are under a given duration (default 5 seconds).",
+    "author": "zc62",
+    "homepage": "https://github.com/zc62/mpv-scripts/blob/master/autoloop.lua"
+  },
+  "automask.lua": {
+    "name": "automask.lua",
+    "download": "https://raw.githubusercontent.com/TinosNitso/mpv-scripts/main/automask.lua",
+    "description": "Applies filterchain to animated masked region with inversion (blinking) & invisibility. `geq` uses any formula. Smooth toggle with double-mute. Comes with 14 examples, including blinking monacle, binacles, pentagon, spinning triangle, scanning visors etc. Has many script-messages.  For mpv v0.34→v0.38, SMPlayer, Windows, Linux, MacOS, Android, YouTube, mp4, mp3, jpg, etc. [Example](https://raw.githubusercontent.com/TinosNitso/mpv-scripts/main/SCREENSHOT.webp) mask.",
+    "author": "TinosNitso",
+    "homepage": "https://github.com/TinosNitso/mpv-scripts/blob/main/automask.lua"
+  },
+  "autosave": {
+    "name": "autosave",
+    "download": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/autosave.lua",
+    "description": "Periodically saves \"watch later\" data during playback, rather than only saving on quit. Newer [fork](https://gist.github.com/CyberShadow/2f71a97fb85ed42146f6d9f522bc34ef).",
+    "author": "Hakkin",
+    "homepage": "https://gist.github.com/Hakkin/5489e511bd6c8068a0fc09304c9c5a82"
+  },
+  "autoselect-forced-sub": {
+    "name": "autoselect-forced-sub",
+    "download": "https://github.com/pierretom/autoselect-forced-sub/archive/refs/heads/master.zip",
+    "description": "Automatically select forced subtitles in a different way.",
+    "author": "pierretom",
+    "homepage": "https://github.com/pierretom/autoselect-forced-sub"
+  },
+  "autospeed": {
+    "name": "autospeed",
+    "download": "https://github.com/kevinlekiller/mpv_scripts/blob/master/autospeed/",
+    "description": "Adjusts the display refresh rate and video speed for almost 1:1 playback (Unix-like OSes, Xorg / X11).",
+    "author": "kevinlekiller",
+    "homepage": "https://github.com/kevinlekiller/mpv_scripts/blob/master/autospeed/"
+  },
+  "autospeedwin": {
+    "name": "autospeedwin",
+    "download": "https://github.com/kevinlekiller/mpv_scripts/tree/master/autospeedwin",
+    "description": "Adjusts the display refresh rate and video speed for almost 1:1 playback (Windows).",
+    "author": "kevinlekiller",
+    "homepage": "https://github.com/kevinlekiller/mpv_scripts/tree/master/autospeedwin"
+  },
+  "autosub": {
+    "name": "autosub",
+    "download": "https://raw.githubusercontent.com/vayan/autosub-mpv/master/autosub.lua",
+    "description": "Automatically download subtitles using **subliminal**.",
+    "author": "vayan",
+    "homepage": "https://github.com/vayan/autosub-mpv/blob/master/autosub.lua"
+  },
+  "autosubsync": {
+    "name": "autosubsync",
+    "download": "https://github.com/joaquintorres/autosubsync-mpv/archive/refs/heads/master.zip",
+    "description": "Automatically sync subtitles using **ffsubsync**.",
+    "author": "joaquintorres",
+    "homepage": "https://github.com/joaquintorres/autosubsync-mpv"
+  },
+  "betterchapters": {
+    "name": "betterchapters",
+    "download": "https://gist.github.com/Hakkin/4f978a5c87c31f7fe3ae) ([update](https://github.com/mpv-player/mpv/issues/4738#issuecomment-321298846)",
+    "description": "Loads the next or previous playlist entry if there are no more chapters in the seek direction.",
+    "author": "Hakkin",
+    "homepage": "https://gist.github.com/Hakkin/4f978a5c87c31f7fe3ae) ([update](https://github.com/mpv-player/mpv/issues/4738#issuecomment-321298846)"
+  },
+  "blackout": {
+    "name": "blackout",
+    "download": "https://github.com/sibwaf/mpv-scripts/archive/refs/heads/master.zip",
+    "description": "A fast crossplatform boss-key, but without window minimization (and possible problems with some VO drivers).",
+    "author": "sibwaf",
+    "homepage": "https://github.com/sibwaf/mpv-scripts"
+  },
+  "bluetooth-av-delay": {
+    "name": "bluetooth-av-delay",
+    "download": "https://github.com/fatihkaan22/mpv-bluetooth-av-delay/archive/refs/heads/master.zip",
+    "description": "Adds desired A-V delay automatically, if default audio sink is a bluetooth device.",
+    "author": "fatihkaan22",
+    "homepage": "https://github.com/fatihkaan22/mpv-bluetooth-av-delay"
+  },
+  "blur-edges": {
+    "name": "blur-edges",
+    "download": "https://github.com/occivink/mpv-scripts#blur-edgeslua/archive/refs/heads/main.zip",
+    "description": "Replace black bars with a blurry copy of the video.",
+    "author": "occivink",
+    "homepage": "https://github.com/occivink/mpv-scripts#blur-edgeslua"
+  },
+  "bookmarker-menu": {
+    "name": "bookmarker-menu",
+    "download": "https://github.com/NurioHin/mpv-bookmarker/archive/refs/heads/master.zip",
+    "description": "Menu to manage all your bookmarks.",
+    "author": "NurioHin",
+    "homepage": "https://github.com/NurioHin/mpv-bookmarker"
+  },
+  "bookmarker": {
+    "name": "bookmarker",
+    "download": "https://github.com/nimatrueway/mpv-bookmark-lua-script/archive/refs/heads/master.zip",
+    "description": "Bookmark your favorite time on media files",
+    "author": "nimatrueway",
+    "homepage": "https://github.com/nimatrueway/mpv-bookmark-lua-script"
+  },
+  "boram": {
+    "name": "boram",
+    "download": "https://github.com/Kagami/boram/archive/refs/heads/master.zip",
+    "description": "Unmaintained cross-platform WebM converter, based on JavaScript/Web/Electron.",
+    "author": "Kagami",
+    "homepage": "https://github.com/Kagami/boram"
+  },
+  "boss-key-wayland": {
+    "name": "boss-key-wayland",
+    "download": "https://github.com/Man2Dev/mpv-wayland-Boss-key/archive/refs/heads/master.zip",
+    "description": "Minimise and pause video at the same time in Linux through xdg-portals.",
+    "author": "Man2Dev",
+    "homepage": "https://github.com/Man2Dev/mpv-wayland-Boss-key"
+  },
+  "boss-key": {
+    "name": "boss-key",
+    "download": "https://github.com/detuur/mpv-scripts/archive/refs/heads/master.zip",
+    "description": "Minimise and pause video at the same time. Windows/Linux. Eliminated the time lag in previous versions.",
+    "author": "detuur",
+    "homepage": "https://github.com/detuur/mpv-scripts"
+  },
+  "Botflix/stream-cli": {
+    "name": "Botflix/stream-cli",
+    "download": "https://github.com/kaboussi/Botflix/archive/refs/heads/main.zip",
+    "description": "Command-line tool that combines scrapy and webtorrent for streaming movies, based on Python/TUI.",
+    "author": "kaboussi",
+    "homepage": "https://github.com/kaboussi/Botflix"
+  },
+  "BoxToWide": {
+    "name": "BoxToWide",
+    "download": "https://github.com/Samillion/mpv-boxtowide/archive/refs/heads/master.zip",
+    "description": "A simple mpv script to change 4:3 aspect-ratio of video files/streams to 16:9 automatically.",
+    "author": "Samillion",
+    "homepage": "https://github.com/Samillion/mpv-boxtowide"
+  },
+  "bstat": {
+    "name": "bstat",
+    "download": "https://raw.githubusercontent.com/butterw/bShaders/master/mpv/settings/scripts/bstat.js",
+    "description": "Calculates new user-data properties (req mpv v0.36) including avg-bitrate, rounded file-size, exact aspect ratio, etc. Output to terminal or OSD. Updates when a new file is loaded or on demand.",
+    "author": "butterw",
+    "homepage": "https://github.com/butterw/bShaders/blob/master/mpv/settings/scripts/bstat.js"
+  },
+  "btfs-hook": {
+    "name": "btfs-hook",
+    "download": "https://github.com/aitet/mpv-btfs-hook/archive/refs/heads/master.zip",
+    "description": "Allows streaming torrents using FUSE via btfs.",
+    "author": "aitet",
+    "homepage": "https://github.com/aitet/mpv-btfs-hook"
+  },
+  "btfs-stream": {
+    "name": "btfs-stream",
+    "download": "https://github.com/noctuid/mpv-btfs-stream/archive/refs/heads/master.zip",
+    "description": "Allows streaming torrents using btfs. As far as I can tell, it is much simpler than the above scripts (no long shell script execution) and much more configurable (the other scripts have no settings). This is much slower than using webtorrent though, so I recommend using webtorrent-hook instead.",
+    "author": "noctuid",
+    "homepage": "https://github.com/noctuid/mpv-btfs-stream"
+  },
+  "btime": {
+    "name": "btime",
+    "download": "https://raw.githubusercontent.com/butterw/bShaders/master/mpv/settings/scripts/btime.js",
+    "description": "Shows a shorter time format when seeking: 0:15 / 3:10, 08:20 / 55:00, 0:00:05 / 1:30:14.",
+    "author": "butterw",
+    "homepage": "https://github.com/butterw/bShaders/blob/master/mpv/settings/scripts/btime.js"
+  },
+  "celebi": {
+    "name": "celebi",
+    "download": "https://github.com/po5/celebi/archive/refs/heads/master.zip",
+    "description": "An optimized script to restore properties from past sessions. Alternative to persist-properties and remember-props scripts.",
+    "author": "po5",
+    "homepage": "https://github.com/po5/celebi"
+  },
+  "censor": {
+    "name": "censor",
+    "download": "https://github.com/zenyd/mpv-scripts/archive/refs/heads/master.zip",
+    "description": "Skip over parts of videos you don't want (others) to view",
+    "author": "zenyd",
+    "homepage": "https://github.com/zenyd/mpv-scripts"
+  },
+  "Change-OSD-Media-Title": {
+    "name": "Change-OSD-Media-Title",
+    "download": "https://github.com/nmoorthy1/mpv-Change-OSD-Media-Title/archive/refs/heads/master.zip",
+    "description": "Displays filename, percentage watched, current chapter, and number of frames dropped in the OSD media title and updates it whenever one of the values has changed.",
+    "author": "nmoorthy1",
+    "homepage": "https://github.com/nmoorthy1/mpv-Change-OSD-Media-Title"
+  },
+  "change-screen-by-aspect-ratio": {
+    "name": "change-screen-by-aspect-ratio",
+    "download": "https://gist.github.com/stt/9e55ffa7f5047605b2dd8af417cf36f0",
+    "description": "Change the active fs-screen based on video's aspect ratio (for systems with monitors in landscape and portrait orientations).",
+    "author": "stt",
+    "homepage": "https://gist.github.com/stt/9e55ffa7f5047605b2dd8af417cf36f0"
+  },
+  "changerefresh": {
+    "name": "changerefresh",
+    "download": "https://github.com/CogentRedTester/mpv-changerefresh/archive/refs/heads/master.zip",
+    "description": "Automatically change the refresh rate of the current display to match the playing video (Windows).",
+    "author": "CogentRedTester",
+    "homepage": "https://github.com/CogentRedTester/mpv-changerefresh"
+  },
+  "channel mixer": {
+    "name": "channel mixer",
+    "download": "https://gist.github.com/bitingsock/1e7ef04a151963b38e347a723d7e3201",
+    "description": "A set of keybindings using a modifier (Shift or Ctrl) and the function keys (F8-F12) to can adjust the mixing level of surround channels on the fly.",
+    "author": "bitingsock",
+    "homepage": "https://gist.github.com/bitingsock/1e7ef04a151963b38e347a723d7e3201"
+  },
+  "chapter-converter": {
+    "name": "chapter-converter",
+    "download": "https://raw.githubusercontent.com/VimWei/mpv-config/main/scripts/chapter-converter.lua",
+    "description": "Converts chapter format between YouTube (e.g., \"00:10 chapter title\") and mpv (FFmpeg metadata).",
+    "author": "VimWei",
+    "homepage": "https://github.com/VimWei/mpv-config/blob/main/scripts/chapter-converter.lua"
+  },
+  "chapter-list": {
+    "name": "chapter-list",
+    "download": "https://raw.githubusercontent.com/CogentRedTester/mpv-scroll-list/master/examples/chapter-list.lua",
+    "description": "Interractive chapter-list menu.",
+    "author": "CogentRedTester",
+    "homepage": "https://github.com/CogentRedTester/mpv-scroll-list/blob/master/examples/chapter-list.lua"
+  },
+  "chapter-make-read": {
+    "name": "chapter-make-read",
+    "download": "https://raw.githubusercontent.com/dyphire/mpv-scripts/main/chapter-make-read.lua",
+    "description": "Automatically read an load the namesake external chapter file with extension of CHP. Temporarily mark the current playback position as a chapter so you can seek to it later. Also allows writing current chapters as CHP or XML. Based on `createchapter`.",
+    "author": "dyphire",
+    "homepage": "https://github.com/dyphire/mpv-scripts/blob/main/chapter-make-read.lua"
+  },
+  "chapters-menu": {
+    "name": "chapters-menu",
+    "download": "https://github.com/Seme4eg/mpv-scripts/tree/master#chapters-menu",
+    "description": "List all chapters of current video, search and choose any.",
+    "author": "Seme4eg",
+    "homepage": "https://github.com/Seme4eg/mpv-scripts/tree/master#chapters-menu"
+  },
+  "chapters": {
+    "name": "chapters",
+    "download": "https://github.com/zxhzxhz/mpv-chapters/archive/refs/heads/master.zip",
+    "description": "Display chapters and allow you to jump to them with a mouse click. ([Preview](https://i.imgur.com/f7WtKYN.png))",
+    "author": "zxhzxhz",
+    "homepage": "https://github.com/zxhzxhz/mpv-chapters"
+  },
+  "chapterskip": {
+    "name": "chapterskip",
+    "download": "https://github.com/po5/chapterskip/archive/refs/heads/master.zip",
+    "description": "Skip chapters based on their title.",
+    "author": "po5",
+    "homepage": "https://github.com/po5/chapterskip"
+  },
+  "chapters_for_mpv": {
+    "name": "chapters_for_mpv",
+    "download": "https://github.com/mar04/chapters_for_mpv/archive/refs/heads/main.zip",
+    "description": "Add, remove and edit chapters of the currently played media. Chapters you create can be saved into a separate text file and automatically loaded when you open the same media file again.",
+    "author": "mar04",
+    "homepage": "https://github.com/mar04/chapters_for_mpv"
+  },
+  "cheatsheet": {
+    "name": "cheatsheet",
+    "download": "https://github.com/ento/mpv-cheatsheet/archive/refs/heads/master.zip",
+    "description": "Looking up keyboard shortcuts (bindings).",
+    "author": "ento",
+    "homepage": "https://github.com/ento/mpv-cheatsheet"
+  },
+  "clipboard": {
+    "name": "clipboard",
+    "download": "https://github.com/CogentRedTester/mpv-clipboard/archive/refs/heads/master.zip",
+    "description": "Provides a set of generic commands to interact with the clipboard. Specifically it allows user to copy arbitrary text to the clipboard and provides the ability to paste the contents of the clipboard into other commands.",
+    "author": "CogentRedTester",
+    "homepage": "https://github.com/CogentRedTester/mpv-clipboard"
+  },
+  "clipshot": {
+    "name": "clipshot",
+    "download": "https://raw.githubusercontent.com/ObserverOfTime/mpv-scripts/master/clipshot.lua",
+    "description": "Screenshot the video (with subs, without subs or the whole window) and copy it to the clipboard. For Windows, Linux/BSD and MacOs",
+    "author": "ObserverOfTime",
+    "homepage": "https://github.com/ObserverOfTime/mpv-scripts/blob/master/clipshot.lua"
+  },
+  "clock": {
+    "name": "clock",
+    "download": "https://gitlab.com/mozbugbox/mpv-script-mozbugbox",
+    "description": "Constantly show current time on the lower left corner of the video screen.",
+    "author": " ",
+    "homepage": "https://gitlab.com/mozbugbox/mpv-script-mozbugbox"
+  },
+  "command_palette": {
+    "name": "command_palette",
+    "download": "https://github.com/stax76/mpv-scripts/archive/refs/heads/main.zip",
+    "description": "Searchable menu for",
+    "author": "stax76",
+    "homepage": "https://github.com/stax76/mpv-scripts"
+  },
+  "composition guides": {
+    "name": "composition guides",
+    "download": "https://github.com/Ares-0/mpv-composition-guides/archive/refs/heads/master.zip",
+    "description": "Overlay basic composition guides onto your video.",
+    "author": "Ares-0",
+    "homepage": "https://github.com/Ares-0/mpv-composition-guides"
+  },
+  "config-saver": {
+    "name": "config-saver",
+    "download": "https://github.com/Static39/mpv-scripts/tree/main/config-saver",
+    "description": "Saves current audio track, subtitle track, subtitle position, etc. for all videos in the folder.",
+    "author": "Static39",
+    "homepage": "https://github.com/Static39/mpv-scripts/tree/main/config-saver"
+  },
+  "confluence": {
+    "name": "confluence",
+    "download": "https://github.com/ftk/mpv-confluence/archive/refs/heads/master.zip",
+    "description": "Open magnet links using [confluence](https://github.com/anacrolix/confluence) HTTP service. Recommended to use [modified script](https://github.com/ftk/mpv-confluence/tree/torrserver) for [TorrServer](https://github.com/YouROK/TorrServer) instead.",
+    "author": "ftk",
+    "homepage": "https://github.com/ftk/mpv-confluence"
+  },
+  "contact-sheet": {
+    "name": "contact-sheet",
+    "download": "https://github.com/occivink/mpv-gallery-view/archive/refs/heads/master.zip",
+    "description": "Display thumbnails of the current file in the style of a contact sheet.",
+    "author": "occivink",
+    "homepage": "https://github.com/occivink/mpv-gallery-view"
+  },
+  "contextmenu": {
+    "name": "contextmenu",
+    "download": "https://gitlab.com/carmanaught/mpvcontextmenu",
+    "description": "Configurable context-menu based on Tcl/Tk (cross-platform).",
+    "author": " ",
+    "homepage": "https://gitlab.com/carmanaught/mpvcontextmenu"
+  },
+  "control": {
+    "name": "control",
+    "download": "https://github.com/oe-d/control/archive/refs/heads/master.zip",
+    "description": "Various features mainly for controlling playback.",
+    "author": "oe-d",
+    "homepage": "https://github.com/oe-d/control"
+  },
+  "convert_script": {
+    "name": "convert_script",
+    "download": "https://gist.github.com/Zehkul/25ea7ae77b30af959be0",
+    "description": "Script to quickly convert and crop videos from within mpv, with a GUI.",
+    "author": "Zehkul",
+    "homepage": "https://gist.github.com/Zehkul/25ea7ae77b30af959be0"
+  },
+  "copy to music": {
+    "name": "copy to music",
+    "download": "https://github.com/yazeed44/mpv-scripts/archive/refs/heads/master.zip",
+    "description": "Copies the current media file you're playing to a predefined directory, and plays the next entry in the playlist (Unix-like)",
+    "author": "yazeed44",
+    "homepage": "https://github.com/yazeed44/mpv-scripts"
+  },
+  "copy-paste-URL": {
+    "name": "copy-paste-URL",
+    "download": "https://github.com/zenyd/mpv-scripts/archive/refs/heads/master.zip",
+    "description": "Paste URLs directly from clipboard into mpv",
+    "author": "zenyd",
+    "homepage": "https://github.com/zenyd/mpv-scripts"
+  },
+  "copy-permalink": {
+    "name": "copy-permalink",
+    "download": "https://gist.github.com/olejorgenb/a5194d9bc183dbe0bfb02aac18fe37f9",
+    "description": "Copy `mpv --time=<current-position> <path-playing>` to clipboard. Useful for sharing when playing URLs.",
+    "author": "olejorgenb",
+    "homepage": "https://gist.github.com/olejorgenb/a5194d9bc183dbe0bfb02aac18fe37f9"
+  },
+  "copy-subtitle": {
+    "name": "copy-subtitle",
+    "download": "https://github.com/linguisticmind/mpv-scripts/tree/master/copy-subtitle",
+    "description": "Copies currently displayed subtitle line to clipboard.",
+    "author": "linguisticmind",
+    "homepage": "https://github.com/linguisticmind/mpv-scripts/tree/master/copy-subtitle"
+  },
+  "copy-timestamp": {
+    "name": "copy-timestamp",
+    "download": "https://github.com/linguisticmind/mpv-scripts/tree/master/copy-timestamp",
+    "description": "Copies current timecode in HH:MM:SS.MS format to clipboard.",
+    "author": "linguisticmind",
+    "homepage": "https://github.com/linguisticmind/mpv-scripts/tree/master/copy-timestamp"
+  },
+  "copyStuff": {
+    "name": "copyStuff",
+    "download": "https://github.com/rofe33/mpv-copyStuff/archive/refs/heads/master.zip",
+    "description": "Copy to clipboard the filename or URL, full filename path, current video time, current displayed subtitle text, video duration/metadata.",
+    "author": "rofe33",
+    "homepage": "https://github.com/rofe33/mpv-copyStuff"
+  },
+  "copyTime": {
+    "name": "copyTime",
+    "download": "https://github.com/Arieleg/mpv-copyTime/archive/refs/heads/master.zip",
+    "description": "Copies the current time to the clipboard.",
+    "author": "Arieleg",
+    "homepage": "https://github.com/Arieleg/mpv-copyTime"
+  },
+  "cord": {
+    "name": "cord",
+    "download": "https://github.com/yutotakano/mpvcord/archive/refs/heads/master.zip",
+    "description": "Discord integration for mpv, using the Game SDK instead of Discord RPC. Supports: MacOS and Windows. (Linux is not supported by Game SDK)",
+    "author": "yutotakano",
+    "homepage": "https://github.com/yutotakano/mpvcord"
+  },
+  "countdown": {
+    "name": "countdown",
+    "download": "https://raw.githubusercontent.com/butterw/bShaders/master/mpv/settings/scripts/countdown.lua",
+    "description": "Display a countdown on OSD for the final seconds of the video (or music file).",
+    "author": "butterw",
+    "homepage": "https://github.com/butterw/bShaders/blob/master/mpv/settings/scripts/countdown.lua"
+  },
+  "coverart": {
+    "name": "coverart",
+    "download": "https://github.com/CogentRedTester/mpv-coverart/archive/refs/heads/master.zip",
+    "description": "Automatically loads external cover art for music files.",
+    "author": "CogentRedTester",
+    "homepage": "https://github.com/CogentRedTester/mpv-coverart"
+  },
+  "cp-paste-URL": {
+    "name": "cp-paste-URL",
+    "download": "https://github.com/yassin-l/cp-paste-url.git/archive/refs/heads/master.zip",
+    "description": "Fork of copy-paste-URL with support for Linux.",
+    "author": "yassin-l",
+    "homepage": "https://github.com/yassin-l/cp-paste-url.git"
+  },
+  "createchapter": {
+    "name": "createchapter",
+    "download": "https://github.com/shinchiro/mpv-createchapter/archive/refs/heads/master.zip",
+    "description": "Temporarily mark the current playback position as a chapter so you can seek to it later. Also allows writing current chapters as XML.",
+    "author": "shinchiro",
+    "homepage": "https://github.com/shinchiro/mpv-createchapter"
+  },
+  "crop": {
+    "name": "crop",
+    "download": "https://github.com/occivink/mpv-scripts#croplua/archive/refs/heads/main.zip",
+    "description": "Crop the video by defining the target rectangle with the cursor.",
+    "author": "occivink",
+    "homepage": "https://github.com/occivink/mpv-scripts#croplua"
+  },
+  "cropmode": {
+    "name": "cropmode",
+    "download": "https://raw.githubusercontent.com/AN3223/dotfiles/master/.config/mpv/scripts/cropmode.lua",
+    "description": "Adds a keyboard-oriented mode for cropping, outputting the result in a format suitable for ffmpeg.",
+    "author": "AN3223",
+    "homepage": "https://github.com/AN3223/dotfiles/blob/master/.config/mpv/scripts/cropmode.lua"
+  },
+  "crop_script": {
+    "name": "crop_script",
+    "download": "https://github.com/TheAMM/mpv_crop_script/archive/refs/heads/master.zip",
+    "description": "Take cropped screenshots.",
+    "author": "TheAMM",
+    "homepage": "https://github.com/TheAMM/mpv_crop_script"
+  },
+  "curvesman": {
+    "name": "curvesman",
+    "download": "https://gitlab.com/mozbugbox/mpv-script-mozbugbox",
+    "description": "Manipulate color curves filter of FFmpeg with hotkeys. Brighten up color, change color temperature/tone, hopefully more. Adjust yellow light tone to white light tone.",
+    "author": " ",
+    "homepage": "https://gitlab.com/mozbugbox/mpv-script-mozbugbox"
+  },
+  "cut b1scoito": {
+    "name": "cut b1scoito",
+    "download": "https://github.com/b1scoito/mpv-cut/archive/refs/heads/main.zip",
+    "description": "Video cutting/clipping/slicing script.",
+    "author": "b1scoito",
+    "homepage": "https://github.com/b1scoito/mpv-cut"
+  },
+  "cut zydezu": {
+    "name": "cut zydezu",
+    "download": "https://raw.githubusercontent.com/zydezu/mpvconfig/main/scripts/mpvcut.lua",
+    "description": "Easily clip, compress and re-encode selected clips.",
+    "author": "zydezu",
+    "homepage": "https://github.com/zydezu/mpvconfig/blob/main/scripts/mpvcut.lua"
+  },
+  "cycle-adevice": {
+    "name": "cycle-adevice",
+    "download": "https://gist.github.com/bitingsock/ad58ee5da560ecb922fa4a867ac0ecfd",
+    "description": "Cycle through available audio devices.",
+    "author": "bitingsock",
+    "homepage": "https://gist.github.com/bitingsock/ad58ee5da560ecb922fa4a867ac0ecfd"
+  },
+  "cycle-audio-device": {
+    "name": "cycle-audio-device",
+    "download": "https://gist.github.com/bitingsock/ad58ee5da560ecb922fa4a867ac0ecfd",
+    "description": "Cycle through available audio devices with key binds.",
+    "author": "bitingsock",
+    "homepage": "https://gist.github.com/bitingsock/ad58ee5da560ecb922fa4a867ac0ecfd"
+  },
+  "cycle-commands": {
+    "name": "cycle-commands",
+    "download": "https://raw.githubusercontent.com/CogentRedTester/mpv-scripts/master/cycle-commands.lua",
+    "description": "Allows input.conf commands to be cycled through with keybinds.",
+    "author": "CogentRedTester",
+    "homepage": "https://github.com/CogentRedTester/mpv-scripts/blob/master/cycle-commands.lua"
+  },
+  "cycle-deinterlace-pullup": {
+    "name": "cycle-deinterlace-pullup",
+    "download": "https://raw.githubusercontent.com/mpv-player/mpv/master/TOOLS/lua/cycle-deinterlace-pullup.lua",
+    "description": "Cycle between deinterlacing, pullup (IVTC), and both filters off.",
+    "author": "mpv-player",
+    "homepage": "https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/cycle-deinterlace-pullup.lua"
+  },
+  "cycle-denoise": {
+    "name": "cycle-denoise",
+    "download": "https://gist.github.com/myfreeer/d744c445aa71c0eeb165ca39cf6c0511",
+    "description": "Cycle between lavfi's denoise filters (press n)",
+    "author": "myfreeer",
+    "homepage": "https://gist.github.com/myfreeer/d744c445aa71c0eeb165ca39cf6c0511"
+  },
+  "cycle-through-existing": {
+    "name": "cycle-through-existing",
+    "download": "https://github.com/viniciusbm/mpv-cycle-through-existing/archive/refs/heads/master.zip",
+    "description": "Cycle through existing video/audio/subtitle tracks, skipping the \"none\" option.",
+    "author": "viniciusbm",
+    "homepage": "https://github.com/viniciusbm/mpv-cycle-through-existing"
+  },
+  "cycle-video-rotate": {
+    "name": "cycle-video-rotate",
+    "download": "https://github.com/VideoPlayerCode/mpv-tools/archive/refs/heads/master.zip",
+    "description": "Allows you to perform video rotation which perfectly cycles through all 360 degrees without any glitches.",
+    "author": "VideoPlayerCode",
+    "homepage": "https://github.com/VideoPlayerCode/mpv-tools/"
+  },
+  "cycle_messages": {
+    "name": "cycle_messages",
+    "download": "https://gist.github.com/rrooij/59f57ff5f5a952e56bbb",
+    "description": "Cycle between custom OSD messages.",
+    "author": "rrooij",
+    "homepage": "https://gist.github.com/rrooij/59f57ff5f5a952e56bbb"
+  },
+  "dark-box": {
+    "name": "dark-box",
+    "download": "https://github.com/maoiscat/mpv-dark-box/archive/refs/heads/main.zip",
+    "description": "OSC replacement.",
+    "author": "maoiscat",
+    "homepage": "https://github.com/maoiscat/mpv-dark-box"
+  },
+  "dbvol": {
+    "name": "dbvol",
+    "download": "https://gist.github.com/Artefact2/0a9c87d6d0f0ef6a565e44d830943fff",
+    "description": "Replaces the default volume controls with a decibel (dB) scale instead of arbitrary percentages.",
+    "author": "Artefact2",
+    "homepage": "https://gist.github.com/Artefact2/0a9c87d6d0f0ef6a565e44d830943fff"
+  },
+  "debug-plugin": {
+    "name": "debug-plugin",
+    "download": "https://github.com/tsl0922/mpv-debug-plugin/archive/refs/heads/main.zip",
+    "description": "A debug tool for mpv script developers, with GUI support for properties and console.",
+    "author": "tsl0922",
+    "homepage": "https://github.com/tsl0922/mpv-debug-plugin"
+  },
+  "deframe": {
+    "name": "deframe",
+    "download": "https://github.com/dimitris888/mpv-deframe/archive/refs/heads/master.zip",
+    "description": "Removes the frame of YouTube videos.",
+    "author": "dimitris888",
+    "homepage": "https://github.com/dimitris888/mpv-deframe"
+  },
+  "delete-current-file": {
+    "name": "delete-current-file",
+    "download": "https://github.com/stax76/mpv-scripts/archive/refs/heads/main.zip",
+    "description": "Moves the current file instantly to the recycle bin.",
+    "author": "stax76",
+    "homepage": "https://github.com/stax76/mpv-scripts"
+  },
+  "delete-file": {
+    "name": "delete-file",
+    "download": "https://github.com/zenyd/mpv-scripts/archive/refs/heads/master.zip",
+    "description": "Delete files being played.",
+    "author": "zenyd",
+    "homepage": "https://github.com/zenyd/mpv-scripts"
+  },
+  "delogo": {
+    "name": "delogo",
+    "download": "https://github.com/GitHubUserKaito/mpv-delogo/archive/refs/heads/master.zip",
+    "description": "Remove channel logo from videos.",
+    "author": "GitHubUserKaito",
+    "homepage": "https://github.com/GitHubUserKaito/mpv-delogo"
+  },
+  "dessubdb": {
+    "name": "dessubdb",
+    "download": "https://raw.githubusercontent.com/demanuel/dessubdb/master/mpv.lua",
+    "description": "Download automatically subtitles from the thesubdb.com using [DESSubdb](https://github.com/demanuel/dessubdb).",
+    "author": "demanuel",
+    "homepage": "https://github.com/demanuel/dessubdb/blob/master/mpv.lua"
+  },
+  "discord": {
+    "name": "discord",
+    "download": "https://github.com/tnychn/mpv-discord/archive/refs/heads/main.zip",
+    "description": "A cross-platform Discord Rich Presence integration for mpv with no external dependencies. Consists of a Go binary for updating the presence and a Lua script for launching it.",
+    "author": "tnychn",
+    "homepage": "https://github.com/tnychn/mpv-discord"
+  },
+  "discordRPC": {
+    "name": "discordRPC",
+    "download": "https://github.com/noaione/mpv-discordRPC/archive/refs/heads/master.zip",
+    "description": "Discord RPC integration for mpv using lua-discordRPC as base.",
+    "author": "noaione",
+    "homepage": "https://github.com/noaione/mpv-discordRPC"
+  },
+  "DLNAmpvRenderer": {
+    "name": "DLNAmpvRenderer",
+    "download": "https://github.com/PCigales/DLNAmpvRenderer/archive/refs/heads/master.zip",
+    "description": "Windows DLNA/UPnP renderer based on Python.",
+    "author": "PCigales",
+    "homepage": "https://github.com/PCigales/DLNAmpvRenderer"
+  },
+  "drcbox": {
+    "name": "drcbox",
+    "download": "https://gist.github.com/richardpl/0c8011dc23d7ac7b7831b2e6d680114f",
+    "description": "Dynamic Audio Normalizer filter with visual feedback.",
+    "author": "richardpl",
+    "homepage": "https://gist.github.com/richardpl/0c8011dc23d7ac7b7831b2e6d680114f"
+  },
+  "dualsubs utils": {
+    "name": "dualsubs utils",
+    "download": "https://github.com/VimWei/mpv-config/archive/refs/heads/main.zip",
+    "description": "Auto load dual subs; Auto reload dual subs; Swap primary/secondary subs position; Merge dual subs to one ASS sub.",
+    "author": "VimWei",
+    "homepage": "https://github.com/VimWei/mpv-config"
+  },
+  "dvd-browser": {
+    "name": "dvd-browser",
+    "download": "https://github.com/CogentRedTester/mpv-dvd-browser/archive/refs/heads/master.zip",
+    "description": "Browse and load DVD titles.",
+    "author": "CogentRedTester",
+    "homepage": "https://github.com/CogentRedTester/mpv-dvd-browser"
+  },
+  "dynamic-crop": {
+    "name": "dynamic-crop",
+    "download": "https://github.com/Ashyni/mpv-scripts#dynamic-croplua/archive/refs/heads/main.zip",
+    "description": "Dynamically crop the video by using lavfi's cropdetect filter to detect hard-coded black bars for Ultra Wide Screen (21:9) or any screen different from 16:9 (phone/old TV).",
+    "author": "Ashyni",
+    "homepage": "https://github.com/Ashyni/mpv-scripts#dynamic-croplua"
+  },
+  "dyn_menu": {
+    "name": "dyn_menu",
+    "download": "https://raw.githubusercontent.com/tsl0922/mpv-menu-plugin/main/src/lua/dyn_menu.lua",
+    "description": "Context Menu with support for defining the context menu in input.conf.",
+    "author": "tsl0922",
+    "homepage": "https://github.com/tsl0922/mpv-menu-plugin/blob/main/src/lua/dyn_menu.lua"
+  },
+  "easycrop": {
+    "name": "easycrop",
+    "download": "https://github.com/aidanholm/mpv-easycrop/archive/refs/heads/master.zip",
+    "description": "Cropping videos with ease.",
+    "author": "aidanholm",
+    "homepage": "https://github.com/aidanholm/mpv-easycrop"
+  },
+  "encode": {
+    "name": "encode",
+    "download": "https://github.com/occivink/mpv-scripts#encodelua/archive/refs/heads/main.zip",
+    "description": "Re-encode or remux part of the current video. Can also preserve some filters, such as \"crop\".",
+    "author": "occivink",
+    "homepage": "https://github.com/occivink/mpv-scripts#encodelua"
+  },
+  "equalizer": {
+    "name": "equalizer",
+    "download": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/equalizer.lua",
+    "description": "Togglable parametric equalizer with EQ configuration similar to EqualizerAPO format present in a csv format.",
+    "author": "he2a",
+    "homepage": "https://github.com/he2a/mpv-scripts"
+  },
+  "evafast": {
+    "name": "evafast",
+    "download": "https://github.com/po5/evafast/archive/refs/heads/master.zip",
+    "description": "Fast-forwarding and seeking on a single key, with quality of life features like slowing down a bit when subtitles are shown.",
+    "author": "po5",
+    "homepage": "https://github.com/po5/evafast"
+  },
+  "excerpt": {
+    "name": "excerpt",
+    "download": "https://gitlab.com/lvml/mpv-plugin-excerpt",
+    "description": "Allows you to quickly create excerpts from media files, you just have to set begin and end markers.",
+    "author": " ",
+    "homepage": "https://gitlab.com/lvml/mpv-plugin-excerpt"
+  },
+  "excessive-history": {
+    "name": "excessive-history",
+    "download": "https://gist.github.com/Abject-Web/3f4f0e85dad73303b9dd1ef1f55c3147",
+    "description": "Excessive played media logger. Logs file name, time, and which parts were played. Will generate a `history.txt` in the mpv config folder. Only tested on Windows.",
+    "author": "Abject-Web",
+    "homepage": "https://gist.github.com/Abject-Web/3f4f0e85dad73303b9dd1ef1f55c3147"
+  },
+  "exit-fullscreen": {
+    "name": "exit-fullscreen",
+    "download": "https://raw.githubusercontent.com/zc62/mpv-scripts/master/exit-fullscreen.lua",
+    "description": "If you use `--keep-open=yes`, this script exits fullscreen mode when the playback reaches the end of file/playlist.",
+    "author": "zc62",
+    "homepage": "https://github.com/zc62/mpv-scripts/blob/master/exit-fullscreen.lua"
+  },
+  "extended-menu": {
+    "name": "extended-menu",
+    "download": "https://github.com/Seme4eg/mpv-scripts/tree/master/script-modules",
+    "description": "API to create a searchable menu (command palette).",
+    "author": "Seme4eg",
+    "homepage": "https://github.com/Seme4eg/mpv-scripts/tree/master/script-modules"
+  },
+  "fastforward": {
+    "name": "fastforward",
+    "download": "https://raw.githubusercontent.com/jgreco/mpv-scripts/master/fastforward.lua",
+    "description": "Instead of skipping forward in media files, speed up the playback for a few seconds.  Playback speed decays back to 1x after a few seconds.  Tap rapidly or hold down to go faster.",
+    "author": "jgreco",
+    "homepage": "https://github.com/jgreco/mpv-scripts/blob/master/fastforward.lua"
+  },
+  "ff-silence": {
+    "name": "ff-silence",
+    "download": "https://github.com/mesvam/ff-silence/archive/refs/heads/master.zip",
+    "description": "Fast forward through silences and quiet parts of audio, useful on videos where the speaker uses many long pauses.",
+    "author": "mesvam",
+    "homepage": "https://github.com/mesvam/ff-silence"
+  },
+  "ff2mpv": {
+    "name": "ff2mpv",
+    "download": "https://github.com/woodruffw/ff2mpv/archive/refs/heads/master.zip",
+    "description": "A Firefox/Chrome extension for playing URLs in mpv, based on PowerShel/Shell/Python/JavaScript.",
+    "author": "woodruffw",
+    "homepage": "https://github.com/woodruffw/ff2mpv"
+  },
+  "file-browser": {
+    "name": "file-browser",
+    "download": "https://github.com/CogentRedTester/mpv-file-browser/archive/refs/heads/master.zip",
+    "description": "On screen file browser.",
+    "author": "CogentRedTester",
+    "homepage": "https://github.com/CogentRedTester/mpv-file-browser"
+  },
+  "file-rating": {
+    "name": "file-rating",
+    "download": "https://github.com/stax76/mpv-scripts/archive/refs/heads/main.zip",
+    "description": "Writes a star rating to the filename of the current file.",
+    "author": "stax76",
+    "homepage": "https://github.com/stax76/mpv-scripts"
+  },
+  "filenavigator": {
+    "name": "filenavigator",
+    "download": "https://github.com/jonniek/mpv-filenavigator/archive/refs/heads/master.zip",
+    "description": "Navigate and open local files.",
+    "author": "jonniek",
+    "homepage": "https://github.com/jonniek/mpv-filenavigator"
+  },
+  "filter-test": {
+    "name": "filter-test",
+    "download": "https://gitlab.com/mozbugbox/mpv-script-mozbugbox",
+    "description": "Test mpv/FFmpeg video filter(vf) strings with editable popup dialog.",
+    "author": " ",
+    "homepage": "https://gitlab.com/mozbugbox/mpv-script-mozbugbox"
+  },
+  "find_subtitles": {
+    "name": "find_subtitles",
+    "download": "https://github.com/directorscut82/find_subtitles/archive/refs/heads/master.zip",
+    "description": "(Down)load subtitles with subliminal.",
+    "author": "directorscut82",
+    "homepage": "https://github.com/directorscut82/find_subtitles"
+  },
+  "firequalizer15": {
+    "name": "firequalizer15",
+    "version": "0.1.0",
+    "description": "Linear Phase 15-Bands Equalizer",
+    "author": "mfcc64",
+    "download": "https://raw.githubusercontent.com/mfcc64/mpv-scripts/master/firequalizer15.lua"
+  },
+  "fix_sub_timing": {
+    "name": "fix_sub_timing",
+    "download": "https://raw.githubusercontent.com/wiiaboo/mpv-scripts/master/fix-sub-timing.lua",
+    "description": "Compute the correct speed/delay of subtitles by manually synching two points in time.",
+    "author": "wiiaboo",
+    "homepage": "https://github.com/wiiaboo/mpv-scripts/blob/master/fix-sub-timing.lua"
+  },
+  "force-window-profile": {
+    "name": "force-window-profile",
+    "download": "https://raw.githubusercontent.com/AN3223/dotfiles/master/.config/mpv/scripts/force-window-profile.lua",
+    "description": "Applies the force-window profile when force-window is set (i.e. when starting mpv from the .desktop file)",
+    "author": "AN3223",
+    "homepage": "https://github.com/AN3223/dotfiles/blob/master/.config/mpv/scripts/force-window-profile.lua"
+  },
+  "frame_info": {
+    "name": "frame_info",
+    "download": "https://github.com/Kagami/mpv_frame_info/archive/refs/heads/master.zip",
+    "description": "Show frame info, similar to ffdshow's OSD.",
+    "author": "Kagami",
+    "homepage": "https://github.com/Kagami/mpv_frame_info"
+  },
+  "fuzzydir": {
+    "name": "fuzzydir",
+    "download": "https://github.com/sibwaf/mpv-scripts/archive/refs/heads/master.zip",
+    "description": "Allows using wildcards for `sub-file-paths` and `audio-file-paths`.",
+    "author": "sibwaf",
+    "homepage": "https://github.com/sibwaf/mpv-scripts"
+  },
+  "gallery-dl-view": {
+    "name": "gallery-dl-view",
+    "download": "https://github.com/noctuid/gallery-dl-view/archive/refs/heads/master.zip",
+    "description": "Load image galleries directly in mpv like gallery-dl_hook but with extra functionality like binding a key to download images, optionally only loading images that are new since the gallery was last opened, and more.",
+    "author": "noctuid",
+    "homepage": "https://github.com/noctuid/gallery-dl-view"
+  },
+  "gallery-dl_hook": {
+    "name": "gallery-dl_hook",
+    "download": "https://raw.githubusercontent.com/jgreco/mpv-scripts/master/gallery-dl_hook.lua",
+    "description": "Load online image galleries (imgur, etc) as playlists using [gallery-dl](https://github.com/mikf/gallery-dl/).",
+    "author": "jgreco",
+    "homepage": "https://github.com/jgreco/mpv-scripts/blob/master/gallery-dl_hook.lua"
+  },
+  "generate-edl": {
+    "name": "generate-edl",
+    "download": "https://gist.github.com/guidocella/5f05794d0a8400b2393fe7a9995ebb43",
+    "description": "Bookmark scenes in EDL files.",
+    "author": "guidocella",
+    "homepage": "https://gist.github.com/guidocella/5f05794d0a8400b2393fe7a9995ebb43"
+  },
+  "gestures": {
+    "name": "gestures",
+    "download": "https://github.com/omeryagmurlu/mpv-gestures/archive/refs/heads/master.zip",
+    "description": "Touchscreen and mouse gestures.",
+    "author": "omeryagmurlu",
+    "homepage": "https://github.com/omeryagmurlu/mpv-gestures"
+  },
+  "gif-generator": {
+    "name": "gif-generator",
+    "download": "https://github.com/the-honey/mpv-gif-generator/archive/refs/heads/master.zip",
+    "description": "Creates animated gifs using hotkeys.",
+    "author": "the-honey",
+    "homepage": "https://github.com/the-honey/mpv-gif-generator"
+  },
+  "gnome-inhibit": {
+    "name": "gnome-inhibit",
+    "download": "https://gist.github.com/crazygolem/a7d3a2d3c0cee5d072c0cbbbdee69286",
+    "description": "Prevent the screen from blanking under GNOME+Wayland while a video is playing.",
+    "author": "crazygolem",
+    "homepage": "https://gist.github.com/crazygolem/a7d3a2d3c0cee5d072c0cbbbdee69286"
+  },
+  "gpufreq": {
+    "name": "gpufreq",
+    "download": "https://github.com/CounterPillow/mpv-gpufreq/archive/refs/heads/master.zip",
+    "description": "Displays the current and maximum GPU frequency as an osd message.",
+    "author": "CounterPillow",
+    "homepage": "https://github.com/CounterPillow/mpv-gpufreq"
+  },
+  "groupwatch_sync": {
+    "name": "groupwatch_sync",
+    "download": "https://github.com/po5/groupwatch_sync/archive/refs/heads/master.zip",
+    "description": "Automatically start and get back in sync with a group watch.",
+    "author": "po5",
+    "homepage": "https://github.com/po5/groupwatch_sync"
+  },
+  "guess-media-title": {
+    "name": "guess-media-title",
+    "download": "https://raw.githubusercontent.com/zenwarr/mpv-config/master/scripts/guess-media-title.lua",
+    "description": "Uses [guessit](https://github.com/guessit-io/guessit) to detect a media title by filename and set `force-media-title` variable. Useful for getting cleaner screenshot file names.",
+    "author": "zenwarr",
+    "homepage": "https://github.com/zenwarr/mpv-config/blob/master/scripts/guess-media-title.lua"
+  },
+  "Harmonoid": {
+    "name": "Harmonoid",
+    "download": "https://harmonoid.com",
+    "description": "Cross-platform, based on Dart/Flutter.",
+    "author": " ",
+    "homepage": "https://harmonoid.com"
+  },
+  "histogram": {
+    "name": "histogram",
+    "download": "https://github.com/detuur/mpv-scripts/archive/refs/heads/master.zip",
+    "description": "Exposes a configurable way to overlay ffmpeg histograms in mpv. There is a substantial amount of config available.",
+    "author": "detuur",
+    "homepage": "https://github.com/detuur/mpv-scripts"
+  },
+  "history-bookmark": {
+    "name": "history-bookmark",
+    "download": "https://github.com/yuukidach/mpv-scripts/archive/refs/heads/master.zip",
+    "description": "Create a history file to store the episode we watched last time. And let us easily jump to the video we watched last time.",
+    "author": "yuukidach",
+    "homepage": "https://github.com/yuukidach/mpv-scripts"
+  },
+  "history": {
+    "name": "history",
+    "download": "http://git.smrk.net/mpv-scripts/file/history.lua.html",
+    "description": "Autosave played media items in an SQLite database, restore last played position, select (with dmenu(1)) and play item from history.",
+    "author": " ",
+    "homepage": "http://git.smrk.net/mpv-scripts/file/history.lua.html"
+  },
+  "http-ytproxy": {
+    "name": "http-ytproxy",
+    "download": "https://gist.github.com/ftk/253347b2c9a53bbd6087f086970106b6",
+    "description": "Simple MitM http proxy to modify Range http headers. Can be used to speed up youtube videos.",
+    "author": "ftk",
+    "homepage": "https://gist.github.com/ftk/253347b2c9a53bbd6087f086970106b6"
+  },
+  "i3-floating-centered": {
+    "name": "i3-floating-centered",
+    "download": "https://github.com/mdnghtman/mpv-i3-floating-centered/archive/refs/heads/master.zip",
+    "description": "Show mpv window in the center of the display when it is in floating mode (i3wm)",
+    "author": "mdnghtman",
+    "homepage": "https://github.com/mdnghtman/mpv-i3-floating-centered"
+  },
+  "image-config": {
+    "name": "image-config",
+    "download": "https://github.com/guidocella/mpv-image-config/archive/refs/heads/main.zip",
+    "description": "A configuration to use mpv as an image viewer.",
+    "author": "guidocella",
+    "homepage": "https://github.com/guidocella/mpv-image-config"
+  },
+  "image-viewer": {
+    "name": "image-viewer",
+    "download": "https://github.com/occivink/mpv-image-viewer/archive/refs/heads/master.zip",
+    "description": "Configuration, scripts and tips for using mpv as an image viewer.",
+    "author": "occivink",
+    "homepage": "https://github.com/occivink/mpv-image-viewer"
+  },
+  "immersive": {
+    "name": "immersive",
+    "download": "https://github.com/Ben-Kerman/immersive/archive/refs/heads/master.zip",
+    "description": "Looking up words generating Anki flashcards.",
+    "author": "Ben-Kerman",
+    "homepage": "https://github.com/Ben-Kerman/immersive"
+  },
+  "inhibit_gnome": {
+    "name": "inhibit_gnome",
+    "download": "https://github.com/Guldoman/mpv_inhibit_gnome/archive/refs/heads/master.zip",
+    "description": "Prevent screen blanking on GNOME while content is playing",
+    "author": "Guldoman",
+    "homepage": "https://github.com/Guldoman/mpv_inhibit_gnome"
+  },
+  "InputEvent": {
+    "name": "InputEvent",
+    "download": "https://github.com/Natural-Harmonia-Gropius/InputEvent/archive/refs/heads/master.zip",
+    "description": "Enhanced input.conf with better, conflict-free, low-latency event mechanism.",
+    "author": "Natural-Harmonia-Gropius",
+    "homepage": "https://github.com/Natural-Harmonia-Gropius/InputEvent"
+  },
+  "interactive-video": {
+    "name": "interactive-video",
+    "download": "https://github.com/mosquito-byte/mpv-interactive-video/archive/refs/heads/master.zip",
+    "description": "Script for watching interactive videos (such as Netflix's *Black Mirror: Bandersnatch*).",
+    "author": "mosquito-byte",
+    "homepage": "https://github.com/mosquito-byte/mpv-interactive-video"
+  },
+  "interSubs": {
+    "name": "interSubs",
+    "download": "https://github.com/oltodosel/interSubs/archive/refs/heads/master.zip",
+    "description": "Interactive subtitles, instantly translate selected word/sentence.",
+    "author": "oltodosel",
+    "homepage": "https://github.com/oltodosel/interSubs"
+  },
+  "irc": {
+    "name": "irc",
+    "download": "https://github.com/po5/mpv_irc/archive/refs/heads/master.zip",
+    "description": "Displays lines from an irc channel.",
+    "author": "po5",
+    "homepage": "https://github.com/po5/mpv_irc"
+  },
+  "jellyfin mpv shim": {
+    "name": "jellyfin mpv shim",
+    "download": "https://github.com/jellyfin/jellyfin-mpv-shim/archive/refs/heads/master.zip",
+    "description": "Jellyfin (Emby/Plex alternative) Client, based on Python.",
+    "author": "jellyfin",
+    "homepage": "https://github.com/jellyfin/jellyfin-mpv-shim"
+  },
+  "jellyfin": {
+    "name": "jellyfin",
+    "download": "https://github.com/EmperorPenguin18/mpv-jellyfin/archive/refs/heads/main.zip",
+    "description": "Turns mpv into a Jellyfin client.",
+    "author": "EmperorPenguin18",
+    "homepage": "https://github.com/EmperorPenguin18/mpv-jellyfin"
+  },
+  "kde-do-not-disturb": {
+    "name": "kde-do-not-disturb",
+    "download": "https://gitlab.com/smaniottonicola/kde-do-not-disturb",
+    "description": "Disable the notifications while mpv is running",
+    "author": " ",
+    "homepage": "https://gitlab.com/smaniottonicola/kde-do-not-disturb"
+  },
+  "kde-night-color": {
+    "name": "kde-night-color",
+    "download": "https://gitlab.com/smaniottonicola/kde-night-color",
+    "description": "Disable Night Color while mpv is running.",
+    "author": " ",
+    "homepage": "https://gitlab.com/smaniottonicola/kde-night-color"
+  },
+  "KDialog-open-files": {
+    "name": "KDialog-open-files",
+    "download": "https://gist.github.com/ntasos/d1d846abd7d25e4e83a78d22ee067a22",
+    "description": "Use KDE's KDialog to add files to playlist, subtitles to playing video or open URLs.",
+    "author": "ntasos",
+    "homepage": "https://gist.github.com/ntasos/d1d846abd7d25e4e83a78d22ee067a22"
+  },
+  "KikoPlay": {
+    "name": "KikoPlay",
+    "download": "https://github.com/KikoPlayProject/KikoPlay/archive/refs/heads/master.zip",
+    "description": "Cross-platform [Danmu](https://en.wikipedia.org/wiki/Danmu) player, based on C++/QT.",
+    "author": "KikoPlayProject",
+    "homepage": "https://github.com/KikoPlayProject/KikoPlay"
+  },
+  "kodi hook": {
+    "name": "kodi hook",
+    "download": "https://github.com/Eskander/kodi-mpv-hook/archive/refs/heads/main.zip",
+    "description": "Allows Kodi streaming add-ons to work correctly when using mpv as an [external player for Kodi](https://kodi.wiki/view/External_players) by parsing and extracting protocol options from Kodi's [custom URL format](https://kodi.wiki/view/HTTP).",
+    "author": "Eskander",
+    "homepage": "https://github.com/Eskander/kodi-mpv-hook"
+  },
+  "lang-learner": {
+    "name": "lang-learner",
+    "download": "https://github.com/liberlanco/mpv-lang-learner/archive/refs/heads/main.zip",
+    "description": "Turn MPV into language learner tool. Includes:  AB-loop current subtitle or auto loop each one, quick switch between lang you know and lang you are learning, forward to browser (dictionaries, translators), record for future extra learning, export to external script for integrations, and a bit more.",
+    "author": "liberlanco",
+    "homepage": "https://github.com/liberlanco/mpv-lang-learner"
+  },
+  "last.fm scrobbler": {
+    "name": "last.fm scrobbler",
+    "download": "https://github.com/MugoSquero/mpv_scrobbler/archive/refs/heads/main.zip",
+    "description": "Sends the information about playing tracks to [last.fm](http://last.fm/), see http://www.last.fm/help/faq?category=99 for more info.",
+    "author": "MugoSquero",
+    "homepage": "https://github.com/MugoSquero/mpv_scrobbler"
+  },
+  "lats": {
+    "name": "lats",
+    "download": "https://raw.githubusercontent.com/AN3223/dotfiles/master/.config/mpv/lats.lua",
+    "description": "The Low ATtention Span mpv script. Plays brief segments from random positions of one or more files, kinda like flipping through TV channels.",
+    "author": "AN3223",
+    "homepage": "https://github.com/AN3223/dotfiles/blob/master/.config/mpv/lats.lua"
+  },
+  "leader key": {
+    "name": "leader key",
+    "download": "https://github.com/Seme4eg/mpv-scripts/tree/master#leader",
+    "description": "Adds _leader_ key to your mpv. With prefixes and [which-key](https://github.com/justbur/emacs-which-key) functionality. [demo](https://i.imgur.com/dUWFu3u.gif)",
+    "author": "Seme4eg",
+    "homepage": "https://github.com/Seme4eg/mpv-scripts/tree/master#leader"
+  },
+  "libass_sub_selector": {
+    "name": "libass_sub_selector",
+    "download": "https://github.com/po5/libass_sub_selector/archive/refs/heads/master.zip",
+    "description": "Visually select individual subtitles a la PotPlayer.",
+    "author": "po5",
+    "homepage": "https://github.com/po5/libass_sub_selector"
+  },
+  "libunity": {
+    "name": "libunity",
+    "download": "https://github.com/mrlotfi/mpv-libunity/archive/refs/heads/master.zip",
+    "description": "Show a nice progress bar on your Linux panel/dock.",
+    "author": "mrlotfi",
+    "homepage": "https://github.com/mrlotfi/mpv-libunity"
+  },
+  "lilskippa": {
+    "name": "lilskippa",
+    "download": "https://raw.githubusercontent.com/AN3223/dotfiles/master/.config/mpv/scripts/lilskippa.lua",
+    "description": "Skip to black, skip to silence, skip to scene change.",
+    "author": "AN3223",
+    "homepage": "https://github.com/AN3223/dotfiles/blob/master/.config/mpv/scripts/lilskippa.lua"
+  },
+  "limited-autoload": {
+    "name": "limited-autoload",
+    "download": "https://github.com/glubsy/mpv-limited-autoload/archive/refs/heads/main.zip",
+    "description": "Auto-load files in a lazy way by limiting how many are loaded into playlist at once",
+    "author": "glubsy",
+    "homepage": "https://github.com/glubsy/mpv-limited-autoload"
+  },
+  "List chapters": {
+    "name": "List chapters",
+    "download": "https://github.com/oltodosel/mpv-scripts#show_chapterslua/archive/refs/heads/main.zip",
+    "description": "Shows chapters and their time at the bottom left corner. [example](https://github.com/oltodosel/mpv-scripts/raw/master/show_chapters.jpeg)",
+    "author": "oltodosel",
+    "homepage": "https://github.com/oltodosel/mpv-scripts#show_chapterslua"
+  },
+  "live-filters": {
+    "name": "live-filters",
+    "download": "https://github.com/hdb/mpv-live-filters/archive/refs/heads/master.zip",
+    "description": "Add, remove or toggle ffmpeg video filters during mpv playback.",
+    "author": "hdb",
+    "homepage": "https://github.com/hdb/mpv-live-filters"
+  },
+  "llm-subtrans": {
+    "name": "llm-subtrans",
+    "download": "https://github.com/sorz/mpv-llm-subtrans/archive/refs/heads/main.zip",
+    "description": "Extract & translate subtitles with OpenAI API.",
+    "author": "sorz",
+    "homepage": "https://github.com/sorz/mpv-llm-subtrans/"
+  },
+  "LoadDanmaku": {
+    "name": "LoadDanmaku",
+    "download": "https://github.com/huisedenanhai/LoadDanmaku/archive/refs/heads/master.zip",
+    "description": "Load local damaku files.",
+    "author": "huisedenanhai",
+    "homepage": "https://github.com/huisedenanhai/LoadDanmaku"
+  },
+  "local-language": {
+    "name": "local-language",
+    "download": "https://raw.githubusercontent.com/422658476/MPV-EASY-Player/master/portable-data/scripts/local-language.lua",
+    "description": "Let the text displayed by osd become the language you are most familiar with, that is, language localization, such as 【volume: 100%】 becomes 【音量:100%】.",
+    "author": "422658476",
+    "homepage": "https://github.com/422658476/MPV-EASY-Player/blob/master/portable-data/scripts/local-language.lua"
+  },
+  "locate-file": {
+    "name": "locate-file",
+    "download": "https://github.com/nimatrueway/mpv-locatefile-lua-script/archive/refs/heads/master.zip",
+    "description": "Locate current media file on your OS file browser",
+    "author": "nimatrueway",
+    "homepage": "https://github.com/nimatrueway/mpv-locatefile-lua-script"
+  },
+  "loop-until": {
+    "name": "loop-until",
+    "download": "https://github.com/ZreXoc/mpv-loop-until/archive/refs/heads/main.zip",
+    "description": "Loop the video until a specified amount of time. (e.g. loop a 30s wallpaper video to 30min)",
+    "author": "ZreXoc",
+    "homepage": "https://github.com/ZreXoc/mpv-loop-until"
+  },
+  "lrc": {
+    "name": "lrc",
+    "download": "https://github.com/guidocella/mpv-lrc/archive/refs/heads/main.zip",
+    "description": "Download synchronized lyrics of the currently playing song.",
+    "author": "guidocella",
+    "homepage": "https://github.com/guidocella/mpv-lrc"
+  },
+  "lua-repl": {
+    "name": "lua-repl",
+    "download": "https://github.com/guidocella/mpv-lua-repl/archive/refs/heads/main.zip",
+    "description": "A Lua REPL in the console with autocompletion and pretty-printing of returned tables. It lets you test mpv's and Lua's API without writing a script.",
+    "author": "guidocella",
+    "homepage": "https://github.com/guidocella/mpv-lua-repl"
+  },
+  "M-x": {
+    "name": "M-x",
+    "download": "https://github.com/Seme4eg/mpv-scripts/tree/master#m-x",
+    "description": "Searchable and configurable menu to quickly find key bindings and commands.",
+    "author": "Seme4eg",
+    "homepage": "https://github.com/Seme4eg/mpv-scripts/tree/master#m-x"
+  },
+  "Macast": {
+    "name": "Macast",
+    "download": "https://xfangfang.github.io/Macast",
+    "description": "DLNA Media Renderer. You can push videos, pictures or musics from your mobile phone to your computer, based on Python/Web.",
+    "author": " ",
+    "homepage": "https://xfangfang.github.io/Macast"
+  },
+  "main.lua": {
+    "name": "main.lua",
+    "download": "https://raw.githubusercontent.com/TinosNitso/mpv-scripts/main/main.lua",
+    "description": "Loads other scripts, hooks in yt-dlp, displays title, has subtitle override, loops short files, sets options (with delay), & has detailed commentary. Has many script-messages. For mpv v0.34→v0.38, SMPlayer, Windows, Linux, MacOS, Android, YouTube, mp4, mp3, jpg, etc. But no yt-dlp for Android. [Example](https://youtu.be/le2JGgjRJBw) title.",
+    "author": "TinosNitso",
+    "homepage": "https://github.com/TinosNitso/mpv-scripts/blob/main/main.lua"
+  },
+  "manager": {
+    "name": "manager",
+    "download": "https://github.com/po5/mpv_manager/archive/refs/heads/master.zip",
+    "description": "Script and shader manager.",
+    "author": "po5",
+    "homepage": "https://github.com/po5/mpv_manager"
+  },
+  "manga-reader": {
+    "name": "manga-reader",
+    "download": "https://github.com/Dudemanguy/mpv-manga-reader/archive/refs/heads/master.zip",
+    "description": "Script for using mpv as a manga reader.",
+    "author": "Dudemanguy",
+    "homepage": "https://github.com/Dudemanguy/mpv-manga-reader"
+  },
+  "matroska-crop": {
+    "name": "matroska-crop",
+    "download": "https://github.com/sbruder/mpv-matroska-crop/archive/refs/heads/master.zip",
+    "description": "Automatically crop video using the Matroska PixelCrop properties. Includes optional workaround for hardware decoding.",
+    "author": "sbruder",
+    "homepage": "https://github.com/sbruder/mpv-matroska-crop"
+  },
+  "mdmenu": {
+    "name": "mdmenu",
+    "download": "https://codeberg.org/NRK/mpv-toolbox/src/branch/master/mdmenu",
+    "description": "Use dmenu (Linux launcher) for selecting audio/subtitle/chapters etc.",
+    "author": " ",
+    "homepage": "https://codeberg.org/NRK/mpv-toolbox/src/branch/master/mdmenu"
+  },
+  "memo": {
+    "name": "memo",
+    "download": "https://github.com/po5/memo/archive/refs/heads/master.zip",
+    "description": "A recent files/history menu for mpv with optional uosc integration.",
+    "author": "po5",
+    "homepage": "https://github.com/po5/memo"
+  },
+  "menu-plugin": {
+    "name": "menu-plugin",
+    "download": "https://github.com/tsl0922/mpv-menu-plugin/archive/refs/heads/main.zip",
+    "description": "Win32 context menu, file dialog, clipboard support for mpv on Windows.",
+    "author": "tsl0922",
+    "homepage": "https://github.com/tsl0922/mpv-menu-plugin"
+  },
+  "menu": {
+    "name": "menu",
+    "download": "https://github.com/nezumisama/mpvmenu/archive/refs/heads/master.zip",
+    "description": "Configurable on screen context-menu.",
+    "author": "nezumisama",
+    "homepage": "https://github.com/nezumisama/mpvmenu"
+  },
+  "metadata-osd": {
+    "name": "metadata-osd",
+    "download": "https://github.com/vc-01/metadata-osd/archive/refs/heads/main.zip",
+    "description": "Adds OSD showing song name, album name and other metadata.",
+    "author": "vc-01",
+    "homepage": "https://github.com/vc-01/metadata-osd"
+  },
+  "mfpbar": {
+    "name": "mfpbar",
+    "download": "https://codeberg.org/NRK/mpv-toolbox/src/branch/master/mfpbar",
+    "description": "A minimalistic progressbar and osc replacement.",
+    "author": " ",
+    "homepage": "https://codeberg.org/NRK/mpv-toolbox/src/branch/master/mfpbar"
+  },
+  "migaku": {
+    "name": "migaku",
+    "download": "https://github.com/migaku-official/migaku-mpv/archive/refs/heads/main.zip",
+    "description": "Learn languages together with the Migaku browser extension.",
+    "author": "migaku-official",
+    "homepage": "https://github.com/migaku-official/migaku-mpv"
+  },
+  "minesweeper": {
+    "name": "minesweeper",
+    "download": "https://raw.githubusercontent.com/wiiaboo/mpv-scripts/master/mines.lua",
+    "description": "Minesweeper game.",
+    "author": "wiiaboo",
+    "homepage": "https://github.com/wiiaboo/mpv-scripts/blob/master/mines.lua"
+  },
+  "misc": {
+    "name": "misc",
+    "download": "https://github.com/stax76/mpv-scripts/archive/refs/heads/main.zip",
+    "description": "Restart mpv restoring the properties path, time-pos, pause and volume.",
+    "author": "stax76",
+    "homepage": "https://github.com/stax76/mpv-scripts"
+  },
+  "modern-x-compact": {
+    "name": "modern-x-compact",
+    "download": "https://github.com/1-minute-to-midnight/mpv-modern-x-compact/archive/refs/heads/main.zip",
+    "description": "Compact version of modern-x.",
+    "author": "1-minute-to-midnight",
+    "homepage": "https://github.com/1-minute-to-midnight/mpv-modern-x-compact"
+  },
+  "ModernX cyl0": {
+    "name": "ModernX cyl0",
+    "download": "https://github.com/cyl0/ModernX/archive/refs/heads/main.zip",
+    "description": "Modern OSC replacement.",
+    "author": "cyl0",
+    "homepage": "https://github.com/cyl0/ModernX"
+  },
+  "ModernX zydezu": {
+    "name": "ModernX zydezu",
+    "download": "https://github.com/zydezu/ModernX/archive/refs/heads/main.zip",
+    "description": "A fork of ModernX with many additional features and customization.",
+    "author": "zydezu",
+    "homepage": "https://github.com/zydezu/ModernX"
+  },
+  "ModernZ": {
+    "name": "ModernZ",
+    "download": "https://github.com/Samillion/ModernZ/archive/refs/heads/main.zip",
+    "description": "A fork of ModernX designed to enhance functionality by adding more features, all while preserving the core standards of mpv's OSC.",
+    "author": "Samillion",
+    "homepage": "https://github.com/Samillion/ModernZ"
+  },
+  "mpegts-truncate": {
+    "name": "mpegts-truncate",
+    "download": "https://github.com/hoehermann/mpv-mpegts-truncate/archive/refs/heads/master.zip",
+    "description": "Removes beginning of MPEG TS file up to current position without re-writing the whole file.",
+    "author": "hoehermann",
+    "homepage": "https://github.com/hoehermann/mpv-mpegts-truncate"
+  },
+  "mpv-android": {
+    "name": "mpv-android",
+    "download": "https://github.com/mpv-android/mpv-android/archive/refs/heads/master.zip",
+    "description": "For Android, based on Kotlin.",
+    "author": "mpv-android",
+    "homepage": "https://github.com/mpv-android/mpv-android"
+  },
+  "mpv-easy-anime4k": {
+    "name": "mpv-easy-anime4k",
+    "description": "mpv player anime4k script",
+    "author": "mpv-easy",
+    "download": "https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-easy-anime4k.zip",
+    "homepage": "https://github.com/mpv-easy/mpv-easy/tree/main/mpv-anime4k"
+  },
+  "mpv-easy-autoload": {
+    "name": "mpv-easy-autoload",
+    "description": "mpv player autoload script",
+    "author": "mpv-easy",
+    "download": "https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-easy-autoload.zip",
+    "homepage": "https://github.com/mpv-easy/mpv-easy/tree/main/mpv-autoload"
+  },
+  "mpv-easy-clipboard-play": {
+    "name": "mpv-easy-clipboard-play",
+    "description": "mpv player clipboard-play script",
+    "author": "mpv-easy",
+    "download": "https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-easy-clipboard-play.zip",
+    "homepage": "https://github.com/mpv-easy/mpv-easy/tree/main/mpv-clipboard-play"
+  },
+  "mpv-easy-copy-screen": {
+    "name": "mpv-easy-copy-screen",
+    "description": "mpv player copy-screen script",
+    "author": "mpv-easy",
+    "download": "https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-easy-copy-screen.zip",
+    "homepage": "https://github.com/mpv-easy/mpv-easy/tree/main/mpv-copy-screen"
+  },
+  "mpv-easy-copy-time": {
+    "name": "mpv-easy-copy-time",
+    "description": "mpv player copy-time script",
+    "author": "mpv-easy",
+    "download": "https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-easy-copy-time.zip",
+    "homepage": "https://github.com/mpv-easy/mpv-easy/tree/main/mpv-copy-time"
+  },
+  "mpv-easy-crop": {
+    "name": "mpv-easy-crop",
+    "description": "mpv player crop script",
+    "author": "mpv-easy",
+    "download": "https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-easy-crop.zip",
+    "homepage": "https://github.com/mpv-easy/mpv-easy/tree/main/mpv-crop"
+  },
+  "mpv-easy-cut": {
+    "name": "mpv-easy-cut",
+    "description": "mpv player cut script",
+    "author": "mpv-easy",
+    "download": "https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-easy-cut.zip",
+    "homepage": "https://github.com/mpv-easy/mpv-easy/tree/main/mpv-cut"
+  },
+  "mpv-easy-thumbfast": {
+    "name": "mpv-easy-thumbfast",
+    "description": "mpv player thumbfast script",
+    "author": "mpv-easy",
+    "download": "https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-easy-thumbfast.zip",
+    "homepage": "https://github.com/mpv-easy/mpv-easy/tree/main/mpv-thumbfast"
+  },
+  "mpv-easy-translate": {
+    "name": "mpv-easy-translate",
+    "description": "mpv player translation script",
+    "author": "mpv-easy",
+    "download": "https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-easy-translate.zip",
+    "homepage": "https://github.com/mpv-easy/mpv-easy/tree/main/mpv-translate"
+  },
+  "mpv-easy": {
+    "name": "mpv-easy",
+    "description": "An easy-to-use UI implemented with js",
+    "author": "mpv-easy",
+    "download": "https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-easy.zip",
+    "homepage": "https://github.com/mpv-easy/mpv-easy"
+  },
+  "mpv-kscreen-doctor": {
+    "name": "mpv-kscreen-doctor",
+    "download": "https://gitlab.com/smaniottonicola/mpv-kscreen-doctor",
+    "description": "Like the xrandr script automatically sets the display refresh rate to the one best suitable for the video played, works for KDE Plasma Wayland sessions.",
+    "author": " ",
+    "homepage": "https://gitlab.com/smaniottonicola/mpv-kscreen-doctor"
+  },
+  "mpv-omniGlass": {
+    "name": "mpv-omniGlass",
+    "download": "https://github.com/guarapicci/mpv-omniGlass/archive/refs/heads/main.zip",
+    "description": "Touchpad gestures for mpv.",
+    "author": "guarapicci",
+    "homepage": "https://github.com/guarapicci/mpv-omniGlass"
+  },
+  "mpv-rpc": {
+    "name": "mpv-rpc",
+    "download": "https://github.com/ryze312/mpv-rpc/archive/refs/heads/main.zip",
+    "description": "Discord Rich Presence integration. Also displays cover art from MusicBrainz archive.",
+    "author": "ryze312",
+    "homepage": "https://github.com/ryze312/mpv-rpc"
+  },
+  "mpv-slash-search": {
+    "name": "mpv-slash-search",
+    "download": "https://codeberg.org/Anakiev/mpv-slash-search",
+    "description": "Simple and lightweight script that allows you to search for a file in the playlist and jump to the first match.",
+    "author": " ",
+    "homepage": "https://codeberg.org/Anakiev/mpv-slash-search"
+  },
+  "mpv-Subtitle-Definition": {
+    "name": "mpv-Subtitle-Definition",
+    "download": "https://github.com/tripasect/mpv-Subtitle-Definition/archive/refs/heads/main.zip",
+    "description": "Instant, on-screen definitions for difficult or obscure words found in subtitles.",
+    "author": "tripasect",
+    "homepage": "https://github.com/tripasect/mpv-Subtitle-Definition"
+  },
+  "mpv2anki alyssabedard": {
+    "name": "mpv2anki alyssabedard",
+    "download": "https://github.com/alyssabedard/mpv2anki/archive/refs/heads/master.zip",
+    "description": "(Different script with Windows, macOS and Linux support) A simple script to assist your language learning journey in any language by automatically capturing multimedia content from mpv to Anki.",
+    "author": "alyssabedard",
+    "homepage": "https://github.com/alyssabedard/mpv2anki"
+  },
+  "mpv2anki SenneH": {
+    "name": "mpv2anki SenneH",
+    "download": "https://github.com/SenneH/mpv2anki/archive/refs/heads/master.zip",
+    "description": "A simple way to add notes to Anki with Audio, screenshots and/or subtitles, with few dependencies.",
+    "author": "SenneH",
+    "homepage": "https://github.com/SenneH/mpv2anki"
+  },
+  "mpvacious": {
+    "name": "mpvacious",
+    "download": "https://github.com/Ajatt-Tools/mpvacious/archive/refs/heads/master.zip",
+    "description": "Add keybindings to create Anki flashcards for (language) learning.",
+    "author": "Ajatt-Tools",
+    "homepage": "https://github.com/Ajatt-Tools/mpvacious"
+  },
+  "mpvc-tui": {
+    "name": "mpvc-tui",
+    "download": "https://github.com/gmt4/mpvc/archive/refs/heads/master.zip",
+    "description": "Command-line and TUI for mpv.",
+    "author": "gmt4",
+    "homepage": "https://github.com/gmt4/mpvc"
+  },
+  "mpvclip-mpvival-mpvloop": {
+    "name": "mpvclip-mpvival-mpvloop",
+    "download": "https://github.com/o770/mpvclip-mpvival-mpvloop/archive/refs/heads/main.zip",
+    "description": "Run MPV with options for loops and playback start and end times set according to a pattern or intervals of the total duration of a file.",
+    "author": "o770",
+    "homepage": "https://github.com/o770/mpvclip-mpvival-mpvloop"
+  },
+  "mpvDLNA": {
+    "name": "mpvDLNA",
+    "download": "https://github.com/chachmu/mpvDLNA/archive/refs/heads/main.zip",
+    "description": "Browse and watch content hosted on DLNA servers.",
+    "author": "chachmu",
+    "homepage": "https://github.com/chachmu/mpvDLNA"
+  },
+  "mpvf": {
+    "name": "mpvf",
+    "download": "https://github.com/seanbreckenridge/mpvf/archive/refs/heads/master.zip",
+    "description": "Select youtube-dl format for streaming.",
+    "author": "seanbreckenridge",
+    "homepage": "https://github.com/seanbreckenridge/mpvf"
+  },
+  "mpvif": {
+    "name": "mpvif",
+    "download": "https://github.com/layercak3/mpvif/archive/refs/heads/master.zip",
+    "description": "A wayland VO patch and C plugin which forwards keyboard and mouse input to a headless compositor for playing 2D games with upscaling mpv user shaders.",
+    "author": "layercak3",
+    "homepage": "https://github.com/layercak3/mpvif"
+  },
+  "mpvKt": {
+    "name": "mpvKt",
+    "download": "https://github.com/abdallahmehiz/mpvKt/archive/refs/heads/main.zip",
+    "description": "For Android, based on Kotlin.",
+    "author": "abdallahmehiz",
+    "homepage": "https://github.com/abdallahmehiz/mpvKt"
+  },
+  "mpvMatroska": {
+    "name": "mpvMatroska",
+    "download": "https://github.com/hubblec4/mpvMatroska/archive/refs/heads/main.zip",
+    "description": "mpvMatroska turns mpv into a Matroska player.",
+    "author": "hubblec4",
+    "homepage": "https://github.com/hubblec4/mpvMatroska"
+  },
+  "mpv_segment_length": {
+    "name": "mpv_segment_length",
+    "download": "https://github.com/shadax1/mpv_segment_length/archive/refs/heads/main.zip",
+    "description": "Displays the length of a segment/range from point A to point B.",
+    "author": "shadax1",
+    "homepage": "https://github.com/shadax1/mpv_segment_length"
+  },
+  "multi-command-if": {
+    "name": "multi-command-if",
+    "download": "https://github.com/VideoPlayerCode/mpv-tools/archive/refs/heads/master.zip",
+    "description": "Very powerful conditional logic and multiple action engine for your keybindings, without having to write a single line of code!",
+    "author": "VideoPlayerCode",
+    "homepage": "https://github.com/VideoPlayerCode/mpv-tools/"
+  },
+  "multiloop": {
+    "name": "multiloop",
+    "download": "https://github.com/unusualpepe/mpv-multiloop/archive/refs/heads/master.zip",
+    "description": "Loop over multiple A-B points.",
+    "author": "unusualpepe",
+    "homepage": "https://github.com/unusualpepe/mpv-multiloop"
+  },
+  "multisocket": {
+    "name": "multisocket",
+    "download": "https://raw.githubusercontent.com/AN3223/dotfiles/master/.config/mpv/scripts/multisocket.lua",
+    "description": "Creates a numbered socket for each instance of mpv.",
+    "author": "AN3223",
+    "homepage": "https://github.com/AN3223/dotfiles/blob/master/.config/mpv/scripts/multisocket.lua"
+  },
+  "mvtools-script": {
+    "name": "mvtools-script",
+    "download": "https://github.com/maoiscat/mpv-mvtools-script/archive/refs/heads/main.zip",
+    "description": "vapoursynth-mvtools script.",
+    "author": "maoiscat",
+    "homepage": "https://github.com/maoiscat/mpv-mvtools-script"
+  },
+  "nextfile": {
+    "name": "nextfile",
+    "download": "https://github.com/jonniek/mpv-nextfile/archive/refs/heads/master.zip",
+    "description": "Force opens next or previous file in the currently playing files directory.",
+    "author": "jonniek",
+    "homepage": "https://github.com/jonniek/mpv-nextfile"
+  },
+  "notify-send": {
+    "name": "notify-send",
+    "download": "https://github.com/emilazy/mpv-notify-send/archive/refs/heads/master.zip",
+    "description": "A simpler and more recent notifications script for libnotify-compatible (i.e. Unix-like) notifications daemons only. Supports cover art.",
+    "author": "emilazy",
+    "homepage": "https://github.com/emilazy/mpv-notify-send"
+  },
+  "notify": {
+    "name": "notify",
+    "download": "https://github.com/kauron/mpv-notify/archive/refs/heads/master.zip",
+    "description": "Now-playing-desktop notifications.",
+    "author": "kauron",
+    "homepage": "https://github.com/kauron/mpv-notify"
+  },
+  "oled-screensaver": {
+    "name": "oled-screensaver",
+    "download": "https://github.com/Akemi/mpv-oled-screensaver/archive/refs/heads/master.zip",
+    "description": "To prevent burn-ins on OLED TVs, this script fades-in a black screen after 15 seconds when paused in fullscreen.",
+    "author": "Akemi",
+    "homepage": "https://github.com/Akemi/mpv-oled-screensaver"
+  },
+  "Olivia": {
+    "name": "Olivia",
+    "download": "https://github.com/keshavbhatt/olivia/archive/refs/heads/master.zip",
+    "description": "Linux cloud music player, based on C++/QT/Web.",
+    "author": "keshavbhatt",
+    "homepage": "https://github.com/keshavbhatt/olivia"
+  },
+  "ontop-only-while-playing": {
+    "name": "ontop-only-while-playing",
+    "download": "https://raw.githubusercontent.com/kungfubeaner/mpv-ontop-only-while-playing-lua/master/on_top_only_while_playing.lua",
+    "description": "Ontop is only active during video playback. Ontop is automatically disabled during idle, pause and is able to be dynamically disabled without having to restart unlike the previous script.",
+    "author": "kungfubeaner",
+    "homepage": "https://github.com/kungfubeaner/mpv-ontop-only-while-playing-lua/blob/master/on_top_only_while_playing.lua"
+  },
+  "ontop-playback": {
+    "name": "ontop-playback",
+    "download": "https://raw.githubusercontent.com/mpv-player/mpv/master/TOOLS/lua/ontop-playback.lua",
+    "description": "Disables the ontop property when pausing, and enables it again when unpausing the video, if it was disabled. Change it only when the player is not in fullscreen to prevent screen flickering.",
+    "author": "mpv-player",
+    "homepage": "https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/ontop-playback.lua"
+  },
+  "ontop-window": {
+    "name": "ontop-window",
+    "download": "https://raw.githubusercontent.com/wishyu/mpv-ontop-window/main/ontop-window.lua",
+    "description": "Disables the ontop property when in fullscreen, and enables it again when in window mode, if it was disabled.",
+    "author": "wishyu",
+    "homepage": "https://github.com/wishyu/mpv-ontop-window/blob/main/ontop-window.lua"
+  },
+  "Open Sound Control": {
+    "name": "Open Sound Control",
+    "download": "https://github.com/lvm/mpv-osc/archive/refs/heads/master.zip",
+    "description": "Open Sound Control listener.",
+    "author": "lvm",
+    "homepage": "https://github.com/lvm/mpv-osc"
+  },
+  "open-anilist-page": {
+    "name": "open-anilist-page",
+    "download": "https://github.com/ehoneyse/mpv-open-anilist-page/archive/refs/heads/master.zip",
+    "description": "Opens the Anilist page that corresponds to the currently playing (anime) file.",
+    "author": "ehoneyse",
+    "homepage": "https://github.com/ehoneyse/mpv-open-anilist-page"
+  },
+  "open-dir": {
+    "name": "open-dir",
+    "download": "https://github.com/ayghub/open-dir/archive/refs/heads/main.zip",
+    "description": "Opens the path of the current file in Windows File Explorer.",
+    "author": "ayghub",
+    "homepage": "https://github.com/ayghub/open-dir"
+  },
+  "open-file-dialog": {
+    "name": "open-file-dialog",
+    "version": "0.1.0",
+    "description": "open-file-dialog is a script for mpv that can launch a regular Windows file open dialog from a key binding (default: Ctrl+O.)",
+    "author": "rossy",
+    "download": "https://raw.githubusercontent.com/rossy/mpv-open-file-dialog/master/open-file-dialog.lua"
+  },
+  "open-imdb-page": {
+    "name": "open-imdb-page",
+    "download": "https://github.com/ctlaltdefeat/mpv-open-imdb-page/archive/refs/heads/master.zip",
+    "description": "Opens the IMDb page that corresponds to the currently playing media file.",
+    "author": "ctlaltdefeat",
+    "homepage": "https://github.com/ctlaltdefeat/mpv-open-imdb-page"
+  },
+  "open-in-explorer": {
+    "name": "open-in-explorer",
+    "download": "https://gist.github.com/Sneakpeakcss/05a97d509b8be67a6f11400b0bee54ab",
+    "description": "Shows the currently playing file in Windows File Explorer.",
+    "author": "Sneakpeakcss",
+    "homepage": "https://gist.github.com/Sneakpeakcss/05a97d509b8be67a6f11400b0bee54ab"
+  },
+  "open-kinopoisk-page": {
+    "name": "open-kinopoisk-page",
+    "download": "https://github.com/WANDEX/mpv-open-kinopoisk-page/archive/refs/heads/master.zip",
+    "description": "Opens the kinopoisk page that corresponds to the currently playing media file.",
+    "author": "WANDEX",
+    "homepage": "https://github.com/WANDEX/mpv-open-kinopoisk-page"
+  },
+  "orion": {
+    "name": "orion",
+    "download": "https://github.com/alamminsalo/orion/archive/refs/heads/master.zip",
+    "description": "Unmaintained cross platform Twitch.tv client, based on C++/QT/QML.",
+    "author": "alamminsalo",
+    "homepage": "https://github.com/alamminsalo/orion"
+  },
+  "osc-framework": {
+    "name": "osc-framework",
+    "download": "https://github.com/maoiscat/mpv-osc-framework/archive/refs/heads/main.zip",
+    "description": "OSC framework to help build your custom OSC.",
+    "author": "maoiscat",
+    "homepage": "https://github.com/maoiscat/mpv-osc-framework"
+  },
+  "osc-modern-f": {
+    "name": "osc-modern-f",
+    "download": "https://github.com/FinnRaze/mpv-osc-modern-f/archive/refs/heads/main.zip",
+    "description": "OSC script forked from [mpv-osc-modern](https://github.com/maoiscat/mpv-osc-modern).",
+    "author": "FinnRaze",
+    "homepage": "https://github.com/FinnRaze/mpv-osc-modern-f"
+  },
+  "osc-modern": {
+    "name": "osc-modern",
+    "download": "https://github.com/maoiscat/mpv-osc-modern/archive/refs/heads/main.zip",
+    "description": "Modern OSC replacement.",
+    "author": "maoiscat",
+    "homepage": "https://github.com/maoiscat/mpv-osc-modern"
+  },
+  "osc-orange": {
+    "name": "osc-orange",
+    "download": "https://github.com/maoiscat/mpv-osc-orange/archive/refs/heads/main.zip",
+    "description": "An osc/ui replacement in dark theme.",
+    "author": "maoiscat",
+    "homepage": "https://github.com/maoiscat/mpv-osc-orange"
+  },
+  "osc-show-hide": {
+    "name": "osc-show-hide",
+    "download": "https://github.com/linguisticmind/mpv-scripts/tree/master/osc-show-hide",
+    "description": "Toggles the on-screen controller with a hotkey.",
+    "author": "linguisticmind",
+    "homepage": "https://github.com/linguisticmind/mpv-scripts/tree/master/osc-show-hide"
+  },
+  "osc-simple": {
+    "name": "osc-simple",
+    "download": "https://github.com/maoiscat/mpv-osc-simple/archive/refs/heads/main.zip",
+    "description": "An OSC/UI replacement of white theme.",
+    "author": "maoiscat",
+    "homepage": "https://github.com/maoiscat/mpv-osc-simple"
+  },
+  "osc-style": {
+    "name": "osc-style",
+    "download": "https://github.com/422658476/MPV-EASY-Player/tree/master/mpv-easy-data/osc-style",
+    "description": "Change the mpv OSC to a more beautiful and practical look, which is the osc theme feature, a variety of styles to choose from,this is a [tutorial and a preview](https://github.com/422658476/MPV-EASY-Player#%E7%9C%8B%E5%88%B0%E4%B8%8A%E9%9D%A2%E5%9B%BE%E4%B8%8A%E8%BF%99%E4%BA%9Bosc%E6%A0%B7%E5%BC%8F%E4%BA%86%E5%90%97%E5%AE%83%E4%BB%AC%E4%B8%8D%E4%BB%85%E5%8F%AF%E4%BB%A5%E5%AD%98%E5%9C%A8%E4%BA%8Empv-easy-player%E4%B8%AD%E4%BD%A0%E4%BD%BF%E7%94%A8%E7%9A%84mpv%E7%9A%84osc%E4%B9%9F%E5%8F%AF%E4%BB%A5%E5%8F%98%E6%88%90%E8%BF%99%E6%A0%B7).",
+    "author": "422658476",
+    "homepage": "https://github.com/422658476/MPV-EASY-Player/tree/master/mpv-easy-data/osc-style"
+  },
+  "oscc": {
+    "name": "oscc",
+    "download": "https://github.com/longtermfree/oscc/archive/refs/heads/main.zip",
+    "description": "Dark-themed OSC.",
+    "author": "longtermfree",
+    "homepage": "https://github.com/longtermfree/oscc"
+  },
+  "osd-bar": {
+    "name": "osd-bar",
+    "download": "https://raw.githubusercontent.com/422658476/MPV-EASY-Player/master/portable-data/scripts/osd-bar.lua",
+    "description": "Always show osd progress bar, with the more beautiful color matching in the [configuration file](https://github.com/422658476/MPV-EASY-Player/blob/master/mpv-easy-data/rjno1.conf), you can make the osd progress bar display the current progress at the bottom of the window beautifully,this is a [preview](https://raw.githubusercontent.com/422658476/MPV-EASY-Player/master/img/mpv-easy-player-osd-bar-lua.jpg).",
+    "author": "422658476",
+    "homepage": "https://github.com/422658476/MPV-EASY-Player/blob/master/portable-data/scripts/osd-bar.lua"
+  },
+  "osd-clock": {
+    "name": "osd-clock",
+    "download": "https://raw.githubusercontent.com/blue-sky-r/mpv/master/scripts/osd-clock.lua",
+    "description": "Periodically shows OSD clock (many configurable options).",
+    "author": "blue-sky-r",
+    "homepage": "https://github.com/blue-sky-r/mpv/blob/master/scripts/osd-clock.lua"
+  },
+  "osm": {
+    "name": "osm",
+    "download": "https://github.com/stax76/mpv-scripts/archive/refs/heads/main.zip",
+    "description": "Configurable on screen menu to run custom commands.",
+    "author": "stax76",
+    "homepage": "https://github.com/stax76/mpv-scripts"
+  },
+  "pause-indicator-lite": {
+    "name": "pause-indicator-lite",
+    "download": "https://github.com/Samillion/ModernZ/tree/main/extras/pause-indicator-lite",
+    "description": "A simple script that displays an indicator on pause, with options to adjust icon, color, height, width, opacity and whether to toggle pause with a keybind or not.",
+    "author": "Samillion",
+    "homepage": "https://github.com/Samillion/ModernZ/tree/main/extras/pause-indicator-lite"
+  },
+  "pause-indicator": {
+    "name": "pause-indicator",
+    "download": "https://gist.github.com/torque/9dbc69543118347d2e5f43239a7e609a",
+    "description": "Displays a momentary icon that flashes in the middle of the screen, similar to YouTube.",
+    "author": "torque",
+    "homepage": "https://gist.github.com/torque/9dbc69543118347d2e5f43239a7e609a"
+  },
+  "pause-when-minimize": {
+    "name": "pause-when-minimize",
+    "download": "https://raw.githubusercontent.com/mpv-player/mpv/master/TOOLS/lua/pause-when-minimize.lua",
+    "description": "Pauses the player video when minimizing, and unpauses it when brought up again.",
+    "author": "mpv-player",
+    "homepage": "https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/pause-when-minimize.lua"
+  },
+  "pdf": {
+    "name": "pdf",
+    "download": "https://github.com/jgreco/mpv-pdf/archive/refs/heads/master.zip",
+    "description": "View PDFs in mpv using ImageMagick. (for Linux, MacOS)",
+    "author": "jgreco",
+    "homepage": "https://github.com/jgreco/mpv-pdf"
+  },
+  "peerflix-hook": {
+    "name": "peerflix-hook",
+    "download": "https://github.com/noctuid/mpv-peerflix-hook/archive/refs/heads/master.zip",
+    "description": "Stream magnet links in mpv with peerflix.",
+    "author": "noctuid",
+    "homepage": "https://github.com/noctuid/mpv-peerflix-hook"
+  },
+  "permanent-pause-indicator": {
+    "name": "permanent-pause-indicator",
+    "download": "https://github.com/oltodosel/mpv-scripts#pause-indicatorlua/archive/refs/heads/main.zip",
+    "description": "Displays a permanent indicator in the middle of the screen while mpv is paused. [Preview](https://github.com/oltodosel/mpv-scripts/raw/master/pause-indicator.jpg)",
+    "author": "oltodosel",
+    "homepage": "https://github.com/oltodosel/mpv-scripts#pause-indicatorlua"
+  },
+  "persist-properties": {
+    "name": "persist-properties",
+    "download": "https://github.com/d87/mpv-persist-properties/archive/refs/heads/master.zip",
+    "description": "Keep selected property values (like volume) between player sessions.",
+    "author": "d87",
+    "homepage": "https://github.com/d87/mpv-persist-properties"
+  },
+  "pickshader": {
+    "name": "pickshader",
+    "download": "https://raw.githubusercontent.com/AN3223/dotfiles/master/.config/mpv/scripts/pickshader.lua",
+    "description": "Provides a ^R-esque interface for easily setting/appending to --glsl-shaders (this does not install shaders for you).",
+    "author": "AN3223",
+    "homepage": "https://github.com/AN3223/dotfiles/blob/master/.config/mpv/scripts/pickshader.lua"
+  },
+  "pitchcontrol": {
+    "name": "pitchcontrol",
+    "download": "https://raw.githubusercontent.com/FichteFoll/mpv-scripts/master/pitchcontrol.lua",
+    "description": "Adjusts audio pitch in half-tone steps.",
+    "author": "FichteFoll",
+    "homepage": "https://github.com/FichteFoll/mpv-scripts/blob/master/pitchcontrol.lua"
+  },
+  "Plaincast": {
+    "name": "Plaincast",
+    "download": "https://github.com/aykevl/plaincast/archive/refs/heads/master.zip",
+    "description": "Unmaintained Linux server that acts like a lightweight/headless Chromecast that only includes YouTube, based on Golang.",
+    "author": "aykevl",
+    "homepage": "https://github.com/aykevl/plaincast"
+  },
+  "play-with-mpv": {
+    "name": "play-with-mpv",
+    "download": "https://github.com/Thann/play-with-mpv/archive/refs/heads/master.zip",
+    "description": "Chrome extension for playing URLs in mpv, based on JavaScript/Python/Web.",
+    "author": "Thann",
+    "homepage": "https://github.com/Thann/play-with-mpv"
+  },
+  "play-with": {
+    "name": "play-with",
+    "download": "https://github.com/grmat/play-with/archive/refs/heads/master.zip",
+    "description": "A web browser extension that can open a video stream on a web page with an external player.",
+    "author": "grmat",
+    "homepage": "https://github.com/grmat/play-with"
+  },
+  "playlist-kdialog": {
+    "name": "playlist-kdialog",
+    "download": "https://gist.github.com/ftk/5e26656a2ec9a6cb0fef46918f741d0a",
+    "description": "Use KDE's KDialog or GTK's zenity to show current playlist or select playlist entry.",
+    "author": "ftk",
+    "homepage": "https://gist.github.com/ftk/5e26656a2ec9a6cb0fef46918f741d0a"
+  },
+  "playlist-manager": {
+    "name": "playlist-manager",
+    "download": "https://github.com/jonniek/mpv-playlistmanager/archive/refs/heads/master.zip",
+    "description": "Create and manage playlists.",
+    "author": "jonniek",
+    "homepage": "https://github.com/jonniek/mpv-playlistmanager"
+  },
+  "playlist-navigator": {
+    "name": "playlist-navigator",
+    "download": "https://github.com/drogers141/mpv-playlist-navigator/archive/refs/heads/main.zip",
+    "description": "OSD display features easy navigation with scrolling and search to select files to play or remove from playlist.",
+    "author": "drogers141",
+    "homepage": "https://github.com/drogers141/mpv-playlist-navigator"
+  },
+  "playlist-view": {
+    "name": "playlist-view",
+    "download": "https://github.com/occivink/mpv-gallery-view/archive/refs/heads/master.zip",
+    "description": "Display and navigate the playlist in a grid view of thumbnails.",
+    "author": "occivink",
+    "homepage": "https://github.com/occivink/mpv-gallery-view"
+  },
+  "playlistnoplayback": {
+    "name": "playlistnoplayback",
+    "download": "https://raw.githubusercontent.com/422658476/MPV-EASY-Player/master/portable-data/scripts/playlistnoplayback.lua",
+    "description": "If you enable the save play history and progress function, this lua script can solve the problem of automatically jumping to the previous playback progress when playing the next file when playing the playlist, that is, let the playlist always play the next file from the beginning every time. the limitations of this script, please see the comments section in the content.",
+    "author": "422658476",
+    "homepage": "https://github.com/422658476/MPV-EASY-Player/blob/master/portable-data/scripts/playlistnoplayback.lua"
+  },
+  "playphrase": {
+    "name": "playphrase",
+    "download": "https://github.com/kelciour/playphrase/archive/refs/heads/master.zip",
+    "description": "Search and play phrases from movies and audiobooks.",
+    "author": "kelciour",
+    "homepage": "https://github.com/kelciour/playphrase"
+  },
+  "plex-mpv-shim": {
+    "name": "plex-mpv-shim",
+    "download": "https://github.com/iwalton3/plex-mpv-shim/archive/refs/heads/master.zip",
+    "description": "Cast media from Plex Mobile and Web apps to MPV, based on Python.",
+    "author": "iwalton3",
+    "homepage": "https://github.com/iwalton3/plex-mpv-shim"
+  },
+  "plugin-bookmark": {
+    "name": "plugin-bookmark",
+    "download": "https://github.com/yozorayuki/mpv-plugin-bookmark/archive/refs/heads/master.zip",
+    "description": "Record your playing history for each folder.",
+    "author": "yozorayuki",
+    "homepage": "https://github.com/yozorayuki/mpv-plugin-bookmark"
+  },
+  "plugin-myshows": {
+    "name": "plugin-myshows",
+    "download": "https://github.com/gim-/mpv-plugin-myshows/archive/refs/heads/master.zip",
+    "description": "Automatically marks a currently watched episode in MyShows.",
+    "author": "gim-",
+    "homepage": "https://github.com/gim-/mpv-plugin-myshows"
+  },
+  "pointer-event": {
+    "name": "pointer-event",
+    "download": "https://github.com/christoph-heinrich/mpv-pointer-event/archive/refs/heads/master.zip",
+    "description": "Mutually exclusive, low latency mouse/touch input event detection. Executes configurable commands on single-click, double-click, long-click and dragging.",
+    "author": "christoph-heinrich",
+    "homepage": "https://github.com/christoph-heinrich/mpv-pointer-event"
+  },
+  "print-playlist": {
+    "name": "print-playlist",
+    "download": "https://git.sr.ht/~jagrg/dotfiles/tree/master/item/common/.config/mpv/scripts/print-playlist.lua",
+    "description": "Cleans [the playlist formatting](https://github.com/mpv-player/mpv/issues/5868#issue-327675880) on the terminal.",
+    "author": " ",
+    "homepage": "https://git.sr.ht/~jagrg/dotfiles/tree/master/item/common/.config/mpv/scripts/print-playlist.lua"
+  },
+  "profile-cycle": {
+    "name": "profile-cycle",
+    "download": "https://raw.githubusercontent.com/Funami580/dotfiles/master/.config/mpv/scripts/profile-cycle.lua",
+    "description": "Cycle between your custom defined profiles while watching the video.",
+    "author": "Funami580",
+    "homepage": "https://github.com/Funami580/dotfiles/blob/master/.config/mpv/scripts/profile-cycle.lua"
+  },
+  "progressbar": {
+    "name": "progressbar",
+    "download": "https://github.com/torque/mpv-progressbar/archive/refs/heads/master.zip",
+    "description": "A minimalistic OSC replacement. It provides a small, unintrusive progress bar that persists at the bottom of the video window.",
+    "author": "torque",
+    "homepage": "https://github.com/torque/mpv-progressbar"
+  },
+  "Pure": {
+    "name": "Pure",
+    "download": "https://github.com/4ndrs/PureMPV/archive/refs/heads/main.zip",
+    "description": "Get the file path, timestamps, and cropping coordinates for ffmpeg.",
+    "author": "4ndrs",
+    "homepage": "https://github.com/4ndrs/PureMPV"
+  },
+  "qtube": {
+    "name": "qtube",
+    "download": "https://github.com/hdb/qtube/archive/refs/heads/master.zip",
+    "description": "Linux YouTube frontend, based on Python/QT.",
+    "author": "hdb",
+    "homepage": "https://github.com/hdb/qtube"
+  },
+  "quack": {
+    "name": "quack",
+    "download": "https://github.com/CounterPillow/mpv-quack/archive/refs/heads/master.zip",
+    "description": "Reduces audio volume temporarily after seeking.",
+    "author": "CounterPillow",
+    "homepage": "https://github.com/CounterPillow/mpv-quack"
+  },
+  "quality-menu": {
+    "name": "quality-menu",
+    "download": "https://github.com/christoph-heinrich/mpv-quality-menu/archive/refs/heads/master.zip",
+    "description": "Change the streamed video and audio quality (ytdl-format) on the fly.",
+    "author": "christoph-heinrich",
+    "homepage": "https://github.com/christoph-heinrich/mpv-quality-menu"
+  },
+  "quick-scale": {
+    "name": "quick-scale",
+    "download": "https://github.com/VideoPlayerCode/mpv-tools/archive/refs/heads/master.zip",
+    "description": "Quickly scale the video player to a target size, with full control over target scale and max scale. Helps you effortlessly resize a video to fit on your desktop, or any other video dimensions you need!",
+    "author": "VideoPlayerCode",
+    "homepage": "https://github.com/VideoPlayerCode/mpv-tools/"
+  },
+  "radio-title": {
+    "name": "radio-title",
+    "download": "https://github.com/olivierlemoal/mpv-radio-title-script/archive/refs/heads/master.zip",
+    "description": "Automatically fetch current playing title from webradio website when not provided by stream.",
+    "author": "olivierlemoal",
+    "homepage": "https://github.com/olivierlemoal/mpv-radio-title-script/"
+  },
+  "recent-menu": {
+    "name": "recent-menu",
+    "download": "https://github.com/natural-harmonia-gropius/recent-menu/archive/refs/heads/master.zip",
+    "description": "Recently (history) played menu integrated with uosc.",
+    "author": "natural-harmonia-gropius",
+    "homepage": "https://github.com/natural-harmonia-gropius/recent-menu"
+  },
+  "recent": {
+    "name": "recent",
+    "download": "https://github.com/hacel/recent/archive/refs/heads/master.zip",
+    "description": "Recently (history) played menu.",
+    "author": "hacel",
+    "homepage": "https://github.com/hacel/recent"
+  },
+  "redshift_toggle": {
+    "name": "redshift_toggle",
+    "download": "https://git.sr.ht/~q3cpma/dotfiles/tree/master/.config/mpv/scripts/redshift_toggle.lua",
+    "description": "Toggle redshift when loading a video file and when reaching the end of said file. Now also handles pause.",
+    "author": " ",
+    "homepage": "https://git.sr.ht/~q3cpma/dotfiles/tree/master/.config/mpv/scripts/redshift_toggle.lua"
+  },
+  "reduce_stream_cache": {
+    "name": "reduce_stream_cache",
+    "download": "https://github.com/divout/mpv_reduce_stream_cache/archive/refs/heads/main.zip",
+    "description": "Reduces MPV cache for streams by increasing playback speed. Works with Twitch through Streamlink.",
+    "author": "divout",
+    "homepage": "https://github.com/divout/mpv_reduce_stream_cache"
+  },
+  "reload": {
+    "name": "reload",
+    "download": "https://github.com/4e6/mpv-reload/archive/refs/heads/master.zip",
+    "description": "When an online video is stuck during buffering or got slow CDN source, restarting often helps. This script provides automatic reloading of videos that didn't have buffering progress for some time, keeping the current time position. It also adds `Ctrl+r` keybinding to reload video manually.",
+    "author": "4e6",
+    "homepage": "https://github.com/4e6/mpv-reload"
+  },
+  "remember-props": {
+    "name": "remember-props",
+    "download": "https://raw.githubusercontent.com/zenwarr/mpv-config/master/scripts/remember-props.lua",
+    "description": "When a property changes, it saves it to restore on next start. Saved values are not file-specific. List of properties to save is configured in `script-opts/remember-props.conf` file.",
+    "author": "zenwarr",
+    "homepage": "https://github.com/zenwarr/mpv-config/blob/master/scripts/remember-props.lua"
+  },
+  "rename-sub": {
+    "name": "rename-sub",
+    "download": "https://github.com/ayghub/rename-sub/archive/refs/heads/main.zip",
+    "description": "Rename current subtitle file as the playing video.",
+    "author": "ayghub",
+    "homepage": "https://github.com/ayghub/rename-sub"
+  },
+  "rename": {
+    "name": "rename",
+    "download": "https://github.com/Kayizoku/mpv-rename/archive/refs/heads/main.zip",
+    "description": "Rename files on the go directly from within MPV player window without leaving it.",
+    "author": "Kayizoku",
+    "homepage": "https://github.com/Kayizoku/mpv-rename"
+  },
+  "repl": {
+    "name": "repl",
+    "download": "https://github.com/rossy/mpv-repl/archive/refs/heads/master.zip",
+    "description": "A REPL for input commands that is displayed on the video window.",
+    "author": "rossy",
+    "homepage": "https://github.com/rossy/mpv-repl"
+  },
+  "restore-subtitles": {
+    "name": "restore-subtitles",
+    "download": "https://raw.githubusercontent.com/zenwarr/mpv-config/master/scripts/restore-subtitles.lua",
+    "description": "Saves selected subtitle tracks and visibility state to `saved-subs.json` file in config directory and restores them whenever file is loaded. Differs from `watch-later`-saved data in that it saves secondary subtitles too (and uses subtitle file paths instead of ids).",
+    "author": "zenwarr",
+    "homepage": "https://github.com/zenwarr/mpv-config/blob/master/scripts/restore-subtitles.lua"
+  },
+  "review": {
+    "name": "review",
+    "download": "https://gitlab.com/lvml/mpv-plugin-review",
+    "description": "Allows to remove files viewed quickly from within mpv",
+    "author": " ",
+    "homepage": "https://gitlab.com/lvml/mpv-plugin-review"
+  },
+  "rewindPlaylist": {
+    "name": "rewindPlaylist",
+    "download": "https://gist.github.com/bitingsock/0f22c631295273d5a53e4337c25fe161",
+    "description": "keybind to rewind to the end of the previous playlist entry",
+    "author": "bitingsock",
+    "homepage": "https://gist.github.com/bitingsock/0f22c631295273d5a53e4337c25fe161"
+  },
+  "rikai": {
+    "name": "rikai",
+    "download": "https://github.com/fxmarty/rikai-mpv/archive/refs/heads/main.zip",
+    "description": "Integrated Japanese dictionary and parser to translate by hovering over words. Works on Linux.",
+    "author": "fxmarty",
+    "homepage": "https://github.com/fxmarty/rikai-mpv"
+  },
+  "russian-layout-bindings": {
+    "name": "russian-layout-bindings",
+    "download": "https://raw.githubusercontent.com/zenwarr/mpv-config/master/scripts/russian-layout-bindings.lua",
+    "description": "As mpv does not support shortcuts independent of the keyboard layout (https://github.com/mpv-player/mpv/issues/351), this script tries to workaround this issue for some limited cases with russian (йцукен) keyboard layout. Upon startup, it takes currently active bindings from `input-bindings` property and duplicates them for russian layout. You can adapt the script for your preferred layout, but it won't (of course) work for layouts sharing unicode characters with english.",
+    "author": "zenwarr",
+    "homepage": "https://github.com/zenwarr/mpv-config/blob/master/scripts/russian-layout-bindings.lua"
+  },
+  "save-playlist": {
+    "name": "save-playlist",
+    "download": "https://github.com/NaiveInvestigator/save-playlist/archive/refs/heads/main.zip",
+    "description": "This script saves your playlist to the working directory of the mpv process.",
+    "author": "NaiveInvestigator",
+    "homepage": "https://github.com/NaiveInvestigator/save-playlist"
+  },
+  "save-sub-delay": {
+    "name": "save-sub-delay",
+    "download": "https://raw.githubusercontent.com/zc62/mpv-scripts/master/save-sub-delay.lua",
+    "description": "This script saves the sub-delay quantity for each file. When next time the file is opened, sub-delay is automatically restored.",
+    "author": "zc62",
+    "homepage": "https://github.com/zc62/mpv-scripts/blob/master/save-sub-delay.lua"
+  },
+  "scale-win": {
+    "name": "scale-win",
+    "download": "https://gist.github.com/garoto/920b7456d2bdd8f48aa8e7094a12ce47",
+    "description": "Restore old \"window-scale\" behavior, so to make \"add window-scale +/-<value>\" keybinds work again when any of the autofit-* options are defined.",
+    "author": "garoto",
+    "homepage": "https://gist.github.com/garoto/920b7456d2bdd8f48aa8e7094a12ce47"
+  },
+  "screenshot-mosaic": {
+    "name": "screenshot-mosaic",
+    "download": "https://github.com/noaione/mpv-js-scripts/archive/refs/heads/master.zip",
+    "description": "Create a mosaic/thumbnail image.",
+    "author": "noaione",
+    "homepage": "https://github.com/noaione/mpv-js-scripts"
+  },
+  "screenshot-to-clipboard": {
+    "name": "screenshot-to-clipboard",
+    "download": "https://raw.githubusercontent.com/zc62/mpv-scripts/master/screenshot-to-clipboard.js",
+    "description": "Takes a screenshot and saves it to the clipboard.",
+    "author": "zc62",
+    "homepage": "https://github.com/zc62/mpv-scripts/blob/master/screenshot-to-clipboard.js"
+  },
+  "screenshotfolder": {
+    "name": "screenshotfolder",
+    "download": "https://raw.githubusercontent.com/zydezu/mpvconfig/main/scripts/screenshotfolder.lua",
+    "description": "Place screenshots into folders for each video, along with timestamping them.",
+    "author": "zydezu",
+    "homepage": "https://github.com/zydezu/mpvconfig/blob/main/scripts/screenshotfolder.lua"
+  },
+  "scroll-list": {
+    "name": "scroll-list",
+    "download": "https://github.com/CogentRedTester/mpv-scroll-list/archive/refs/heads/master.zip",
+    "description": "API to create interactive scrollable lists",
+    "author": "CogentRedTester",
+    "homepage": "https://github.com/CogentRedTester/mpv-scroll-list"
+  },
+  "search-menu": {
+    "name": "search-menu",
+    "download": "https://github.com/stax76/mpv-scripts/archive/refs/heads/main.zip",
+    "description": "Searchable and configurable menu to quickly find key bindings, commands, properties, audio/subtitle tracks and playlist entries.",
+    "author": "stax76",
+    "homepage": "https://github.com/stax76/mpv-scripts"
+  },
+  "search-page": {
+    "name": "search-page",
+    "download": "https://github.com/CogentRedTester/mpv-search-page/archive/refs/heads/master.zip",
+    "description": "Searchable and configurable menu to quickly find key bindings, commands, options and properties.",
+    "author": "CogentRedTester",
+    "homepage": "https://github.com/CogentRedTester/mpv-search-page"
+  },
+  "seek-to": {
+    "name": "seek-to",
+    "download": "https://github.com/occivink/mpv-scripts#seek-tolua/archive/refs/heads/main.zip",
+    "description": "Seek to an absolute timestamp specified via keyboard input.",
+    "author": "occivink",
+    "homepage": "https://github.com/occivink/mpv-scripts#seek-tolua"
+  },
+  "segment-linking": {
+    "name": "segment-linking",
+    "download": "https://github.com/CogentRedTester/mpv-segment-linking/archive/refs/heads/master.zip",
+    "description": "Supports Matroska hard segment linking.",
+    "author": "CogentRedTester",
+    "homepage": "https://github.com/CogentRedTester/mpv-segment-linking"
+  },
+  "select": {
+    "name": "select",
+    "download": "https://raw.githubusercontent.com/mpv-player/mpv/master/player/lua/select.lua",
+    "description": "Menu script built into mpv.",
+    "author": "mpv-player",
+    "homepage": "https://github.com/mpv-player/mpv/blob/master/player/lua/select.lua"
+  },
+  "selectformat": {
+    "name": "selectformat",
+    "download": "https://github.com/ghesy/mpv-selectformat/archive/refs/heads/master.zip",
+    "description": "Select the format (quality) of internet videos.",
+    "author": "ghesy",
+    "homepage": "https://github.com/ghesy/mpv-selectformat"
+  },
+  "selectmenu": {
+    "name": "selectmenu",
+    "download": "https://gitlab.com/carmanaught/mpvselectmenu",
+    "description": "Context-menu inspired by `select.lua` utilising mpv's `input` and `console` script functionality.",
+    "author": " ",
+    "homepage": "https://gitlab.com/carmanaught/mpvselectmenu"
+  },
+  "separator": {
+    "name": "separator",
+    "download": "https://github.com/pvpscript/mpv-separator/archive/refs/heads/main.zip",
+    "description": "Copy or move video files you wanna keep.",
+    "author": "pvpscript",
+    "homepage": "https://github.com/pvpscript/mpv-separator"
+  },
+  "Serkio Tagger": {
+    "name": "Serkio Tagger",
+    "download": "https://github.com/SerkioTeam/Tagger/archive/refs/heads/master.zip",
+    "description": "Annotate videos with tags while you watch.",
+    "author": "SerkioTeam",
+    "homepage": "https://github.com/SerkioTeam/Tagger"
+  },
+  "show-conf-osd": {
+    "name": "show-conf-osd",
+    "download": "https://github.com/pierretom/show-conf-osd/archive/refs/heads/master.zip",
+    "description": "Display configuration files on the OSD.",
+    "author": "pierretom",
+    "homepage": "https://github.com/pierretom/show-conf-osd"
+  },
+  "show-filename": {
+    "name": "show-filename",
+    "download": "https://github.com/yuukidach/mpv-scripts/archive/refs/heads/master.zip",
+    "description": "Show the name of the current playing file.",
+    "author": "yuukidach",
+    "homepage": "https://github.com/yuukidach/mpv-scripts"
+  },
+  "show-stream-title": {
+    "name": "show-stream-title",
+    "download": "https://raw.githubusercontent.com/blue-sky-r/mpv/master/scripts/show-stream-title.lua",
+    "description": "Show OSD stream/channel title when switching the IPTV channels from m3u playlist.",
+    "author": "blue-sky-r",
+    "homepage": "https://github.com/blue-sky-r/mpv/blob/master/scripts/show-stream-title.lua"
+  },
+  "simple-loader": {
+    "name": "simple-loader",
+    "download": "https://github.com/fhlfibh/simple-loader/archive/refs/heads/master.zip",
+    "description": "(Linux) Browse dirs and files on OSD, and launch them with mpv.",
+    "author": "fhlfibh",
+    "homepage": "https://github.com/fhlfibh/simple-loader"
+  },
+  "SimpleBookmark-1.0": {
+    "name": "SimpleBookmark-1.0",
+    "download": "https://github.com/Eisa01/mpv-scripts#simplebookmark/archive/refs/heads/main.zip",
+    "description": "Bookmark with a [ctrl]+[b], then list and access your bookmarks with [b]. Assign your favorites to a keybind then access your favorites with that same keybind. Much more explained in the link above.",
+    "author": "Eisa01",
+    "homepage": "https://github.com/Eisa01/mpv-scripts#simplebookmark"
+  },
+  "SimpleHistory-1.0": {
+    "name": "SimpleHistory-1.0",
+    "download": "https://github.com/Eisa01/mpv-scripts#simplehistory/archive/refs/heads/main.zip",
+    "description": "Powerful history features that logs videos that you opened into a log file along with the time you have reached on each video. Select, filter, and search from your history list, Optional resume by [ctrl]+[r] for all videos you have played. Much more explained in the link above.",
+    "author": "Eisa01",
+    "homepage": "https://github.com/Eisa01/mpv-scripts#simplehistory"
+  },
+  "SimpleUndo-3.2": {
+    "name": "SimpleUndo-3.2",
+    "download": "https://github.com/Eisa01/mpv-scripts#simpleundo/archive/refs/heads/main.zip",
+    "description": "Simple undo feature. If you accidentally seek/jump to a different time in the video, press undo [ctrl]+[z] to return to your previous time and vice-versa. More details in the link above.",
+    "author": "Eisa01",
+    "homepage": "https://github.com/Eisa01/mpv-scripts#simpleundo"
+  },
+  "skip-silence": {
+    "name": "skip-silence",
+    "download": "https://github.com/idMysteries/mpv-skip-silence/archive/refs/heads/main.zip",
+    "description": "Playback mode that automatically skips/speed up silent parts.",
+    "author": "idMysteries",
+    "homepage": "https://github.com/idMysteries/mpv-skip-silence"
+  },
+  "skipchapters": {
+    "name": "skipchapters",
+    "download": "https://raw.githubusercontent.com/haasn/gentoo-conf/xor/home/nand/.mpv/scripts/avail/skipchapters.lua",
+    "description": "Automatically skip chapters matching a given list of regular expressions (eg. \"OP\" or \"Opening\").",
+    "author": "haasn",
+    "homepage": "https://github.com/haasn/gentoo-conf/blob/xor/home/nand/.mpv/scripts/avail/skipchapters.lua"
+  },
+  "skipsilence": {
+    "name": "skipsilence",
+    "download": "https://github.com/ferreum/mpv-skipsilence/archive/refs/heads/master.zip",
+    "description": "Increase playback speed during quiet parts of the file.",
+    "author": "ferreum",
+    "homepage": "https://github.com/ferreum/mpv-skipsilence"
+  },
+  "skiptofade": {
+    "name": "skiptofade",
+    "download": "https://gist.github.com/bossen/3cfe86a6cdd61452dbb96865128fb327",
+    "description": "Seeks forward until a black screen appears. Built to skip openings. Uses the lavfi blackdetect filter.",
+    "author": "bossen",
+    "homepage": "https://gist.github.com/bossen/3cfe86a6cdd61452dbb96865128fb327"
+  },
+  "skiptosilence detuur": {
+    "name": "skiptosilence detuur",
+    "download": "https://github.com/detuur/mpv-scripts/archive/refs/heads/master.zip",
+    "description": "Skips to the next silence in the file.",
+    "author": "detuur",
+    "homepage": "https://github.com/detuur/mpv-scripts"
+  },
+  "skiptosilence dyphire": {
+    "name": "skiptosilence dyphire",
+    "download": "https://raw.githubusercontent.com/dyphire/mpv-scripts/main/skiptosilence.lua",
+    "description": "Skips to the next silence in the file.",
+    "author": "dyphire",
+    "homepage": "https://github.com/dyphire/mpv-scripts/blob/main/skiptosilence.lua"
+  },
+  "slicing": {
+    "name": "slicing",
+    "download": "https://github.com/Kagami/mpv_slicing/archive/refs/heads/master.zip",
+    "description": "Cut uncompressed fragments of the video.",
+    "author": "Kagami",
+    "homepage": "https://github.com/Kagami/mpv_slicing"
+  },
+  "slicing_copying": {
+    "name": "slicing_copying",
+    "download": "https://github.com/snylonue/mpv_slicing_copy/archive/refs/heads/master.zip",
+    "description": "Cut fragments of video in original format.",
+    "author": "snylonue",
+    "homepage": "https://github.com/snylonue/mpv_slicing_copy"
+  },
+  "smart-volume": {
+    "name": "smart-volume",
+    "download": "https://github.com/stax76/mpv-scripts/archive/refs/heads/main.zip",
+    "description": "Replay gain alternative.",
+    "author": "stax76",
+    "homepage": "https://github.com/stax76/mpv-scripts"
+  },
+  "SmartCopyPaste-3.0": {
+    "name": "SmartCopyPaste-3.0",
+    "download": "https://github.com/Eisa01/mpv-scripts#smartcopypaste/archive/refs/heads/main.zip",
+    "description": "Powerful copy paste features. Paste URL or local videos directly to mpv. Copy URL or currently playing video in mpv player then paste to access at a later time. Add videos to playlist simply by pasting. Much more explained in the link above.",
+    "author": "Eisa01",
+    "homepage": "https://github.com/Eisa01/mpv-scripts#smartcopypaste"
+  },
+  "SmartCopyPaste-II-3.0": {
+    "name": "SmartCopyPaste-II-3.0",
+    "download": "https://github.com/Eisa01/mpv-scripts#smartcopypaste_ii/archive/refs/heads/main.zip",
+    "description": "Powerful copy paste and clipboard list features using a log file. Select, filter, and search from your clipboard list. Paste URL or local videos directly to mpv. Copy URL or currently playing video in mpv player then paste to access at a later time. Paste to access previously copied times of same video. Much more explained in the link above.",
+    "author": "Eisa01",
+    "homepage": "https://github.com/Eisa01/mpv-scripts#smartcopypaste_ii"
+  },
+  "SmartSkip": {
+    "name": "SmartSkip",
+    "download": "https://github.com/Eisa01/mpv-scripts/#smartskip",
+    "description": "Automatically or manually skip opening, intro, outro, and preview, like never before. Jump to next file, previous file, and save your chapter changes! Much more explained in the link above.",
+    "author": "Eisa01",
+    "homepage": "https://github.com/Eisa01/mpv-scripts/#smartskip"
+  },
+  "socket": {
+    "name": "socket",
+    "download": "https://github.com/Farzat07/mpv_socket/archive/refs/heads/master.zip",
+    "description": "Creates one IPC socket per mpv instance. Configurable. Socket name can be modified while playing.",
+    "author": "Farzat07",
+    "homepage": "https://github.com/Farzat07/mpv_socket"
+  },
+  "Sockets": {
+    "name": "Sockets",
+    "download": "https://github.com/wis/mpvSockets/archive/refs/heads/master.zip",
+    "description": "creates one IPC sockets per mpv instance, instead of one socket for the last started instance.   _Supports_: Linux, MacOS and Windows.",
+    "author": "wis",
+    "homepage": "https://github.com/wis/mpvSockets"
+  },
+  "Sofalizer": {
+    "name": "Sofalizer",
+    "download": "https://gist.github.com/kevinlekiller/9fd21936411d8dc5998793470c6e3d16#file-sofalizer-lua",
+    "description": "Simulates 7.1 surround sound to your headset. Get the sofa file from [here](https://sofacoustics.org/data/database/clubfritz/ClubFritz6.sofa)",
+    "author": "kevinlekiller",
+    "homepage": "https://gist.github.com/kevinlekiller/9fd21936411d8dc5998793470c6e3d16#file-sofalizer-lua"
+  },
+  "sopcast": {
+    "name": "sopcast",
+    "download": "https://github.com/Akemi/mpv-sopcast-hook/archive/refs/heads/master.zip",
+    "description": "Adds support for sop:// urls.",
+    "author": "Akemi",
+    "homepage": "https://github.com/Akemi/mpv-sopcast-hook"
+  },
+  "sorted-screenshots": {
+    "name": "sorted-screenshots",
+    "download": "https://github.com/BanchouBoo/mpv-sorted-screenshots/archive/refs/heads/master.zip",
+    "description": "Sort screenshots based on the file they're screenshotted from and nested directories.",
+    "author": "BanchouBoo",
+    "homepage": "https://github.com/BanchouBoo/mpv-sorted-screenshots"
+  },
+  "sort_script": {
+    "name": "sort_script",
+    "download": "https://github.com/TheAMM/mpv_sort_script/archive/refs/heads/master.zip",
+    "description": "Sort directories and files.",
+    "author": "TheAMM",
+    "homepage": "https://github.com/TheAMM/mpv_sort_script"
+  },
+  "sosc": {
+    "name": "sosc",
+    "download": "https://github.com/christoph-heinrich/sosc/archive/refs/heads/master.zip",
+    "description": "An OSC supplement for OSC replacements. Provides the idle message and script messages from the original OSC.",
+    "author": "christoph-heinrich",
+    "homepage": "https://github.com/christoph-heinrich/sosc"
+  },
+  "speed - adjusted timings": {
+    "name": "speed - adjusted timings",
+    "download": "https://github.com/oltodosel/mpv-scripts#speed_osd3lua/archive/refs/heads/main.zip",
+    "description": "Recalculates osd-msg3 timecodes with speed != 1",
+    "author": "oltodosel",
+    "homepage": "https://github.com/oltodosel/mpv-scripts#speed_osd3lua"
+  },
+  "speed-transition-Audio": {
+    "name": "speed-transition-Audio",
+    "download": "https://gist.github.com/bitingsock/e8a56446ad9c1ed92d872aeb38edf124",
+    "description": "Changes playback speed based on volume thresholds.",
+    "author": "bitingsock",
+    "homepage": "https://gist.github.com/bitingsock/e8a56446ad9c1ed92d872aeb38edf124"
+  },
+  "speed-transition": {
+    "name": "speed-transition",
+    "download": "https://github.com/zenyd/mpv-scripts/archive/refs/heads/master.zip",
+    "description": "Increases playback speed if a subtitle will not be displayed soon. Resumes normal speed just before the subtitle shows up.",
+    "author": "zenyd",
+    "homepage": "https://github.com/zenyd/mpv-scripts"
+  },
+  "speed": {
+    "name": "speed",
+    "download": "https://github.com/vflorelle/mpv-scripts#speed/archive/refs/heads/main.zip",
+    "description": "Always show current playback speed on the OSD.",
+    "author": "vflorelle",
+    "homepage": "https://github.com/vflorelle/mpv-scripts#speed"
+  },
+  "sponsorblock": {
+    "name": "sponsorblock",
+    "download": "https://github.com/po5/mpv_sponsorblock/archive/refs/heads/master.zip",
+    "description": "Script to skip sponsored segments of YouTube videos.",
+    "author": "po5",
+    "homepage": "https://github.com/po5/mpv_sponsorblock"
+  },
+  "sponsorblock_minimal": {
+    "name": "sponsorblock_minimal",
+    "download": "https://codeberg.org/jouni/mpv_sponsorblock_minimal",
+    "description": "More simple version of the sponsorblock script.",
+    "author": " ",
+    "homepage": "https://codeberg.org/jouni/mpv_sponsorblock_minimal"
+  },
+  "spotify": {
+    "name": "spotify",
+    "download": "https://github.com/olivierlemoal/mpv-spotify-script/archive/refs/heads/master.zip",
+    "description": "Add current playing title to an user defined Spotify playlist.",
+    "author": "olivierlemoal",
+    "homepage": "https://github.com/olivierlemoal/mpv-spotify-script"
+  },
+  "srt-resegment": {
+    "name": "srt-resegment",
+    "download": "https://raw.githubusercontent.com/VimWei/mpv-config/main/scripts/srt-resegment.lua",
+    "description": "Resegment srt by synchronize plain text with whisper's word-level timestamps JSON.",
+    "author": "VimWei",
+    "homepage": "https://github.com/VimWei/mpv-config/blob/main/scripts/srt-resegment.lua"
+  },
+  "stats": {
+    "name": "stats",
+    "download": "https://github.com/Argon-/mpv-stats/archive/refs/heads/master.zip",
+    "description": "Display some statistics about the currently played file on-screen.",
+    "author": "Argon-",
+    "homepage": "https://github.com/Argon-/mpv-stats/"
+  },
+  "stopCache": {
+    "name": "stopCache",
+    "download": "https://gist.github.com/bitingsock/19c3094cc8680bb7b97b09aaf7d11176",
+    "description": "stops the demuxer from downloading more if it is already past --end",
+    "author": "bitingsock",
+    "homepage": "https://gist.github.com/bitingsock/19c3094cc8680bb7b97b09aaf7d11176"
+  },
+  "store-shaders": {
+    "name": "store-shaders",
+    "download": "https://raw.githubusercontent.com/butterw/bShaders/master/mpv/settings/scripts/store-shaders.js",
+    "description": "Store current glsl-shaders config on first run, this config will then be restored by subsequent calls.",
+    "author": "butterw",
+    "homepage": "https://github.com/butterw/bShaders/blob/master/mpv/settings/scripts/store-shaders.js"
+  },
+  "streamcache": {
+    "name": "streamcache",
+    "download": "https://gitlab.com/lvml/mpv-plugin-streamcache",
+    "description": "Provides for more network-glitch-robust caching of live streams by adjusting replay speed.",
+    "author": " ",
+    "homepage": "https://gitlab.com/lvml/mpv-plugin-streamcache"
+  },
+  "streamsave": {
+    "name": "streamsave",
+    "download": "https://github.com/Sagnac/streamsave/archive/refs/heads/master.zip",
+    "description": "Save live streams without encoding.",
+    "author": "Sagnac",
+    "homepage": "https://github.com/Sagnac/streamsave"
+  },
+  "Stremio": {
+    "name": "Stremio",
+    "download": "https://github.com/Stremio",
+    "description": "Cross-platform, based on C++/QT.",
+    "author": "Stremio",
+    "homepage": "https://github.com/Stremio"
+  },
+  "sub-assrt by dyphire": {
+    "name": "sub-assrt by dyphire",
+    "download": "https://github.com/dyphire/mpv-sub-assrt/archive/refs/heads/master.zip",
+    "description": "Download Chinese subtitles from assrt.",
+    "author": "dyphire",
+    "homepage": "https://github.com/dyphire/mpv-sub-assrt"
+  },
+  "sub-bilingual": {
+    "name": "sub-bilingual",
+    "download": "https://raw.githubusercontent.com/kelciour/mpv-scripts/master/sub-bilingual.lua",
+    "description": "Generate bilingual subtitles.",
+    "author": "kelciour",
+    "homepage": "https://github.com/kelciour/mpv-scripts/blob/master/sub-bilingual.lua"
+  },
+  "sub-bookmarks": {
+    "name": "sub-bookmarks",
+    "download": "https://raw.githubusercontent.com/kelciour/mpv-scripts/master/sub-bookmarks.lua",
+    "description": "Save current position and subtitles in .txt file.",
+    "author": "kelciour",
+    "homepage": "https://github.com/kelciour/mpv-scripts/blob/master/sub-bookmarks.lua"
+  },
+  "sub-cut": {
+    "name": "sub-cut",
+    "download": "https://raw.githubusercontent.com/kelciour/mpv-scripts/master/sub-cut.lua",
+    "description": "Extract a part of the video as audio or video with subtitles.",
+    "author": "kelciour",
+    "homepage": "https://github.com/kelciour/mpv-scripts/blob/master/sub-cut.lua"
+  },
+  "sub-export": {
+    "name": "sub-export",
+    "download": "https://raw.githubusercontent.com/kelciour/mpv-scripts/master/sub-export.lua",
+    "description": "original, outdated",
+    "author": "kelciour",
+    "homepage": "https://github.com/kelciour/mpv-scripts/blob/master/sub-export.lua"
+  },
+  "sub-fastwhisper": {
+    "name": "sub-fastwhisper",
+    "download": "https://github.com/dyphire/mpv-sub-fastwhisper/archive/refs/heads/master.zip",
+    "description": "Generate SRT subtitles through voice transcription using faster-whisper.",
+    "author": "dyphire",
+    "homepage": "https://github.com/dyphire/mpv-sub-fastwhisper"
+  },
+  "sub-not-forced-not-sdh": {
+    "name": "sub-not-forced-not-sdh",
+    "download": "https://github.com/pzim-devdata/mpv-scripts/archive/refs/heads/main.zip",
+    "description": "Prevents the selection of FORCED and SDH subtitles when you start playing a video.",
+    "author": "pzim-devdata",
+    "homepage": "https://github.com/pzim-devdata/mpv-scripts"
+  },
+  "sub-pause": {
+    "name": "sub-pause",
+    "download": "https://github.com/Ben-Kerman/mpv-sub-scripts/archive/refs/heads/master.zip",
+    "description": "Automatically pause just before the end of each subtitle line. Also allows replaying the currently active line.",
+    "author": "Ben-Kerman",
+    "homepage": "https://github.com/Ben-Kerman/mpv-sub-scripts"
+  },
+  "sub-playback": {
+    "name": "sub-playback",
+    "download": "https://raw.githubusercontent.com/kelciour/mpv-scripts/master/sub-playback.lua",
+    "description": "Add interactive move, i.e. automatically pause at the end of the fragment with option to continue playback or replay it again with or without subtitles.",
+    "author": "kelciour",
+    "homepage": "https://github.com/kelciour/mpv-scripts/blob/master/sub-playback.lua"
+  },
+  "sub-replay": {
+    "name": "sub-replay",
+    "download": "https://raw.githubusercontent.com/kelciour/mpv-scripts/master/sub-replay.lua",
+    "description": "Replay previous sentence.",
+    "author": "kelciour",
+    "homepage": "https://github.com/kelciour/mpv-scripts/blob/master/sub-replay.lua"
+  },
+  "sub-search": {
+    "name": "sub-search",
+    "download": "https://raw.githubusercontent.com/kelciour/mpv-scripts/master/sub-search.lua",
+    "description": "Search for phrase in subtitles and skip to it.",
+    "author": "kelciour",
+    "homepage": "https://github.com/kelciour/mpv-scripts/blob/master/sub-search.lua"
+  },
+  "sub-select": {
+    "name": "sub-select",
+    "download": "https://github.com/CogentRedTester/mpv-sub-select/archive/refs/heads/master.zip",
+    "description": "Advanced conditional subtitle track selector.",
+    "author": "CogentRedTester",
+    "homepage": "https://github.com/CogentRedTester/mpv-sub-select"
+  },
+  "sub-sentences": {
+    "name": "sub-sentences",
+    "download": "https://raw.githubusercontent.com/kelciour/mpv-scripts/master/sub-sentences.lua",
+    "description": "Generate subtitles with sentences.",
+    "author": "kelciour",
+    "homepage": "https://github.com/kelciour/mpv-scripts/blob/master/sub-sentences.lua"
+  },
+  "sub-skip": {
+    "name": "sub-skip",
+    "download": "https://github.com/Ben-Kerman/mpv-sub-scripts/archive/refs/heads/master.zip",
+    "description": "Automatically skip parts of a video that don't contain any subtitles. Does so by either fast-forwarding or seeking.",
+    "author": "Ben-Kerman",
+    "homepage": "https://github.com/Ben-Kerman/mpv-sub-scripts"
+  },
+  "sub-transition": {
+    "name": "sub-transition",
+    "download": "https://github.com/Ajatt-Tools/sub_transition/archive/refs/heads/main.zip",
+    "description": "Speed up playback when no subtitles are visible.",
+    "author": "Ajatt-Tools",
+    "homepage": "https://github.com/Ajatt-Tools/sub_transition"
+  },
+  "sub-voracious": {
+    "name": "sub-voracious",
+    "download": "https://raw.githubusercontent.com/kelciour/mpv-scripts/master/sub-voracious.lua",
+    "description": "Reading and listening practice.",
+    "author": "kelciour",
+    "homepage": "https://github.com/kelciour/mpv-scripts/blob/master/sub-voracious.lua"
+  },
+  "sub": {
+    "name": "sub",
+    "download": "https://github.com/vflorelle/mpv-scripts#sub/archive/refs/heads/main.zip",
+    "description": "Select subtitle by id via input box (Windows)",
+    "author": "vflorelle",
+    "homepage": "https://github.com/vflorelle/mpv-scripts#sub"
+  },
+  "sub2clipboard": {
+    "name": "sub2clipboard",
+    "version": "0.1.1",
+    "description": "Copy subtitles to clipboard",
+    "author": "mpv-easy",
+    "download": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/sub2clipboard.js"
+  },
+  "subber": {
+    "name": "subber",
+    "download": "https://framagit.org/Midgard/mpv-subber",
+    "description": "Write subtitles in mpv.",
+    "author": " ",
+    "homepage": "https://framagit.org/Midgard/mpv-subber"
+  },
+  "subit": {
+    "name": "subit",
+    "download": "https://raw.githubusercontent.com/wiiaboo/mpv-scripts/master/subit.lua",
+    "description": "Yet another script for downloading subtitles using subliminal. Supports better customization of options, such as easy language selection, authentication for providers that need it, and support for URLs.",
+    "author": "wiiaboo",
+    "homepage": "https://github.com/wiiaboo/mpv-scripts/blob/master/subit.lua"
+  },
+  "subs2srs": {
+    "name": "subs2srs",
+    "download": "https://raw.githubusercontent.com/kelciour/mpv-scripts/master/subs2srs.lua",
+    "description": "Automatically add new card in Anki with audio, picture and text.",
+    "author": "kelciour",
+    "homepage": "https://github.com/kelciour/mpv-scripts/blob/master/subs2srs.lua"
+  },
+  "subselect Tk": {
+    "name": "subselect Tk",
+    "download": "https://github.com/zenyd/mpv-scripts/archive/refs/heads/master.zip",
+    "description": "Download subtitles with a GUI - select the one you want and automatically load them up in mpv. Supports searching for arbitrary names and different subtitle languages. Works on Windows and Linux, possibly macOS.",
+    "author": "zenyd",
+    "homepage": "https://github.com/zenyd/mpv-scripts"
+  },
+  "subtitle-lines": {
+    "name": "subtitle-lines",
+    "download": "https://github.com/christoph-heinrich/mpv-subtitle-lines/archive/refs/heads/master.zip",
+    "description": "List and search subtitle lines of the selected subtitle track.",
+    "author": "christoph-heinrich",
+    "homepage": "https://github.com/christoph-heinrich/mpv-subtitle-lines"
+  },
+  "subtitle-search": {
+    "name": "subtitle-search",
+    "download": "https://raw.githubusercontent.com/zenwarr/mpv-config/master/scripts/subtitle-search.lua",
+    "description": "Script to search for a phrase inside an active `.srt` subtitle. Displays matched lines in OSD list, takes `sub-delay` into account and allows searching for Unicode text in utf8 subtitle files.",
+    "author": "zenwarr",
+    "homepage": "https://github.com/zenwarr/mpv-config/blob/master/scripts/subtitle-search.lua"
+  },
+  "sub_export": {
+    "name": "sub_export",
+    "download": "https://raw.githubusercontent.com/dyphire/mpv-scripts/main/sub_export.lua",
+    "description": "fork, updated. Extract selected subtitles from .mkv file.",
+    "author": "dyphire",
+    "homepage": "https://github.com/dyphire/mpv-scripts/blob/main/sub_export.lua"
+  },
+  "sview": {
+    "name": "sview",
+    "download": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/sview.lua",
+    "description": "Displays all loaded shaders in a clean format. It suppresses the default OSD message, allowing the custom list to be viewed by toggling it or when changing shaders.",
+    "author": "he2a",
+    "homepage": "https://github.com/he2a/mpv-scripts"
+  },
+  "switch-both-audio": {
+    "name": "switch-both-audio",
+    "download": "https://github.com/70sh1/mpv-switch-both-audio/archive/refs/heads/main.zip",
+    "description": "Switch between playing one or two audio tracks simultaneously upon file load or with a hotkey.",
+    "author": "70sh1",
+    "homepage": "https://github.com/70sh1/mpv-switch-both-audio"
+  },
+  "switch-shader": {
+    "name": "switch-shader",
+    "download": "https://raw.githubusercontent.com/butterw/bShaders/master/mpv/settings/scripts/switch-shader.js",
+    "description": "Provides a switch to disable/restore shaders and vf filters.",
+    "author": "butterw",
+    "homepage": "https://github.com/butterw/bShaders/blob/master/mpv/settings/scripts/switch-shader.js"
+  },
+  "Syncplay": {
+    "name": "Syncplay",
+    "download": "https://syncplay.pl",
+    "description": "Synchronize playback on mpv/VLC/MPC on many computers and chat with friends. Cross-platform, based on Python.",
+    "author": " ",
+    "homepage": "https://syncplay.pl"
+  },
+  "takeSsSequence": {
+    "name": "takeSsSequence",
+    "download": "https://github.com/Arieleg/mpv-takeSsSequence/archive/refs/heads/master.zip",
+    "description": "Take a sequence of equispaced screenshots.",
+    "author": "Arieleg",
+    "homepage": "https://github.com/Arieleg/mpv-takeSsSequence"
+  },
+  "taskbar-buttons": {
+    "name": "taskbar-buttons",
+    "download": "https://github.com/qwerty12/mpv-taskbar-buttons/archive/refs/heads/master.zip",
+    "description": "(Windows) Adds thumbbar buttons.",
+    "author": "qwerty12",
+    "homepage": "https://github.com/qwerty12/mpv-taskbar-buttons"
+  },
+  "Tcl/Tk context-menu": {
+    "name": "Tcl/Tk context-menu",
+    "download": "https://gist.github.com/avih/bee746200b5712220b8bd2f230e535de",
+    "description": "Configurable context-menu based on Tcl/Tk (cross-platform).",
+    "author": "avih",
+    "homepage": "https://gist.github.com/avih/bee746200b5712220b8bd2f230e535de"
+  },
+  "tethys": {
+    "name": "tethys",
+    "download": "https://github.com/Zren/mpv-osc-tethys/archive/refs/heads/master.zip",
+    "description": "OSC replacement with seekbar thumbnail preview.",
+    "author": "Zren",
+    "homepage": "https://github.com/Zren/mpv-osc-tethys"
+  },
+  "thumbfast": {
+    "name": "thumbfast",
+    "download": "https://github.com/po5/thumbfast/archive/refs/heads/master.zip",
+    "description": "High-performance on-the-fly thumbnailer for mpv.",
+    "author": "po5",
+    "homepage": "https://github.com/po5/thumbfast"
+  },
+  "thumbnail_script": {
+    "name": "thumbnail_script",
+    "download": "https://github.com/marzzzello/mpv_thumbnail_script/archive/refs/heads/master.zip",
+    "description": "Shows preview thumbnails in the seekbar.",
+    "author": "marzzzello",
+    "homepage": "https://github.com/marzzzello/mpv_thumbnail_script"
+  },
+  "time": {
+    "name": "time",
+    "download": "https://raw.githubusercontent.com/mustaqimM/mpv-scripts/master/time.lua",
+    "description": "Shows the current time or the time at which playback will end.",
+    "author": "mustaqimM",
+    "homepage": "https://github.com/mustaqimM/mpv-scripts/blob/master/time.lua"
+  },
+  "timer": {
+    "name": "timer",
+    "download": "https://github.com/AdamD2/mpv-timer/archive/refs/heads/master.zip",
+    "description": "Allows the user to set a starting time and an ending time and see the time elapsed between those points with millisecond precision.",
+    "author": "AdamD2",
+    "homepage": "https://github.com/AdamD2/mpv-timer"
+  },
+  "toggle-redshift-on-play kill-restart-version": {
+    "name": "toggle-redshift-on-play kill-restart-version",
+    "download": "https://gist.github.com/CreamyCookie/079570ad0dd27d322421f6637c828ab8",
+    "description": "Toggle redshift when viewing videos with mpv.",
+    "author": "CreamyCookie",
+    "homepage": "https://gist.github.com/CreamyCookie/079570ad0dd27d322421f6637c828ab8"
+  },
+  "toggle-redshift-on-play": {
+    "name": "toggle-redshift-on-play",
+    "download": "https://gist.github.com/CreamyCookie/d036b66af4e17ea527d08e303eb96145",
+    "description": "Toggle redshift when viewing videos with mpv.",
+    "author": "CreamyCookie",
+    "homepage": "https://gist.github.com/CreamyCookie/d036b66af4e17ea527d08e303eb96145"
+  },
+  "torrserver-hook": {
+    "name": "torrserver-hook",
+    "download": "https://github.com/eNV25/mpv-torrserver-hook/archive/refs/heads/master.zip",
+    "description": "Allows for playback of media from the BitTorrent network using [TorrServer](https://github.com/YouROK/TorrServer).",
+    "author": "eNV25",
+    "homepage": "https://github.com/eNV25/mpv-torrserver-hook"
+  },
+  "torrserver": {
+    "name": "torrserver",
+    "download": "https://github.com/kritma/mpv-torrserver/archive/refs/heads/master.zip",
+    "description": "Allows streaming torrents using [TorrServer](https://github.com/YouROK/TorrServer). Support magnet links and .torrent files",
+    "author": "kritma",
+    "homepage": "https://github.com/kritma/mpv-torrserver"
+  },
+  "total_playtime": {
+    "name": "total_playtime",
+    "download": "https://raw.githubusercontent.com/oltodosel/mpv-scripts/master/total_playtime.lua",
+    "description": "Shows total playtime of current playlist.",
+    "author": "oltodosel",
+    "homepage": "https://github.com/oltodosel/mpv-scripts/blob/master/total_playtime.lua"
+  },
+  "touch-gestures": {
+    "name": "touch-gestures",
+    "download": "https://github.com/christoph-heinrich/mpv-touch-gestures/archive/refs/heads/master.zip",
+    "description": "Gestures for play/pause, speed, volume, seeking and next/previous playlist-item.",
+    "author": "christoph-heinrich",
+    "homepage": "https://github.com/christoph-heinrich/mpv-touch-gestures"
+  },
+  "track-list": {
+    "name": "track-list",
+    "download": "https://raw.githubusercontent.com/dyphire/mpv-scripts/main/track-list.lua",
+    "description": "Interractive track-list menu.",
+    "author": "dyphire",
+    "homepage": "https://github.com/dyphire/mpv-scripts/blob/main/track-list.lua"
+  },
+  "trackselect": {
+    "name": "trackselect",
+    "download": "https://github.com/po5/trackselect/archive/refs/heads/master.zip",
+    "description": "Select tracks based on their title.",
+    "author": "po5",
+    "homepage": "https://github.com/po5/trackselect"
+  },
+  "trakt-scrobble": {
+    "name": "trakt-scrobble",
+    "download": "https://github.com/dyphire/trakt-scrobble/archive/refs/heads/main.zip",
+    "description": "Connects trakt.tv with mpv and automatically scrobbles movies/shows.",
+    "author": "dyphire",
+    "homepage": "https://github.com/dyphire/trakt-scrobble"
+  },
+  "trakt": {
+    "name": "trakt",
+    "download": "https://github.com/LiTO773/trakt-mpv/archive/refs/heads/main.zip",
+    "description": "Connects trakt.tv with mpv and automatically scrobbles movies/shows.",
+    "author": "LiTO773",
+    "homepage": "https://github.com/LiTO773/trakt-mpv"
+  },
+  "tree-profiles": {
+    "name": "tree-profiles",
+    "download": "https://raw.githubusercontent.com/fbriere/mpv-scripts/master/scripts/tree-profiles.lua",
+    "description": "Automatically apply profiles to certain directories or files.",
+    "author": "fbriere",
+    "homepage": "https://github.com/fbriere/mpv-scripts/blob/master/scripts/tree-profiles.lua"
+  },
+  "trim": {
+    "name": "trim",
+    "download": "https://github.com/aerobounce/trim.lua",
+    "description": "Trim clips without transcoding.",
+    "author": "aerobounce",
+    "homepage": "https://github.com/aerobounce/trim.lua"
+  },
+  "trueautosub": {
+    "name": "trueautosub",
+    "download": "https://github.com/fullmetalsheep/mpv-iina-scripts/archive/refs/heads/master.zip",
+    "description": "Fork of autosub, automatically downloads subtitles if not present using **subliminal**. (osx/linux only)",
+    "author": "fullmetalsheep",
+    "homepage": "https://github.com/fullmetalsheep/mpv-iina-scripts"
+  },
+  "tts-subs": {
+    "name": "tts-subs",
+    "download": "https://raw.githubusercontent.com/jgreco/mpv-scripts/master/tts-subs.lua",
+    "description": "Use voice synthesis to read subtitles out-loud.",
+    "author": "jgreco",
+    "homepage": "https://github.com/jgreco/mpv-scripts/blob/master/tts-subs.lua"
+  },
+  "TubiTui": {
+    "name": "TubiTui",
+    "download": "https://codeberg.org/777/TubiTui",
+    "description": "Cross-platform YouTube client based on Rust/TUI.",
+    "author": " ",
+    "homepage": "https://codeberg.org/777/TubiTui"
+  },
+  "tv-output": {
+    "name": "tv-output",
+    "download": "https://raw.githubusercontent.com/blue-sky-r/mpv/master/scripts/tv.lua",
+    "description": "TV output handling - activate on mpv playback and deactivate on mpv shutdown.",
+    "author": "blue-sky-r",
+    "homepage": "https://github.com/blue-sky-r/mpv/blob/master/scripts/tv.lua"
+  },
+  "twitch-chat-irc": {
+    "name": "twitch-chat-irc",
+    "download": "https://github.com/morrah/mpv-twitch-chat-irc/archive/refs/heads/master.zip",
+    "description": "Show Twitch chat messages as subtitles when watching Twitch LIVE.",
+    "author": "morrah",
+    "homepage": "https://github.com/morrah/mpv-twitch-chat-irc"
+  },
+  "twitch-chat": {
+    "name": "twitch-chat",
+    "download": "https://github.com/CrendKing/mpv-twitch-chat/archive/refs/heads/master.zip",
+    "description": "Show Twitch chat messages as subtitles when watching Twitch VOD with mpv.",
+    "author": "CrendKing",
+    "homepage": "https://github.com/CrendKing/mpv-twitch-chat/"
+  },
+  "txt": {
+    "name": "txt",
+    "download": "https://github.com/jgreco/mpv-txt/archive/refs/heads/master.zip",
+    "description": "Play text files using text-to-speech (TTS). (Works on Linux, MacOS).",
+    "author": "jgreco",
+    "homepage": "https://github.com/jgreco/mpv-txt"
+  },
+  "UndoRedo": {
+    "name": "UndoRedo",
+    "download": "https://github.com/Eisa01/mpv-scripts#undoredo/archive/refs/heads/main.zip",
+    "description": "Undo and Redo feature for mpv. If you seek/jump to a different time in the video, press undo [ctrl]+[z] to linearly undo the seeks/jumps in the video, and press redo [ctrl]+[y] to linearly return to previous undo positions. More details in the link above.",
+    "author": "Eisa01",
+    "homepage": "https://github.com/Eisa01/mpv-scripts#undoredo"
+  },
+  "unseen-playlistmaker": {
+    "name": "unseen-playlistmaker",
+    "download": "https://github.com/jonniek/unseen-playlistmaker/archive/refs/heads/master.zip",
+    "description": "Keeps track of your watched files from a directory, and on keypress enters playlist-mode to watch unseen files from that specified directory.",
+    "author": "jonniek",
+    "homepage": "https://github.com/jonniek/unseen-playlistmaker"
+  },
+  "uosc": {
+    "name": "uosc",
+    "download": "https://github.com/tomasklaen/uosc/releases/latest/download/uosc.zip",
+    "description": "Popular OSC with menu.",
+    "author": "tomasklaen",
+    "homepage": "https://github.com/tomasklaen/uosc"
+  },
+  "use-cpu": {
+    "name": "use-cpu",
+    "download": "https://raw.githubusercontent.com/422658476/MPV-EASY-Player/master/portable-data/scripts/use-cpu.lua",
+    "description": "If the width of the video is greater than 3000 or the height of the video is greater than 2000, it will automatically switch back to using cpu decoding.",
+    "author": "422658476",
+    "homepage": "https://github.com/422658476/MPV-EASY-Player/blob/master/portable-data/scripts/use-cpu.lua"
+  },
+  "user-data-loader": {
+    "name": "user-data-loader",
+    "download": "https://github.com/CogentRedTester/mpv-user-data-loader/archive/refs/heads/master.zip",
+    "description": "Allows the `user-data` property to be set at launch using config files and changed using profiles and script-opts during runtime.",
+    "author": "CogentRedTester",
+    "homepage": "https://github.com/CogentRedTester/mpv-user-data-loader"
+  },
+  "user-input": {
+    "name": "user-input",
+    "download": "https://github.com/CogentRedTester/mpv-user-input/archive/refs/heads/master.zip",
+    "description": "API to request text user input.",
+    "author": "CogentRedTester",
+    "homepage": "https://github.com/CogentRedTester/mpv-user-input"
+  },
+  "video-splice": {
+    "name": "video-splice",
+    "download": "https://github.com/pvpscript/mpv-video-splice/archive/refs/heads/master.zip",
+    "description": "Create a video out of cuts.",
+    "author": "pvpscript",
+    "homepage": "https://github.com/pvpscript/mpv-video-splice"
+  },
+  "videoclip": {
+    "name": "videoclip",
+    "download": "https://github.com/Ajatt-Tools/videoclip/archive/refs/heads/master.zip",
+    "description": "Create video and audio clips.",
+    "author": "Ajatt-Tools",
+    "homepage": "https://github.com/Ajatt-Tools/videoclip"
+  },
+  "visualizer": {
+    "name": "visualizer",
+    "version": "0.1.0",
+    "description": "various audio visualization",
+    "author": "mfcc64",
+    "download": "https://raw.githubusercontent.com/mfcc64/mpv-scripts/master/visualizer.lua"
+  },
+  "vlc-aspect-ratio": {
+    "name": "vlc-aspect-ratio",
+    "version": "0.1.1",
+    "description": "vlc style aspect ratio stretch for mpv",
+    "author": "mpv-easy",
+    "download": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/vlc-aspect-ratio.js"
+  },
+  "vlcaspectratio": {
+    "name": "vlcaspectratio",
+    "download": "https://raw.githubusercontent.com/kism/mpvscripts/main/scripts/vlcaspectratio.lua",
+    "description": "Implements a VLC style aspect ratio hotkey 'a' that stretches the video to different aspect ratios.",
+    "author": "kism",
+    "homepage": "https://github.com/kism/mpvscripts/blob/main/scripts/vlcaspectratio.lua"
+  },
+  "vlccrop": {
+    "name": "vlccrop",
+    "download": "https://raw.githubusercontent.com/kism/mpvscripts/main/scripts/vlccrop.lua",
+    "description": "Implements a VLC style crop hotkey 'c' that cycles through crop settings, useful for cropping letter-boxed or pillar-boxed content.",
+    "author": "kism",
+    "homepage": "https://github.com/kism/mpvscripts/blob/main/scripts/vlccrop.lua"
+  },
+  "vmn": {
+    "name": "vmn",
+    "download": "https://github.com/Dudemanguy/vmn/archive/refs/heads/master.zip",
+    "description": "Cross-platform CLI music player, based on C/TUI.",
+    "author": "Dudemanguy",
+    "homepage": "https://github.com/Dudemanguy/vmn"
+  },
+  "volnorm": {
+    "name": "volnorm",
+    "download": "https://gitlab.com/derobert/mpv-volnorm",
+    "description": "Client-server setup to provide EBU R.128 volume leveling to MPV, even if files stored on a server and played on multiple machines. (Works on Linux, probably all Unix-like; server in Perl).",
+    "author": " ",
+    "homepage": "https://gitlab.com/derobert/mpv-volnorm"
+  },
+  "vo_battery": {
+    "name": "vo_battery",
+    "download": "https://gist.github.com/ekisu/04924e899648e84f2e18",
+    "description": "Choose the VO based on if the laptop is on battery or not.",
+    "author": "ekisu",
+    "homepage": "https://gist.github.com/ekisu/04924e899648e84f2e18"
+  },
+  "vr-reversal": {
+    "name": "vr-reversal",
+    "download": "https://github.com/dfaker/VR-reversal/archive/refs/heads/master.zip",
+    "description": "View 3D side-by-side video as a 2D video, allows you to look around and zoom within the video, logs the head motions to a file for later rendering out to a 2D video with ffmpeg.",
+    "author": "dfaker",
+    "homepage": "https://github.com/dfaker/VR-reversal"
+  },
+  "waifu2x": {
+    "name": "waifu2x",
+    "download": "https://github.com/jonniek/mpv-waifu2x/archive/refs/heads/master.zip",
+    "description": "Take screenshot and convert images with waifu2x.",
+    "author": "jonniek",
+    "homepage": "https://github.com/jonniek/mpv-waifu2x"
+  },
+  "waveform": {
+    "name": "waveform",
+    "download": "https://github.com/MikelSotomonte/mpv-waveform/tree/main",
+    "description": "Displays a waveform of the video in real-time.",
+    "author": "MikelSotomonte",
+    "homepage": "https://github.com/MikelSotomonte/mpv-waveform/tree/main"
+  },
+  "webm.py": {
+    "name": "webm.py",
+    "download": "https://github.com/Kagami/webm.py/archive/refs/heads/master.zip",
+    "description": "Cross-platform command-line WebM converter, based on Python.",
+    "author": "Kagami",
+    "homepage": "https://github.com/Kagami/webm.py"
+  },
+  "webm": {
+    "name": "webm",
+    "download": "https://github.com/ekisu/mpv-webm/archive/refs/heads/master.zip",
+    "description": "WebM converter based on MoonScript.",
+    "author": "ekisu",
+    "homepage": "https://github.com/ekisu/mpv-webm"
+  },
+  "webp-generator": {
+    "name": "webp-generator",
+    "download": "https://github.com/DonCanjas/mpv-webp-generator/archive/refs/heads/main.zip",
+    "description": "Creates animated webp using mpv hotkeys. (Windows only)",
+    "author": "DonCanjas",
+    "homepage": "https://github.com/DonCanjas/mpv-webp-generator"
+  },
+  "webtorrent-hook": {
+    "name": "webtorrent-hook",
+    "download": "https://github.com/noctuid/mpv-webtorrent-hook/archive/refs/heads/master.zip",
+    "description": "Allows streaming torrents using webtorrent (same as mpv-peerflix-hook but using webtorrent instead). Webtorrent-cli can play in mpv with `webtorrent --mpv`, but this script allows using torrent identifiers as the file argument to mpv or pasting them into the current playlist using one of the pasting scripts listed here. It also supports additional functionality like automatic file cleanup and the ability to remember the last file played in the torrent. See the readme for more information. See [here](https://github.com/noctuid/mpv-webtorrent-hook#comparison-with-webtorrent-mpv-hook) for a comparison with the other javascript webtorrent plugin. I recommend this plugin over my others (mpv-peerflix-hook and btfs-stream).",
+    "author": "noctuid",
+    "homepage": "https://github.com/noctuid/mpv-webtorrent-hook"
+  },
+  "webtorrent-mpv-hook": {
+    "name": "webtorrent-mpv-hook",
+    "download": "https://github.com/mrxdst/webtorrent-mpv-hook/archive/refs/heads/master.zip",
+    "description": "Adds a hook that allows mpv to stream torrents using webtorrent.",
+    "author": "mrxdst",
+    "homepage": "https://github.com/mrxdst/webtorrent-mpv-hook"
+  },
+  "when-to-loop": {
+    "name": "when-to-loop",
+    "download": "https://raw.githubusercontent.com/AN3223/dotfiles/master/.config/mpv/scripts/when-to-loop.lua",
+    "description": "Intelligently decide when mpv should loop, i.e. while shuffling or while playing a short file.",
+    "author": "AN3223",
+    "homepage": "https://github.com/AN3223/dotfiles/blob/master/.config/mpv/scripts/when-to-loop.lua"
+  },
+  "whisper-subs": {
+    "name": "whisper-subs",
+    "download": "https://github.com/GhostNaN/whisper-subs/archive/refs/heads/main.zip",
+    "description": "Generates subtitles at runtime with whisper.cpp on Linux.",
+    "author": "GhostNaN",
+    "homepage": "https://github.com/GhostNaN/whisper-subs"
+  },
+  "writename": {
+    "name": "writename",
+    "download": "https://github.com/paradox460/mpv-scripts/tree/master/writename",
+    "description": "Write the currently playing filename/path to a file, optionally skipping/removing from current playlist and muting.",
+    "author": "paradox460",
+    "homepage": "https://github.com/paradox460/mpv-scripts/tree/master/writename"
+  },
+  "xfce-genmonify": {
+    "name": "xfce-genmonify",
+    "download": "https://github.com/budRich/mpv-xfce-genmonify/archive/refs/heads/master.zip",
+    "description": "Update a [xfce4-panel](https://docs.xfce.org/xfce/xfce4-panel/start) [genmon](https://docs.xfce.org/panel-plugins/xfce4-genmon-plugin/start) plugin that is set up with [genmonify](https://github.com/budlabs/genmonify) to display the currently playing media file and elpapsed or remaining time in xfce4-panel.",
+    "author": "budRich",
+    "homepage": "https://github.com/budRich/mpv-xfce-genmonify"
+  },
+  "xrandr": {
+    "name": "xrandr",
+    "download": "https://gitlab.com/lvml/mpv-plugin-xrandr",
+    "description": "Automatically sets the display refresh rate to the one best suitable for the video played",
+    "author": " ",
+    "homepage": "https://gitlab.com/lvml/mpv-plugin-xrandr"
+  },
+  "xscreensaver": {
+    "name": "xscreensaver",
+    "download": "https://gist.github.com/elenril/f8ff9475a7882b7a16cdd723c7dce150",
+    "description": "(Linux) Disables XScreensaver while video playback is active, a replacement for heartbeat-cmd.",
+    "author": "elenril",
+    "homepage": "https://gist.github.com/elenril/f8ff9475a7882b7a16cdd723c7dce150"
+  },
+  "yledl": {
+    "name": "yledl",
+    "download": "https://github.com/pekkarr/mpv-yledl/archive/refs/heads/main.zip",
+    "description": "Watch videos from YLE Areena in mpv using yle-dl",
+    "author": "pekkarr",
+    "homepage": "https://github.com/pekkarr/mpv-yledl"
+  },
+  "Yomichampv": {
+    "name": "Yomichampv",
+    "download": "https://github.com/laelnasan/yomichampv/archive/refs/heads/master.zip",
+    "description": "A simple solution for integration with Yomichan - a browser-based japanese dictionay.",
+    "author": "laelnasan",
+    "homepage": "https://github.com/laelnasan/yomichampv"
+  },
+  "youtube-chat": {
+    "name": "youtube-chat",
+    "download": "https://github.com/BanchouBoo/mpv-youtube-chat/archive/refs/heads/master.zip",
+    "description": "Overlays YouTube chat on top of a video using yt-dlp.",
+    "author": "BanchouBoo",
+    "homepage": "https://github.com/BanchouBoo/mpv-youtube-chat"
+  },
+  "youtube-download": {
+    "name": "youtube-download",
+    "download": "https://github.com/cvzi/mpv-youtube-download/archive/refs/heads/main.zip",
+    "description": "Download YouTube audio and video with one key press.",
+    "author": "cvzi",
+    "homepage": "https://github.com/cvzi/mpv-youtube-download"
+  },
+  "youtube-queue": {
+    "name": "youtube-queue",
+    "download": "https://github.com/ksyasuda/mpv-youtube-queue/archive/refs/heads/master.zip",
+    "description": "Implements the YouTube 'Add to Queue' functionality. Allows adding video urls to the queue from the clipboard, and provides a menu for interacting with the queue.",
+    "author": "ksyasuda",
+    "homepage": "https://github.com/ksyasuda/mpv-youtube-queue"
+  },
+  "youtube-search": {
+    "name": "youtube-search",
+    "download": "https://github.com/rozari0/mpv-youtube-search/archive/refs/heads/master.zip",
+    "description": "Use zenity and youtube-dl to search YouTube.",
+    "author": "rozari0",
+    "homepage": "https://github.com/rozari0/mpv-youtube-search"
+  },
+  "youtube-upnext": {
+    "name": "youtube-upnext",
+    "download": "https://github.com/cvzi/mpv-youtube-upnext/archive/refs/heads/main.zip",
+    "description": "A menu for (auto) playing YouTube's \"up next\"/recommended videos, that show up on the right side on the website.",
+    "author": "cvzi",
+    "homepage": "https://github.com/cvzi/mpv-youtube-upnext"
+  },
+  "ytdl-preload": {
+    "name": "ytdl-preload",
+    "download": "https://github.com/bitingsock/ytdl-preload/archive/refs/heads/main.zip",
+    "description": "Precache the next entry in your playlist if it is a network source by downloading it to a temp file ahead of time. Updated to download all streams in parallel so you can watch it while it downloads.",
+    "author": "bitingsock",
+    "homepage": "https://github.com/bitingsock/ytdl-preload"
+  },
+  "ytdlautoformat": {
+    "name": "ytdlautoformat",
+    "download": "https://github.com/Samillion/mpv-ytdlautoformat/archive/refs/heads/master.zip",
+    "description": "Automatically adjusts `ytdl-format` (yt-dlp) for specified domains.",
+    "author": "Samillion",
+    "homepage": "https://github.com/Samillion/mpv-ytdlautoformat"
+  },
+  "ytsub": {
+    "name": "ytsub",
+    "download": "https://github.com/Idlusen/mpv-ytsub/archive/refs/heads/main.zip",
+    "description": "Load automatic captions from Youtube, can select language interactively or automatically.",
+    "author": "Idlusen",
+    "homepage": "https://github.com/Idlusen/mpv-ytsub/"
+  },
+  "zenity-open-files": {
+    "name": "zenity-open-files",
+    "download": "https://github.com/alifarazz/mpv-zenity-open-files/archive/refs/heads/master.zip",
+    "description": "Use GTK's zenity to add files to playlist, subtitles to playing video or open URLs.",
+    "author": "alifarazz",
+    "homepage": "https://github.com/alifarazz/mpv-zenity-open-files"
+  },
+  "zones": {
+    "name": "zones",
+    "download": "https://raw.githubusercontent.com/wiiaboo/mpv-scripts/master/zones.lua",
+    "description": "Handles commands depending on where the mouse pointer is at, mostly for mouse wheel handling.",
+    "author": "wiiaboo",
+    "homepage": "https://github.com/wiiaboo/mpv-scripts/blob/master/zones.lua"
+  }
+}

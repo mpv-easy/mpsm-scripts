@@ -1,0 +1,7 @@
+{
+  "name": "jellyfin mpv shim",
+  "download": "https://github.com/jellyfin/jellyfin-mpv-shim/archive/refs/heads/master.zip",
+  "description": "Jellyfin (Emby/Plex alternative) Client, based on Python.",
+  "author": "jellyfin",
+  "homepage": "https://github.com/jellyfin/jellyfin-mpv-shim"
+}

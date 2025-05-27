@@ -1,0 +1,7 @@
+{
+  "name": "quack",
+  "download": "https://github.com/CounterPillow/mpv-quack/archive/refs/heads/master.zip",
+  "description": "Reduces audio volume temporarily after seeking.",
+  "author": "CounterPillow",
+  "homepage": "https://github.com/CounterPillow/mpv-quack"
+}

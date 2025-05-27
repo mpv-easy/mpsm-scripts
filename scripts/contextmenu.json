@@ -1,0 +1,7 @@
+{
+  "name": "contextmenu",
+  "download": "https://gitlab.com/carmanaught/mpvcontextmenu",
+  "description": "Configurable context-menu based on Tcl/Tk (cross-platform).",
+  "author": " ",
+  "homepage": "https://gitlab.com/carmanaught/mpvcontextmenu"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "TubiTui",
+  "download": "https://codeberg.org/777/TubiTui",
+  "description": "Cross-platform YouTube client based on Rust/TUI.",
+  "author": " ",
+  "homepage": "https://codeberg.org/777/TubiTui"
+}

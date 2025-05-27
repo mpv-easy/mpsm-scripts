@@ -1,0 +1,7 @@
+{
+  "name": "crop_script",
+  "download": "https://github.com/TheAMM/mpv_crop_script/archive/refs/heads/master.zip",
+  "description": "Take cropped screenshots.",
+  "author": "TheAMM",
+  "homepage": "https://github.com/TheAMM/mpv_crop_script"
+}

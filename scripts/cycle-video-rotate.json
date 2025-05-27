@@ -1,0 +1,7 @@
+{
+  "name": "cycle-video-rotate",
+  "download": "https://github.com/VideoPlayerCode/mpv-tools/archive/refs/heads/master.zip",
+  "description": "Allows you to perform video rotation which perfectly cycles through all 360 degrees without any glitches.",
+  "author": "VideoPlayerCode",
+  "homepage": "https://github.com/VideoPlayerCode/mpv-tools/"
+}

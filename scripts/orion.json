@@ -1,0 +1,7 @@
+{
+  "name": "orion",
+  "download": "https://github.com/alamminsalo/orion/archive/refs/heads/master.zip",
+  "description": "Unmaintained cross platform Twitch.tv client, based on C++/QT/QML.",
+  "author": "alamminsalo",
+  "homepage": "https://github.com/alamminsalo/orion"
+}
