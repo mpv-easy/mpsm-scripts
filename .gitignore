@@ -3,6 +3,7 @@ dist
 es5
 .parcel-cache
 fish.exe.stackdump
+release
 
 target
 

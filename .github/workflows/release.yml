@@ -13,14 +13,21 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 10
       - name: "build ts"
         run: |
-          npm i pnpm -g
           pnpm i
           pnpm run build
+
+          mkdir -p ./release
+          cp ./scripts/* ./release/
+          cp ./es5/* ./release/
+          cp ./script-opts/* ./release/
+          cp ./lua/* ./release/
 
 
       - uses: ncipollo/release-action@v1
         with:
-          artifacts: "./es5/*"
+          artifacts: "./release/*"
