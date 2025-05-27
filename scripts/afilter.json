@@ -1,6 +1,6 @@
 {
   "name": "afilter",
-  "download": "https://github.com/he2a/mpv-scripts/archive/refs/heads/main.zip",
+  "download": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/afilter.lua",
   "description": "Script for easy access to certain audio compressors and HRTF sofalizer in mpv with option to whitelist filters based on type of media.",
   "author": "he2a",
   "homepage": "https://github.com/he2a/mpv-scripts"

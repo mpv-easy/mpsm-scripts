@@ -18,8 +18,7 @@
     "version": "0.1.0",
     "description": "This script adds control to the dynamic range compression ffmpeg filter including key bindings for adjusting parameters.",
     "author": "mpv-player",
-    "download": "https://raw.githubusercontent.com/mpv-player/mpv/master/TOOLS/lua/acompressor.lua",
-    "update": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/acompressor.meta.lua"
+    "download": "https://raw.githubusercontent.com/mpv-player/mpv/master/TOOLS/lua/acompressor.lua"
   },
   "adevice-list": {
     "name": "adevice-list",
@@ -30,7 +29,7 @@
   },
   "afilter": {
     "name": "afilter",
-    "download": "https://github.com/he2a/mpv-scripts/archive/refs/heads/main.zip",
+    "download": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/afilter.lua",
     "description": "Script for easy access to certain audio compressors and HRTF sofalizer in mpv with option to whitelist filters based on type of media.",
     "author": "he2a",
     "homepage": "https://github.com/he2a/mpv-scripts"
@@ -138,8 +137,7 @@
     "version": "0.1.0",
     "description": "This script uses the lavfi cropdetect filter and the video-crop property to automatically crop the currently playing video with appropriate parameters.",
     "author": "mpv-player",
-    "download": "https://raw.githubusercontent.com/mpv-player/mpv/master/TOOLS/lua/autocrop.lua",
-    "update": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/autocrop.meta.lua"
+    "download": "https://raw.githubusercontent.com/mpv-player/mpv/master/TOOLS/lua/autocrop.lua"
   },
   "autodeint": {
     "name": "autodeint",
@@ -808,7 +806,7 @@
   },
   "equalizer": {
     "name": "equalizer",
-    "download": "https://github.com/he2a/mpv-scripts/archive/refs/heads/main.zip",
+    "download": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/equalizer.lua",
     "description": "Togglable parametric equalizer with EQ configuration similar to EqualizerAPO format present in a csv format.",
     "author": "he2a",
     "homepage": "https://github.com/he2a/mpv-scripts"
@@ -909,8 +907,7 @@
     "version": "0.1.0",
     "description": "Linear Phase 15-Bands Equalizer",
     "author": "mfcc64",
-    "download": "https://raw.githubusercontent.com/mfcc64/mpv-scripts/master/firequalizer15.lua",
-    "update": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/firequalizer15.meta.lua"
+    "download": "https://raw.githubusercontent.com/mfcc64/mpv-scripts/master/firequalizer15.lua"
   },
   "fix_sub_timing": {
     "name": "fix_sub_timing",
@@ -1708,8 +1705,7 @@
     "version": "0.1.0",
     "description": "open-file-dialog is a script for mpv that can launch a regular Windows file open dialog from a key binding (default: Ctrl+O.)",
     "author": "rossy",
-    "download": "https://raw.githubusercontent.com/rossy/mpv-open-file-dialog/master/open-file-dialog.lua",
-    "update": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/open-file-dialog.meta.lua"
+    "download": "https://raw.githubusercontent.com/rossy/mpv-open-file-dialog/master/open-file-dialog.lua"
   },
   "open-imdb-page": {
     "name": "open-imdb-page",
@@ -2700,7 +2696,7 @@
   },
   "sview": {
     "name": "sview",
-    "download": "https://github.com/he2a/mpv-scripts/archive/refs/heads/main.zip",
+    "download": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/sview.lua",
     "description": "Displays all loaded shaders in a clean format. It suppresses the default OSD message, allowing the custom list to be viewed by toggling it or when changing shaders.",
     "author": "he2a",
     "homepage": "https://github.com/he2a/mpv-scripts"
@@ -2976,8 +2972,7 @@
     "version": "0.1.0",
     "description": "various audio visualization",
     "author": "mfcc64",
-    "download": "https://raw.githubusercontent.com/mfcc64/mpv-scripts/master/visualizer.lua",
-    "update": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/visualizer.meta.lua"
+    "download": "https://raw.githubusercontent.com/mfcc64/mpv-scripts/master/visualizer.lua"
   },
   "vlc-aspect-ratio": {
     "name": "vlc-aspect-ratio",
