@@ -18,7 +18,8 @@
     "version": "0.1.0",
     "description": "This script adds control to the dynamic range compression ffmpeg filter including key bindings for adjusting parameters.",
     "author": "mpv-player",
-    "download": "https://raw.githubusercontent.com/mpv-player/mpv/master/TOOLS/lua/acompressor.lua"
+    "download": "https://raw.githubusercontent.com/mpv-player/mpv/master/TOOLS/lua/acompressor.lua",
+    "update": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/acompressor.meta.lua"
   },
   "adevice-list": {
     "name": "adevice-list",
@@ -137,7 +138,8 @@
     "version": "0.1.0",
     "description": "This script uses the lavfi cropdetect filter and the video-crop property to automatically crop the currently playing video with appropriate parameters.",
     "author": "mpv-player",
-    "download": "https://raw.githubusercontent.com/mpv-player/mpv/master/TOOLS/lua/autocrop.lua"
+    "download": "https://raw.githubusercontent.com/mpv-player/mpv/master/TOOLS/lua/autocrop.lua",
+    "update": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/autocrop.meta.lua"
   },
   "autodeint": {
     "name": "autodeint",
@@ -907,7 +909,8 @@
     "version": "0.1.0",
     "description": "Linear Phase 15-Bands Equalizer",
     "author": "mfcc64",
-    "download": "https://raw.githubusercontent.com/mfcc64/mpv-scripts/master/firequalizer15.lua"
+    "download": "https://raw.githubusercontent.com/mfcc64/mpv-scripts/master/firequalizer15.lua",
+    "update": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/firequalizer15.meta.lua"
   },
   "fix_sub_timing": {
     "name": "fix_sub_timing",
@@ -1462,6 +1465,14 @@
     "download": "https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-easy-cut.zip",
     "homepage": "https://github.com/mpv-easy/mpv-easy/tree/main/mpv-cut"
   },
+  "mpv-easy-pause-mosaic": {
+    "name": "mpv-easy-pause-mosaic",
+    "description": "mpv player pause-mosaic script, add a mosaic shader when pause",
+    "version": "v0.1.15-alpha.6",
+    "author": "mpv-easy",
+    "download": "https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-easy-pause-mosaic.zip",
+    "homepage": "https://github.com/mpv-easy/mpv-easy/tree/main/mpv-easy-react/scripts/pause-mosaic.ts"
+  },
   "mpv-easy-thumbfast": {
     "name": "mpv-easy-thumbfast",
     "description": "mpv player thumbfast script",
@@ -1517,6 +1528,13 @@
     "description": "Instant, on-screen definitions for difficult or obscure words found in subtitles.",
     "author": "tripasect",
     "homepage": "https://github.com/tripasect/mpv-Subtitle-Definition"
+  },
+  "mpv.net": {
+    "name": "mpv.net",
+    "download": "https://github.com/mpvnet-player/mpv.net/releases/download/v7.1.1.0/mpv.net-v7.1.1.0-portable.zip",
+    "description": "mpv.net is a media player for Windows with a modern GUI.",
+    "author": "mpvnet-player",
+    "homepage": "https://github.com/mpvnet-player/mpv.net"
   },
   "mpv2anki alyssabedard": {
     "name": "mpv2anki alyssabedard",
@@ -1705,7 +1723,8 @@
     "version": "0.1.0",
     "description": "open-file-dialog is a script for mpv that can launch a regular Windows file open dialog from a key binding (default: Ctrl+O.)",
     "author": "rossy",
-    "download": "https://raw.githubusercontent.com/rossy/mpv-open-file-dialog/master/open-file-dialog.lua"
+    "download": "https://raw.githubusercontent.com/rossy/mpv-open-file-dialog/master/open-file-dialog.lua",
+    "update": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/open-file-dialog.meta.lua"
   },
   "open-imdb-page": {
     "name": "open-imdb-page",
@@ -2972,7 +2991,8 @@
     "version": "0.1.0",
     "description": "various audio visualization",
     "author": "mfcc64",
-    "download": "https://raw.githubusercontent.com/mfcc64/mpv-scripts/master/visualizer.lua"
+    "download": "https://raw.githubusercontent.com/mfcc64/mpv-scripts/master/visualizer.lua",
+    "update": "https://github.com/mpv-easy/mpsm-scripts/releases/latest/download/visualizer.meta.lua"
   },
   "vlc-aspect-ratio": {
     "name": "vlc-aspect-ratio",
