@@ -989,6 +989,13 @@
     "author": "CounterPillow",
     "homepage": "https://github.com/CounterPillow/mpv-gpufreq"
   },
+  "green-screen": {
+    "name": "green-screen",
+    "download": "https://github.com/ahaoboy/green-screen/blob/main/green-screen.js",
+    "description": "Display the green screen, which can be toggled on and off with the 'g' key",
+    "author": "ahaoboy",
+    "homepage": "https://github.com/ahaoboy/green-screen"
+  },
   "groupwatch_sync": {
     "name": "groupwatch_sync",
     "download": "https://github.com/po5/groupwatch_sync/archive/refs/heads/master.zip",
