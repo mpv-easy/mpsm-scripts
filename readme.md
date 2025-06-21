@@ -6,6 +6,9 @@ This repository is responsible for maintaining commonly used js scripts and maki
 
 https://github.com/mpv-easy/mpv-easy/blob/main/blog/Revolutionizing-mpv-Scripting-A-New-Package-Format-Proposal.md
 
+## MPV Scripts
+[MPV Scripts](./scripts-full.md)
+
 ## add a new script
 
 ### scripts.json
