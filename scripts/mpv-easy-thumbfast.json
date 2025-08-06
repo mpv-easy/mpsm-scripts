@@ -1,5 +1,6 @@
 {
   "name": "mpv-easy-thumbfast",
+  "scriptName": "thumbfast",
   "description": "mpv player thumbfast script",
   "author": "mpv-easy",
   "download": "https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-easy-thumbfast.zip",
