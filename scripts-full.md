@@ -210,6 +210,7 @@
 - [mpv-easy-crop](https://github.com/mpv-easy/mpv-easy/tree/main/mpv-crop): mpv player crop script
 - [mpv-easy-cut](https://github.com/mpv-easy/mpv-easy/tree/main/mpv-cut): mpv player cut script
 - [mpv-easy-pause-mosaic](https://github.com/mpv-easy/mpv-easy/tree/main/mpv-easy-react/scripts/pause-mosaic.ts): mpv player pause-mosaic script, add a mosaic shader when pause
+- [mpv-easy-piano](https://github.com/mpv-easy/mpv-easy/tree/main/mpv-easy-react/scripts/piano.ts): play piano in mpv player
 - [mpv-easy-thumbfast](https://github.com/mpv-easy/mpv-easy/tree/main/mpv-thumbfast): mpv player thumbfast script
 - [mpv-easy-translate](https://github.com/mpv-easy/mpv-easy/tree/main/mpv-translate): mpv player translation script
 - [mpv-easy](https://github.com/mpv-easy/mpv-easy): An easy-to-use UI implemented with js
