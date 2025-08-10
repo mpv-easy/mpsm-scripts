@@ -1545,6 +1545,13 @@
     "author": "tripasect",
     "homepage": "https://github.com/tripasect/mpv-Subtitle-Definition"
   },
+  "mpv-v8v7": {
+    "name": "mpv-v8v7",
+    "download": "https://github.com/ahaoboy/mpv-v8v7/archive/refs/heads/main.zip",
+    "description": "mpv-v8v7 test",
+    "author": "ahaoboy",
+    "homepage": "https://github.com/ahaoboy/mpv-v8v7"
+  },
   "mpv.net": {
     "name": "mpv.net",
     "download": "https://github.com/mpvnet-player/mpv.net/releases/download/v7.1.1.0/mpv.net-v7.1.1.0-portable.zip",

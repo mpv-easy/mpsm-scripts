@@ -219,6 +219,7 @@
 - [mpv-rpc](https://github.com/ryze312/mpv-rpc): Discord Rich Presence integration. Also displays cover art from MusicBrainz archive.
 - [mpv-slash-search](https://codeberg.org/Anakiev/mpv-slash-search): Simple and lightweight script that allows you to search for a file in the playlist and jump to the first match.
 - [mpv-Subtitle-Definition](https://github.com/tripasect/mpv-Subtitle-Definition): Instant, on-screen definitions for difficult or obscure words found in subtitles.
+- [mpv-v8v7](https://github.com/ahaoboy/mpv-v8v7): mpv-v8v7 test
 - [mpv.net](https://github.com/mpvnet-player/mpv.net): mpv.net is a media player for Windows with a modern GUI.
 - [mpv2anki alyssabedard](https://github.com/alyssabedard/mpv2anki): (Different script with Windows, macOS and Linux support) A simple script to assist your language learning journey in any language by automatically capturing multimedia content from mpv to Anki.
 - [mpv2anki SenneH](https://github.com/SenneH/mpv2anki): A simple way to add notes to Anki with Audio, screenshots and/or subtitles, with few dependencies.
