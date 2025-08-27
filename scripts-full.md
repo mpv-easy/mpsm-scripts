@@ -216,6 +216,7 @@
 - [mpv-easy](https://github.com/mpv-easy/mpv-easy): An easy-to-use UI implemented with js
 - [mpv-kscreen-doctor](https://gitlab.com/smaniottonicola/mpv-kscreen-doctor): Like the xrandr script automatically sets the display refresh rate to the one best suitable for the video played, works for KDE Plasma Wayland sessions.
 - [mpv-omniGlass](https://github.com/guarapicci/mpv-omniGlass): Touchpad gestures for mpv.
+- [mpv-pausesnap](https://github.com/wevilb/mpv-pausesnap): An MPV Lua script that automatically takes screenshots when you pause videos.
 - [mpv-rpc](https://github.com/ryze312/mpv-rpc): Discord Rich Presence integration. Also displays cover art from MusicBrainz archive.
 - [mpv-slash-search](https://codeberg.org/Anakiev/mpv-slash-search): Simple and lightweight script that allows you to search for a file in the playlist and jump to the first match.
 - [mpv-Subtitle-Definition](https://github.com/tripasect/mpv-Subtitle-Definition): Instant, on-screen definitions for difficult or obscure words found in subtitles.

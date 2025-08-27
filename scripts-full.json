@@ -1524,6 +1524,13 @@
     "author": "guarapicci",
     "homepage": "https://github.com/guarapicci/mpv-omniGlass"
   },
+  "mpv-pausesnap": {
+    "name": "mpv-pausesnap",
+    "download": "https://github.com/wevilb/mpv-pausesnap/archive/refs/heads/main.zip",
+    "description": "An MPV Lua script that automatically takes screenshots when you pause videos.",
+    "author": "wevilb",
+    "homepage": "https://github.com/wevilb/mpv-pausesnap"
+  },
   "mpv-rpc": {
     "name": "mpv-rpc",
     "download": "https://github.com/ryze312/mpv-rpc/archive/refs/heads/main.zip",

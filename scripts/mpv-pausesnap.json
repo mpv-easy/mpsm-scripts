@@ -1,0 +1,7 @@
+{
+  "name": "mpv-pausesnap",
+  "download": "https://github.com/wevilb/mpv-pausesnap/archive/refs/heads/main.zip",
+  "description": "An MPV Lua script that automatically takes screenshots when you pause videos.",
+  "author": "wevilb",
+  "homepage": "https://github.com/wevilb/mpv-pausesnap"
+}
