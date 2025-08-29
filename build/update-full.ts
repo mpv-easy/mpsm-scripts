@@ -13,8 +13,8 @@ for (const i of readdirSync(META_DIR)) {
   const json = JSON.parse(s)
   v[json.name] = json
 
-  md.push(`- [${json.name}](${json.homepage}): ${json.description}`)
+  md.push(`- [${json.name}](${json.homepage}): ${json.description}  [download](${json.download || json.homepage})`)
 }
 
 writeFileSync("./scripts-full.json", JSON.stringify(v, null, 2))
-writeFileSync("./scripts-full.md",md.join("\n"))
+writeFileSync("./scripts-full.md", md.join("\n"))
