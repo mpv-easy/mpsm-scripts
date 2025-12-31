@@ -1,0 +1,8 @@
+{
+  "name": "mpv-fsr",
+  "description": "mpv player FSR shader",
+  "version": "0.1.0",
+  "author": "mpv-easy",
+  "download": "https://github.com/ahaoboy/mpv-fsr/archive/refs/heads/main.zip",
+  "homepage": "https://github.com/ahaoboy/mpv-fsr.git"
+}
