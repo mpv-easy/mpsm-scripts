@@ -1423,6 +1423,15 @@
     "author": "mpv-android",
     "homepage": "https://github.com/mpv-android/mpv-android"
   },
+  "mpv-dialog": {
+    "name": "mpv-dialog",
+    "scriptName": "dialog",
+    "description": "mpv player dialog script",
+    "version": "0.1.0",
+    "author": "mpv-easy",
+    "download": "https://github.com/ahaoboy/mpv-dialog/archive/refs/heads/main.zip",
+    "homepage": "https://github.com/ahaoboy/mpv-dialog.git"
+  },
   "mpv-easy-anime4k": {
     "name": "mpv-easy-anime4k",
     "description": "mpv player anime4k script",
@@ -1527,6 +1536,7 @@
   },
   "mpv-menu": {
     "name": "mpv-menu",
+    "scriptName": "menu",
     "description": "mpv player menu script",
     "version": "0.1.0",
     "author": "mpv-easy",

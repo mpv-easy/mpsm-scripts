@@ -202,6 +202,7 @@
 - [ModernZ](https://github.com/Samillion/ModernZ): A fork of ModernX designed to enhance functionality by adding more features, all while preserving the core standards of mpv's OSC.  [download](https://github.com/Samillion/ModernZ/archive/refs/heads/main.zip)
 - [mpegts-truncate](https://github.com/hoehermann/mpv-mpegts-truncate): Removes beginning of MPEG TS file up to current position without re-writing the whole file.  [download](https://github.com/hoehermann/mpv-mpegts-truncate/archive/refs/heads/master.zip)
 - [mpv-android](https://github.com/mpv-android/mpv-android): For Android, based on Kotlin.  [download](https://github.com/mpv-android/mpv-android/archive/refs/heads/master.zip)
+- [mpv-dialog](https://github.com/ahaoboy/mpv-dialog.git): mpv player dialog script  [download](https://github.com/ahaoboy/mpv-dialog/archive/refs/heads/main.zip)
 - [mpv-easy-anime4k](https://github.com/mpv-easy/mpv-easy/tree/main/mpv-anime4k): mpv player anime4k script  [download](https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-easy-anime4k.zip)
 - [mpv-easy-autoload](https://github.com/mpv-easy/mpv-easy/tree/main/mpv-autoload): mpv player autoload script  [download](https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-easy-autoload.zip)
 - [mpv-easy-clipboard-play](https://github.com/mpv-easy/mpv-easy/tree/main/mpv-clipboard-play): mpv player clipboard-play script  [download](https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-easy-clipboard-play.zip)

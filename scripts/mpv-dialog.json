@@ -1,0 +1,9 @@
+{
+  "name": "mpv-dialog",
+  "scriptName": "dialog",
+  "description": "mpv player dialog script",
+  "version": "0.1.0",
+  "author": "mpv-easy",
+  "download": "https://github.com/ahaoboy/mpv-dialog/archive/refs/heads/main.zip",
+  "homepage": "https://github.com/ahaoboy/mpv-dialog.git"
+}

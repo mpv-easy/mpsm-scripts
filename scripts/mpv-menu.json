@@ -1,5 +1,6 @@
 {
   "name": "mpv-menu",
+  "scriptName": "menu",
   "description": "mpv player menu script",
   "version": "0.1.0",
   "author": "mpv-easy",
