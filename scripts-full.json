@@ -1510,6 +1510,14 @@
     "download": "https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-easy-windows.zip",
     "homepage": "https://github.com/mpv-easy/mpv-easy"
   },
+  "mpv-fsr": {
+    "name": "mpv-fsr",
+    "description": "mpv player FSR shader",
+    "version": "0.1.0",
+    "author": "mpv-easy",
+    "download": "https://github.com/mpv-easy/mpv-easy/archive/refs/heads/main.zip",
+    "homepage": "https://github.com/ahaoboy/mpv-fsr.git"
+  },
   "mpv-kscreen-doctor": {
     "name": "mpv-kscreen-doctor",
     "download": "https://gitlab.com/smaniottonicola/mpv-kscreen-doctor",
