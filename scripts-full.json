@@ -1515,7 +1515,7 @@
     "description": "mpv player FSR shader",
     "version": "0.1.0",
     "author": "mpv-easy",
-    "download": "https://github.com/mpv-easy/mpv-easy/archive/refs/heads/main.zip",
+    "download": "https://github.com/ahaoboy/mpv-fsr/archive/refs/heads/main.zip",
     "homepage": "https://github.com/ahaoboy/mpv-fsr.git"
   },
   "mpv-kscreen-doctor": {
@@ -1524,6 +1524,14 @@
     "description": "Like the xrandr script automatically sets the display refresh rate to the one best suitable for the video played, works for KDE Plasma Wayland sessions.",
     "author": " ",
     "homepage": "https://gitlab.com/smaniottonicola/mpv-kscreen-doctor"
+  },
+  "mpv-menu": {
+    "name": "mpv-menu",
+    "description": "mpv player menu script",
+    "version": "0.1.0",
+    "author": "mpv-easy",
+    "download": "https://github.com/ahaoboy/mpv-menu/archive/refs/heads/main.zip",
+    "homepage": "https://github.com/ahaoboy/mpv-menu.git"
   },
   "mpv-omniGlass": {
     "name": "mpv-omniGlass",
