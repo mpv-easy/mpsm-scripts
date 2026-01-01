@@ -1,0 +1,7 @@
+{
+  "name": "mpv-remote",
+  "description": "mpv player remote script",
+  "author": "mpv-easy",
+  "download": "https://github.com/mpv-easy/mpv-remote/releases/latest/download/mpv-remote.zip",
+  "homepage": "https://github.com/mpv-easy/mpv-easy/tree/main/mpv-remote"
+}

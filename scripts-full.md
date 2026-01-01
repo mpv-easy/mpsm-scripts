@@ -220,6 +220,7 @@
 - [mpv-menu](https://github.com/ahaoboy/mpv-menu.git): mpv player menu script  [download](https://github.com/ahaoboy/mpv-menu/archive/refs/heads/main.zip)
 - [mpv-omniGlass](https://github.com/guarapicci/mpv-omniGlass): Touchpad gestures for mpv.  [download](https://github.com/guarapicci/mpv-omniGlass/archive/refs/heads/main.zip)
 - [mpv-pausesnap](https://github.com/wevilb/mpv-pausesnap): An MPV Lua script that automatically takes screenshots when you pause videos.  [download](https://github.com/wevilb/mpv-pausesnap/archive/refs/heads/main.zip)
+- [mpv-remote](https://github.com/mpv-easy/mpv-easy/tree/main/mpv-remote): mpv player remote script  [download](https://github.com/mpv-easy/mpv-remote/releases/latest/download/mpv-remote.zip)
 - [mpv-rpc](https://github.com/ryze312/mpv-rpc): Discord Rich Presence integration. Also displays cover art from MusicBrainz archive.  [download](https://github.com/ryze312/mpv-rpc/archive/refs/heads/main.zip)
 - [mpv-slash-search](https://codeberg.org/Anakiev/mpv-slash-search): Simple and lightweight script that allows you to search for a file in the playlist and jump to the first match.  [download](https://codeberg.org/Anakiev/mpv-slash-search)
 - [mpv-Subtitle-Definition](https://github.com/tripasect/mpv-Subtitle-Definition): Instant, on-screen definitions for difficult or obscure words found in subtitles.  [download](https://github.com/tripasect/mpv-Subtitle-Definition/archive/refs/heads/main.zip)

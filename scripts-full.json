@@ -1557,6 +1557,13 @@
     "author": "wevilb",
     "homepage": "https://github.com/wevilb/mpv-pausesnap"
   },
+  "mpv-remote": {
+    "name": "mpv-remote",
+    "description": "mpv player remote script",
+    "author": "mpv-easy",
+    "download": "https://github.com/mpv-easy/mpv-remote/releases/latest/download/mpv-remote.zip",
+    "homepage": "https://github.com/mpv-easy/mpv-easy/tree/main/mpv-remote"
+  },
   "mpv-rpc": {
     "name": "mpv-rpc",
     "download": "https://github.com/ryze312/mpv-rpc/archive/refs/heads/main.zip",
