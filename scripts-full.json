@@ -1495,7 +1495,7 @@
     "version": "v0.1.15-alpha.6",
     "author": "mpv-easy",
     "download": "https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-easy-piano.zip",
-    "homepage": "https://github.com/mpv-easy/mpv-easy/tree/main/mpv-easy-react/scripts/piano.ts"
+    "homepage": "https://github.com/mpv-easy/mpv-easy/tree/main/mpv-easy-react/scripts/piano.tsx"
   },
   "mpv-easy-thumbfast": {
     "name": "mpv-easy-thumbfast",
@@ -1511,6 +1511,14 @@
     "author": "mpv-easy",
     "download": "https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-easy-translate.zip",
     "homepage": "https://github.com/mpv-easy/mpv-easy/tree/main/mpv-translate"
+  },
+  "mpv-easy-whisper": {
+    "name": "mpv-easy-whisper",
+    "description": "mpv player whisper script",
+    "version": "0.1.15-alpha.17",
+    "author": "mpv-easy",
+    "download": "https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-easy-whisper.zip",
+    "homepage": "https://github.com/mpv-easy/mpv-easy/tree/main/mpv-easy-react/scripts/whisper.ts"
   },
   "mpv-easy": {
     "name": "mpv-easy",
