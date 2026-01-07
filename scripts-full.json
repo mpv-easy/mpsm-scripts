@@ -750,6 +750,13 @@
     "author": "noaione",
     "homepage": "https://github.com/noaione/mpv-discordRPC"
   },
+  "dkjson": {
+    "name": "dkjson",
+    "download": "https://dkolf.de/dkjson-lua/dkjson-2.8.lua",
+    "description": "This is a JSON module written in Lua. It supports UTF-8.",
+    "author": "dkolf.de",
+    "homepage": "https://dkolf.de/dkjson-lua"
+  },
   "DLNAmpvRenderer": {
     "name": "DLNAmpvRenderer",
     "download": "https://github.com/PCigales/DLNAmpvRenderer/archive/refs/heads/master.zip",
