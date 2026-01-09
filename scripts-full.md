@@ -211,6 +211,7 @@
 - [mpv-easy-copy-time](https://github.com/mpv-easy/mpv-easy/tree/main/mpv-copy-time): mpv player copy-time script  [download](https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-easy-copy-time.zip)
 - [mpv-easy-crop](https://github.com/mpv-easy/mpv-easy/tree/main/mpv-crop): mpv player crop script  [download](https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-easy-crop.zip)
 - [mpv-easy-cut](https://github.com/mpv-easy/mpv-easy/tree/main/mpv-cut): mpv player cut script  [download](https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-easy-cut.zip)
+- [mpv-easy-frame-seeker](https://github.com/mpv-easy/mpv-easy/tree/main/mpv-frame-seeker): mpv player frame-seeker script  [download](https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-easy-frame-seeker.zip)
 - [mpv-easy-pause-mosaic](https://github.com/mpv-easy/mpv-easy/tree/main/mpv-easy-react/scripts/pause-mosaic.ts): mpv player pause-mosaic script, add a mosaic shader when pause  [download](https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-easy-pause-mosaic.zip)
 - [mpv-easy-piano](https://github.com/mpv-easy/mpv-easy/tree/main/mpv-easy-react/scripts/piano.tsx): play piano in mpv player  [download](https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-easy-piano.zip)
 - [mpv-easy-thumbfast](https://github.com/mpv-easy/mpv-easy/tree/main/mpv-thumbfast): mpv player thumbfast script  [download](https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-easy-thumbfast.zip)
