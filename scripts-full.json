@@ -220,10 +220,10 @@
   },
   "betterchapters": {
     "name": "betterchapters",
-    "download": "https://gist.github.com/Hakkin/4f978a5c87c31f7fe3ae) ([update](https://github.com/mpv-player/mpv/issues/4738#issuecomment-321298846)",
+    "download": "https://gist.github.com/Hakkin/4f978a5c87c31f7fe3ae",
     "description": "Loads the next or previous playlist entry if there are no more chapters in the seek direction.",
     "author": "Hakkin",
-    "homepage": "https://gist.github.com/Hakkin/4f978a5c87c31f7fe3ae) ([update](https://github.com/mpv-player/mpv/issues/4738#issuecomment-321298846)"
+    "homepage": "https://gist.github.com/Hakkin/4f978a5c87c31f7fe3ae"
   },
   "blackout": {
     "name": "blackout",
@@ -1452,6 +1452,14 @@
     "author": "mpv-easy",
     "download": "https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-easy-autoload.zip",
     "homepage": "https://github.com/mpv-easy/mpv-easy/tree/main/mpv-autoload"
+  },
+  "mpv-easy-betterchapters": {
+    "name": "mpv-easy-betterchapters",
+    "description": "mpv player betterchapters script",
+    "version": "0.1.15-alpha.17",
+    "author": "mpv-easy",
+    "download": "https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-easy-betterchapters.zip",
+    "homepage": "https://github.com/mpv-easy/mpv-easy/blob/main/mpv-easy-react/scripts/betterchapters.ts"
   },
   "mpv-easy-clipboard-play": {
     "name": "mpv-easy-clipboard-play",
