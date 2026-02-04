@@ -1504,6 +1504,14 @@
     "download": "https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-easy-frame-seeker.zip",
     "homepage": "https://github.com/mpv-easy/mpv-easy/tree/main/mpv-frame-seeker"
   },
+  "mpv-easy-notify-skip": {
+    "name": "mpv-easy-notify-skip",
+    "description": "mpv player chapter skip notification script",
+    "version": "0.1.15-alpha.17",
+    "author": "mpv-easy",
+    "download": "https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-easy-notify-skip.zip",
+    "homepage": "https://github.com/mpv-easy/mpv-easy/tree/main/mpv-notify-skip"
+  },
   "mpv-easy-pause-mosaic": {
     "name": "mpv-easy-pause-mosaic",
     "description": "mpv player pause-mosaic script, add a mosaic shader when pause",
@@ -1519,6 +1527,14 @@
     "author": "mpv-easy",
     "download": "https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-easy-piano.zip",
     "homepage": "https://github.com/mpv-easy/mpv-easy/tree/main/mpv-easy-react/scripts/piano.tsx"
+  },
+  "mpv-easy-pip": {
+    "name": "mpv-easy-pip",
+    "description": "mpv player picture-in-picture (PiP) mode script",
+    "version": "0.1.15-alpha.17",
+    "author": "mpv-easy",
+    "download": "https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-easy-pip.zip",
+    "homepage": "https://github.com/mpv-easy/mpv-easy"
   },
   "mpv-easy-thumbfast": {
     "name": "mpv-easy-thumbfast",
