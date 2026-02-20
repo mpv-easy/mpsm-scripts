@@ -221,6 +221,7 @@
 - [mpv-easy-thumbfast](https://github.com/mpv-easy/mpv-easy/tree/main/mpv-thumbfast): mpv player thumbfast script  [download](https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-easy-thumbfast.zip)
 - [mpv-easy-translate](https://github.com/mpv-easy/mpv-easy/tree/main/mpv-translate): mpv player translation script  [download](https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-easy-translate.zip)
 - [mpv-easy-whisper](https://github.com/mpv-easy/mpv-easy/tree/main/mpv-easy-react/scripts/whisper.ts): mpv player whisper script  [download](https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-easy-whisper.zip)
+- [mpv-easy-youtube](https://github.com/mpv-easy/mpv-easy/tree/main/mpv-youtube): mpv player YouTube recommendations script  [download](https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-easy-youtube.zip)
 - [mpv-easy](https://github.com/mpv-easy/mpv-easy): An easy-to-use UI implemented with js  [download](https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-easy-windows.zip)
 - [mpv-fsr](https://github.com/ahaoboy/mpv-fsr.git): mpv player FSR shader  [download](https://github.com/ahaoboy/mpv-fsr/archive/refs/heads/main.zip)
 - [mpv-kscreen-doctor](https://gitlab.com/smaniottonicola/mpv-kscreen-doctor): Like the xrandr script automatically sets the display refresh rate to the one best suitable for the video played, works for KDE Plasma Wayland sessions.  [download](https://gitlab.com/smaniottonicola/mpv-kscreen-doctor)
