@@ -212,6 +212,7 @@
 - [mpv-easy-copy-time](https://github.com/mpv-easy/mpv-easy/tree/main/mpv-copy-time): mpv player copy-time script  [download](https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-easy-copy-time.zip)
 - [mpv-easy-crop](https://github.com/mpv-easy/mpv-easy/tree/main/mpv-crop): mpv player crop script  [download](https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-easy-crop.zip)
 - [mpv-easy-cut](https://github.com/mpv-easy/mpv-easy/tree/main/mpv-cut): mpv player cut script  [download](https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-easy-cut.zip)
+- [mpv-easy-firacode](https://github.com/ahaoboy/mpv-firacode): mpv firacode font  [download](https://github.com/ahaoboy/mpv-firacode)
 - [mpv-easy-frame-seeker](https://github.com/mpv-easy/mpv-easy/tree/main/mpv-frame-seeker): mpv player frame-seeker script  [download](https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-easy-frame-seeker.zip)
 - [mpv-easy-mandelbrot](https://github.com/mpv-easy/mpv-easy/tree/main/mpv-easy-react/scripts/mandelbrot.ts): mpv player interactive Mandelbrot fractal shader script, toggle with 'f' key, zoom with mouse wheel or arrow keys  [download](https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-easy-mandelbrot.zip)
 - [mpv-easy-notify-skip](https://github.com/mpv-easy/mpv-easy/tree/main/mpv-notify-skip): mpv player chapter skip notification script  [download](https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-easy-notify-skip.zip)
