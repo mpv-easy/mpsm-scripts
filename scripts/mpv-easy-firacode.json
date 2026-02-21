@@ -1,0 +1,8 @@
+{
+  "name": "mpv-easy-firacode",
+  "description": "mpv firacode font",
+  "version": "0.1.15-alpha.17",
+  "author": "mpv-easy",
+  "download": "https://github.com/ahaoboy/mpv-firacode/archive/refs/heads/main.zip",
+  "homepage": "https://github.com/ahaoboy/mpv-firacode"
+}
