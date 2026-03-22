@@ -51,6 +51,8 @@ Commit your changes and submit a PR.
 
 run ci https://github.com/mpv-easy/mpv-easy-cdn/actions/workflows/update.yml on dev branch
 
+> **Note:** After the script is added, the CDN repository [mpv-easy-cdn](https://github.com/ahaoboy/mpv-easy-cdn) will automatically update `scripts-full.json` daily, fetching the latest script content based on the download links.
+
 
 ## web
 
