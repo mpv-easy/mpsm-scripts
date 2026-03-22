@@ -11,32 +11,45 @@ https://github.com/mpv-easy/mpv-easy/blob/main/blog/Revolutionizing-mpv-Scriptin
 
 ## add a new script
 
-### scripts.json
-Add script.json directly to the [scripts](./scripts)
+### 1. create a script description file
+
+Create a new JSON file in the [scripts](./scripts) folder, using the script name as the filename (e.g. `thumbfast.json`).
+
+The file content should follow this format:
+
 ```json
 {
-  "name": "green-screen",
-  "download": "https://github.com/ahaoboy/green-screen/blob/main/green-screen.js",
-  "description": "Display the green screen, which can be toggled on and off with the 'g' key",
-  "author": "ahaoboy",
-  "homepage": "https://github.com/ahaoboy/green-screen"
+  "name": "thumbfast",
+  "download": "https://github.com/po5/thumbfast/archive/refs/heads/master.zip",
+  "description": "High-performance on-the-fly thumbnailer for mpv.",
+  "author": "po5",
+  "homepage": "https://github.com/po5/thumbfast"
 }
 ```
 
-### run update command
+The `download` field supports the following link formats:
+
+- **GitHub ZIP**: `https://github.com/{owner}/{repo}/archive/refs/heads/{branch}.zip`
+- **GitHub Gist**: `https://gist.github.com/{owner}/{gist_id}`
+- **GitHub Release**: `https://github.com/{owner}/{repo}/releases/download/{tag}/{filename}`
+
+> **Note:** The script file name should be consistent with the script name in meta, in order to avoid problems in some extreme cases. If you encounter problems, please open an issue.
+
+### 2. run update command
 
 ```bash
 npm run update:full
 ```
 
-### udpate cdn
+This will automatically update all related documentation.
+
+### 3. submit your changes
+
+Commit your changes and submit a PR.
+
+### update cdn
 
 run ci https://github.com/mpv-easy/mpv-easy-cdn/actions/workflows/update.yml on dev branch
-
-
-### script name
-
-The script file name should be consistent with the script name in meta, in order to avoid problems in some extreme cases. If you encounter problems, please open an issue
 
 
 ## web
