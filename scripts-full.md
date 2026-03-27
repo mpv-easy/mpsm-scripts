@@ -198,6 +198,7 @@
 - [minesweeper](https://github.com/wiiaboo/mpv-scripts/blob/master/mines.lua): Minesweeper game.  [download](https://raw.githubusercontent.com/wiiaboo/mpv-scripts/master/mines.lua)
 - [misc](https://github.com/stax76/mpv-scripts): Restart mpv restoring the properties path, time-pos, pause and volume.  [download](https://github.com/stax76/mpv-scripts/archive/refs/heads/main.zip)
 - [modern-x-compact](https://github.com/1-minute-to-midnight/mpv-modern-x-compact): Compact version of modern-x.  [download](https://github.com/1-minute-to-midnight/mpv-modern-x-compact/archive/refs/heads/main.zip)
+- [ModernH](https://github.com/HarkeshBhatia/ModernH): A refined ModernX fork for mpv featuring a custom OSC, chapter & playlist buttons, cleaner audio/subtitle/playlist/chapter menus, and a cinematic dark UI.  [download](https://github.com/HarkeshBhatia/ModernH/archive/refs/heads/master.zip)
 - [ModernX cyl0](https://github.com/cyl0/ModernX): Modern OSC replacement.  [download](https://github.com/cyl0/ModernX/archive/refs/heads/main.zip)
 - [ModernX zydezu](https://github.com/zydezu/ModernX): A fork of ModernX with many additional features and customization.  [download](https://github.com/zydezu/ModernX/archive/refs/heads/main.zip)
 - [ModernZ](https://github.com/Samillion/ModernZ): A fork of ModernX designed to enhance functionality by adding more features, all while preserving the core standards of mpv's OSC.  [download](https://github.com/Samillion/ModernZ/archive/refs/heads/main.zip)

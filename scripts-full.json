@@ -1395,6 +1395,13 @@
     "author": "1-minute-to-midnight",
     "homepage": "https://github.com/1-minute-to-midnight/mpv-modern-x-compact"
   },
+  "ModernH": {
+    "name": "ModernH",
+    "download": "https://github.com/HarkeshBhatia/ModernH/archive/refs/heads/master.zip",
+    "description": "A refined ModernX fork for mpv featuring a custom OSC, chapter & playlist buttons, cleaner audio/subtitle/playlist/chapter menus, and a cinematic dark UI.",
+    "author": "HarkeshBhatia",
+    "homepage": "https://github.com/HarkeshBhatia/ModernH"
+  },
   "ModernX cyl0": {
     "name": "ModernX cyl0",
     "download": "https://github.com/cyl0/ModernX/archive/refs/heads/main.zip",
