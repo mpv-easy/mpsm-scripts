@@ -1,6 +1,6 @@
 {
   "name": "ModernH",
-  "download": "https://github.com/HarkeshBhatia/ModernH/archive/refs/heads/master.zip",
+  "download": "https://github.com/HarkeshBhatia/ModernH/archive/refs/heads/main.zip",
   "description": "A refined ModernX fork for mpv featuring a custom OSC, chapter & playlist buttons, cleaner audio/subtitle/playlist/chapter menus, and a cinematic dark UI.",
   "author": "HarkeshBhatia",
   "homepage": "https://github.com/HarkeshBhatia/ModernH"

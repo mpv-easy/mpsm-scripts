@@ -1,0 +1,7 @@
+{
+  "name": "hold-to-speedup",
+  "download": "https://github.com/iiiGerardoiii/mpv-hold-to-speedup/archive/refs/heads/main.zip",
+  "description": "An MPV script that speeds up the video when left-click or spacebar is held for 0.5 seconds and reverts it to normal speed when released.",
+  "author": "iiiGerardoiii",
+  "homepage": "https://github.com/iiiGerardoiii/mpv-hold-to-speedup"
+}

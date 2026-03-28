@@ -1045,6 +1045,13 @@
     "author": " ",
     "homepage": "http://git.smrk.net/mpv-scripts/file/history.lua.html"
   },
+  "hold-to-speedup": {
+    "name": "hold-to-speedup",
+    "download": "https://github.com/iiiGerardoiii/mpv-hold-to-speedup/archive/refs/heads/main.zip",
+    "description": "An MPV script that speeds up the video when left-click or spacebar is held for 0.5 seconds and reverts it to normal speed when released.",
+    "author": "iiiGerardoiii",
+    "homepage": "https://github.com/iiiGerardoiii/mpv-hold-to-speedup"
+  },
   "http-ytproxy": {
     "name": "http-ytproxy",
     "download": "https://gist.github.com/ftk/253347b2c9a53bbd6087f086970106b6",
@@ -1397,7 +1404,7 @@
   },
   "ModernH": {
     "name": "ModernH",
-    "download": "https://github.com/HarkeshBhatia/ModernH/archive/refs/heads/master.zip",
+    "download": "https://github.com/HarkeshBhatia/ModernH/archive/refs/heads/main.zip",
     "description": "A refined ModernX fork for mpv featuring a custom OSC, chapter & playlist buttons, cleaner audio/subtitle/playlist/chapter menus, and a cinematic dark UI.",
     "author": "HarkeshBhatia",
     "homepage": "https://github.com/HarkeshBhatia/ModernH"
