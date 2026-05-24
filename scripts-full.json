@@ -421,14 +421,6 @@
     "author": "ento",
     "homepage": "https://github.com/ento/mpv-cheatsheet"
   },
-  "mpv-easy-clearurls": {
-    "name": "mpv-easy-clearurls",
-    "description": "mpv player URL tracking parameter cleaner script",
-    "version": "0.1.15-alpha.20",
-    "author": "mpv-easy",
-    "download": "https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-easy-clearurls.zip",
-    "homepage": "https://github.com/mpv-easy/mpv-easy/tree/main/mpv-clearurls"
-  },
   "clipboard": {
     "name": "clipboard",
     "download": "https://github.com/CogentRedTester/mpv-clipboard/archive/refs/heads/master.zip",
@@ -1483,6 +1475,14 @@
     "download": "https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-easy-betterchapters.zip",
     "homepage": "https://github.com/mpv-easy/mpv-easy/blob/main/mpv-easy-react/scripts/betterchapters.ts"
   },
+  "mpv-easy-clearurls": {
+    "name": "mpv-easy-clearurls",
+    "description": "mpv player URL tracking parameter cleaner script",
+    "version": "0.1.15-alpha.20",
+    "author": "mpv-easy",
+    "download": "https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-easy-clearurls.zip",
+    "homepage": "https://github.com/mpv-easy/mpv-easy/tree/main/mpv-clearurls"
+  },
   "mpv-easy-clipboard-play": {
     "name": "mpv-easy-clipboard-play",
     "description": "mpv player clipboard-play script",
@@ -1541,6 +1541,14 @@
     "author": "mpv-easy",
     "download": "https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-easy-mandelbrot.zip",
     "homepage": "https://github.com/mpv-easy/mpv-easy/tree/main/mpv-easy-react/scripts/mandelbrot.ts"
+  },
+  "mpv-easy-mount": {
+    "name": "mpv-easy-mount",
+    "description": "Quickly mount local directories, m3u playlists, and WebDAV remotes via keyboard shortcuts",
+    "version": "0.1.15-alpha.20",
+    "author": "mpv-easy",
+    "download": "https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-easy-mount.zip",
+    "homepage": "https://github.com/mpv-easy/mpv-easy/tree/main/mpv-mount"
   },
   "mpv-easy-notify-skip": {
     "name": "mpv-easy-notify-skip",
