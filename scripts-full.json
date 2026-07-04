@@ -1534,6 +1534,14 @@
     "download": "https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-easy-frame-seeker.zip",
     "homepage": "https://github.com/mpv-easy/mpv-easy/tree/main/mpv-frame-seeker"
   },
+  "mpv-easy-m3u": {
+    "name": "mpv-easy-m3u",
+    "description": "Auto-load subtitle references from M3U/M3U8 playlists",
+    "version": "0.1.0",
+    "author": "mpv-easy",
+    "download": "https://github.com/mpv-easy/mpv-easy/releases/latest/download/mpv-easy-m3u.zip",
+    "homepage": "https://github.com/mpv-easy/mpv-easy/tree/main/mpv-m3u"
+  },
   "mpv-easy-mandelbrot": {
     "name": "mpv-easy-mandelbrot",
     "description": "mpv player interactive Mandelbrot fractal shader script, toggle with 'f' key, zoom with mouse wheel or arrow keys",
