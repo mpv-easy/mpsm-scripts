@@ -1325,6 +1325,13 @@
     "author": "Dudemanguy",
     "homepage": "https://github.com/Dudemanguy/mpv-manga-reader"
   },
+  "material-osc": {
+    "name": "material-osc",
+    "download": "https://github.com/brahmkshatriya/material-osc/releases/download/0.0.4/material-osc-0.0.4.zip",
+    "description": "Quality of life OSC for MPV",
+    "author": "brahmkshatriya",
+    "homepage": "https://github.com/brahmkshatriya/material-osc"
+  },
   "matroska-crop": {
     "name": "matroska-crop",
     "download": "https://github.com/sbruder/mpv-matroska-crop/archive/refs/heads/master.zip",
