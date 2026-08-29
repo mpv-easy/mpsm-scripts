@@ -1,0 +1,8 @@
+{
+  "name": "mpv-vapoursynth",
+  "description": "mpv vapoursynth script",
+  "version": "0.1.0",
+  "author": "mpv-vapoursynth",
+  "download": "https://github.com/ahaoboy/mpv-vapoursynth/releases/latest/download/mpv-vapoursynth.tar.xz",
+  "homepage": "https://github.com/ahaoboy/mpv-vapoursynth"
+}
