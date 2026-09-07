@@ -1460,6 +1460,14 @@
     "download": "https://github.com/ahaoboy/mpv-dialog/archive/refs/heads/main.zip",
     "homepage": "https://github.com/ahaoboy/mpv-dialog.git"
   },
+  "mpv-dlss5": {
+    "name": "mpv-dlss5",
+    "description": "mpv dlss5 script",
+    "version": "0.1.0",
+    "author": "ahaoboy",
+    "download": "https://github.com/ahaoboy/mpv-dlss5/releases/latest/download/mpv-dlss5.zip",
+    "homepage": "https://github.com/ahaoboy/mpv-dlss5"
+  },
   "mpv-easy-anime4k": {
     "name": "mpv-easy-anime4k",
     "description": "mpv player anime4k script",
@@ -1687,6 +1695,14 @@
     "author": "mpv-easy",
     "download": "https://github.com/mpv-easy/mpv-remote/releases/latest/download/mpv-remote.zip",
     "homepage": "https://github.com/mpv-easy/mpv-easy/tree/main/mpv-remote"
+  },
+  "mpv-reshade": {
+    "name": "mpv-reshade",
+    "description": "mpv reshade script",
+    "version": "0.1.0",
+    "author": "ahaoboy",
+    "download": "https://github.com/ahaoboy/mpv-reshade/releases/latest/download/mpv-reshade.zip",
+    "homepage": "https://github.com/ahaoboy/mpv-reshade"
   },
   "mpv-rpc": {
     "name": "mpv-rpc",

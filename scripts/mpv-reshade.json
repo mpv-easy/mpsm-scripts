@@ -1,0 +1,8 @@
+{
+  "name": "mpv-reshade",
+  "description": "mpv reshade script",
+  "version": "0.1.0",
+  "author": "ahaoboy",
+  "download": "https://github.com/ahaoboy/mpv-reshade/releases/latest/download/mpv-reshade.zip",
+  "homepage": "https://github.com/ahaoboy/mpv-reshade"
+}
