@@ -1,0 +1,8 @@
+{
+  "name": "mpv-python-test",
+  "description": "mpv python test script",
+  "version": "0.1.0",
+  "author": "ahaoboy",
+  "download": "https://github.com/ahaoboy/mpv-python/releases/latest/download/mpv-python-test.zip",
+  "homepage": "https://github.com/ahaoboy/mpv-python"
+}

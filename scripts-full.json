@@ -1689,6 +1689,30 @@
     "author": "wevilb",
     "homepage": "https://github.com/wevilb/mpv-pausesnap"
   },
+  "mpv-python-test": {
+    "name": "mpv-python-test",
+    "description": "mpv python test script",
+    "version": "0.1.0",
+    "author": "ahaoboy",
+    "download": "https://github.com/ahaoboy/mpv-python/releases/latest/download/mpv-python-test.zip",
+    "homepage": "https://github.com/ahaoboy/mpv-python"
+  },
+  "mpv-python313": {
+    "name": "mpv-python313",
+    "description": "mpv python",
+    "version": "0.1.0",
+    "author": "ahaoboy",
+    "download": "https://github.com/ahaoboy/mpv-vapoursynth/releases/latest/download/mpv-python313.zip",
+    "homepage": "https://github.com/ahaoboy/mpv-python"
+  },
+  "mpv-python314": {
+    "name": "mpv-python314",
+    "description": "mpv python",
+    "version": "0.1.0",
+    "author": "ahaoboy",
+    "download": "https://github.com/ahaoboy/mpv-vapoursynth/releases/latest/download/mpv-python314.zip",
+    "homepage": "https://github.com/ahaoboy/mpv-python"
+  },
   "mpv-remote": {
     "name": "mpv-remote",
     "description": "mpv player remote script",
