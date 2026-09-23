@@ -13,13 +13,11 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - uses: pnpm/action-setup@v4
-        with:
-          version: 10
+      - uses: oven-sh/setup-bun@v2
       - name: "build ts"
         run: |
-          pnpm i
-          pnpm run build
+          bun i
+          bun run build
 
           mkdir -p ./release
           cp ./scripts/* ./release/

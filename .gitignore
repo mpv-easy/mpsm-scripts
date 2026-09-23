@@ -1,3 +1,5 @@
+bun.lock
+pnpm-workspace.yaml
 # Logs
 dist
 es5

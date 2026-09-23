@@ -1764,6 +1764,13 @@
     "download": "https://github.com/ahaoboy/mpv-vapoursynth/releases/latest/download/mpv-vapoursynth.zip",
     "homepage": "https://github.com/ahaoboy/mpv-vapoursynth"
   },
+  "mpv-youtube-search": {
+    "name": "mpv-youtube-search",
+    "download": "https://github.com/Lunedor/mpv-youtube-search/archive/refs/heads/main.zip",
+    "description": "A mpv Lua script that searches YouTube with yt-dlp, displays the results in a selectable grid, loads thumbnails, and plays or queues the selected video.",
+    "author": "Lunedor",
+    "homepage": "https://github.com/Lunedor/mpv-youtube-search"
+  },
   "mpv.net": {
     "name": "mpv.net",
     "download": "https://github.com/mpvnet-player/mpv.net/releases/download/v7.1.1.0/mpv.net-v7.1.1.0-portable.zip",
